@@ -5,3 +5,4 @@
 - **2026-04-13**: Ingested `Çetinkaya and Sürücü - 2025.md`. Created source page and [[digital-organizational-culture]]. Updated [[digital-leadership]], [[innovative-work-behavior]], index, and log.
 - **2026-04-14**: Ingested `Erhan et al. - 2022.md`. Created source page [[erhan-et-al-2022]]. Updated [[digital-leadership]], [[innovative-work-behavior]], index, and log.
 - **2026-04-14**: Ingested `Gao and Gao - 2024.md`. Created source page [[gao-and-gao-2024]]. Created [[psychological-empowerment]], [[affective-commitment]], [[proactive-personality]], and [[cognitive-affective-processing-system]]. Updated [[digital-leadership]], [[innovative-work-behavior]], index, and log.
+- **2026-04-14**: Ingested `Hastiti et al. - 2025.md`. Created source page [[hastiti-et-al-2025]]. Created [[intrinsic-motivation]], [[problem-solving-creativity]], and [[social-role-theory]]. Updated [[digital-leadership]], [[innovative-work-behavior]], index, and log.

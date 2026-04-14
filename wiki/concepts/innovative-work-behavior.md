@@ -9,7 +9,7 @@ updated: 2026-04-13
 
 **Summary**: The ability of individuals to generate, promote, and implement new and valuable ideas for an organization.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Erhan et al. - 2022.md, Gao and Gao - 2024.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Erhan et al. - 2022.md, Gao and Gao - 2024.md, Hastiti et al. - 2025.md
 
 ---
 
@@ -24,6 +24,8 @@ Among Generation Z workers with organizational experience, IWB is positively pre
 Additionally, research demonstrates that IWB is the ultimate outcome of a sequential process initiated by [[digital-leadership]], driven specifically through enhanced [[learning-orientation]] and practical [[innovation-capabilities]]. Employees with accumulated expertise are more equipped to independently generate and implement new solutions (source: Ahmed et al. - 2024.md, p. 3615).
 
 Furthermore, a strong [[digital-organizational-culture]] acts as a vital catalyst for translating ideas into reality. When the environment values experimentation and provides psychological safety, employees feel empowered to take calculated risks (source: Çetinkaya and Sürücü - 2025.md, p. 242).
+
+In the education sector, digital leadership is shown to drive IWB indirectly through enhancing [[intrinsic-motivation]]. However, cultivating [[problem-solving-creativity]] alone does not always have a directly significant effect on IWB without complementary organizational backing (source: Hastiti et al. - 2025.md, p. 51).
 
 Viewing this from a [[cognitive-affective-processing-system]] perspective, IWB is stimulated when leaders successfully trigger cognitive and emotional mechanisms. [[psychological-empowerment]] has been identified as a significant cognitive mediator translating digital leadership into innovation. However, traits like a [[proactive-personality]] may not moderate this significantly, as proactive employees tend to naturally innovate regardless of external leadership backing (source: Gao and Gao - 2024.md, p. 20-21).
 
@@ -43,3 +45,5 @@ Viewing this from a [[cognitive-affective-processing-system]] perspective, IWB i
 - [[cognitive-affective-processing-system]]
 - [[psychological-empowerment]]
 - [[proactive-personality]]
+- [[intrinsic-motivation]]
+- [[problem-solving-creativity]]

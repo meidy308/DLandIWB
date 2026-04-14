@@ -9,7 +9,7 @@ updated: 2026-04-13
 
 **Summary**: A leadership style that maximizes technology integration, adaptability, and fosters a digital work climate to encourage innovation.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Erhan et al. - 2022.md, Gao and Gao - 2024.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Erhan et al. - 2022.md, Gao and Gao - 2024.md, Hastiti et al. - 2025.md
 
 ---
 
@@ -19,6 +19,7 @@ It has a positive and significant effect on [[innovative-work-behavior]]. A digi
 - It fast-tracks a [[learning-orientation]] among employees which then fosters their [[innovation-capabilities]] to realize novel solutions (source: Ahmed et al. - 2024.md, p. 3609-3610). 
 - It actively shapes a [[digital-organizational-culture]] that values agility, teamwork, and ongoing adaptation (source: Çetinkaya and Sürücü - 2025.md, p. 242-243).
 - It acts through the [[cognitive-affective-processing-system]], elevating an employee's cognitive [[psychological-empowerment]], which acts as a primary mediator in driving innovation (source: Gao and Gao - 2024.md, p. 20).
+- It positively influences [[intrinsic-motivation]], which acts as an indirect driver of innovation. Interestingly, while it also enhances [[problem-solving-creativity]], this creativity may not translate directly into overarching innovative behavior without other supports. Following [[social-role-theory]], this effect on motivation and creativity is notably stronger for women (source: Hastiti et al. - 2025.md, p. 51-52).
 
 The positive effect of digital leadership on learning orientation is significantly amplified when there is a high-quality [[leader-member-exchange]] (LMX) between the leader and their members (source: Ahmed et al. - 2024.md, p. 3620).
 
@@ -37,3 +38,6 @@ The positive effect of digital leadership on learning orientation is significant
 - [[cognitive-affective-processing-system]]
 - [[psychological-empowerment]]
 - [[affective-commitment]]
+- [[intrinsic-motivation]]
+- [[problem-solving-creativity]]
+- [[social-role-theory]]
