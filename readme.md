@@ -5,6 +5,8 @@ This repository contains a structured, interlinked knowledge base for research o
 
 It is maintained using the **LLM Wiki pattern** (based on Andrej Karpathy's approach). In this workflow, an AI assistant maintains the markdown wiki pages, while the human user curates sources, asks questions, and guides the analysis.
 
+> **Note**: Because this wiki relies heavily on internal `[[wiki-links]]` for navigation, it is best viewed using the **[Obsidian](https://obsidian.md/)** software.
+
 ## Repository Structure
 - `raw/`: Contains source documents and research papers. This directory is immutable; source files are never modified. 
 - `wiki/`: Contains the markdown pages that form the knowledge base.
