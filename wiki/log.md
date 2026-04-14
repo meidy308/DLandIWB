@@ -1,0 +1,7 @@
+# Wiki Edit Log
+
+- **2026-04-13**: Ingested `Afif and Fitrianingrum - 2025.md`. Created initial index and log. Created source page and concept pages for Digital Leadership, Innovative Work Behavior, Organization Experience, Work engagement, Job Demands-Resources Theory, Conservation of Resources Theory, and Communication as Constitutive of Organization.
+- **2026-04-13**: Ingested `Ahmed et al. - 2024.md`. Created source page, [[leader-member-exchange]], [[learning-orientation]], [[innovation-capabilities]], and [[social-exchange-theory]]. Updated [[digital-leadership]], [[innovative-work-behavior]], index, and log.
+- **2026-04-13**: Ingested `Çetinkaya and Sürücü - 2025.md`. Created source page and [[digital-organizational-culture]]. Updated [[digital-leadership]], [[innovative-work-behavior]], index, and log.
+- **2026-04-14**: Ingested `Erhan et al. - 2022.md`. Created source page [[erhan-et-al-2022]]. Updated [[digital-leadership]], [[innovative-work-behavior]], index, and log.
+- **2026-04-14**: Ingested `Gao and Gao - 2024.md`. Created source page [[gao-and-gao-2024]]. Created [[psychological-empowerment]], [[affective-commitment]], [[proactive-personality]], and [[cognitive-affective-processing-system]]. Updated [[digital-leadership]], [[innovative-work-behavior]], index, and log.
