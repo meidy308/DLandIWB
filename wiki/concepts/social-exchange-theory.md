@@ -1,8 +1,9 @@
 ---
 title: Social Exchange Theory
 tags: [theory, concept]
-created: 2026-04-13
-updated: 2026-04-13
+date-created: 2026-04-13
+date-updated: 2026-04-15
+confidence: high
 ---
 
 # Social Exchange Theory
@@ -13,11 +14,26 @@ updated: 2026-04-13
 
 ---
 
-Social Exchange Theory emphasizes that when employees feel treated ethically, supported, and trusted by their leadership, they feel compelled to reciprocate by aligning with managerial expectations and engaging in voluntary, positive work activities (source: Ahmed et al. - 2024.md, p. 3611).
+Social Exchange Theory (Blau, 1964) elucidates the dynamics of human interaction and decision-making in relationships. It posits that individuals make decisions by consciously or unconsciously weighing the costs and rewards of a relationship or action, aiming to maximize their benefits. If the risks outweigh the benefits, individuals may choose to terminate the relationship (source: Ahmed et al. - 2024.md, p. 3608–3609).
 
-This theory forms the foundation of [[leader-member-exchange]] (LMX) and explains why [[digital-leadership]] positively affects [[learning-orientation]] and [[innovative-work-behavior]]: employees evaluate the proactive environment initiated by their leaders and respond by enhancing their own knowledge and offering innovative behaviors (source: Ahmed et al. - 2024.md, p. 3612).
+## Application in the Digital Leadership–IWB Context
+
+In organizational settings, the theory explains why positive leadership behaviors lead to reciprocal employee behaviors:
+
+- When employees feel treated ethically, trusted, and supported by their leaders, they feel compelled to reciprocate by aligning with managerial expectations and engaging in voluntary positive work activities (source: Ahmed et al. - 2024.md, p. 3610–3611).
+- Employees evaluate the digital leadership shown by their superiors and respond by enhancing their own learning ([[learning-orientation]]) and building [[innovation-capabilities]], ultimately exhibiting [[innovative-work-behavior]] (source: Ahmed et al. - 2024.md, p. 3612).
+
+## Relationship with Other Variables
+
+Social exchange theory forms the theoretical foundation of [[leader-member-exchange]] (LMX). High-quality LMX interactions are perceived as incentives from managers to employees, consistent with the exchange logic; to uphold this exchange, employees respond positively (source: Ahmed et al. - 2024.md, p. 3610–3611).
+
+The theory also explains the serial mediation chain: [[digital-leadership]] → [[learning-orientation]] → [[innovation-capabilities]] → [[innovative-work-behavior]], where each step represents a reciprocal exchange of value between leaders and followers (source: Ahmed et al. - 2024.md, p. 3609).
 
 ## Related pages
 
 - [[leader-member-exchange]]
+- [[digital-leadership]]
+- [[learning-orientation]]
+- [[innovation-capabilities]]
+- [[innovative-work-behavior]]
 - [[ahmed-et-al-2024]]
