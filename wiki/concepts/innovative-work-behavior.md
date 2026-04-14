@@ -2,14 +2,14 @@
 title: Innovative Work Behavior
 tags: [concept, variable, behavior]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-14
 ---
 
 # Innovative Work Behavior
 
 **Summary**: The ability of individuals to generate, promote, and implement new and valuable ideas for an organization.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Erhan et al. - 2022.md, Gao and Gao - 2024.md, Hastiti et al. - 2025.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Gao and Gao - 2024.md, Hastiti et al. - 2025.md
 
 ---
 
@@ -29,6 +29,8 @@ In the education sector, digital leadership is shown to drive IWB indirectly thr
 
 Viewing this from a [[cognitive-affective-processing-system]] perspective, IWB is stimulated when leaders successfully trigger cognitive and emotional mechanisms. [[psychological-empowerment]] has been identified as a significant cognitive mediator translating digital leadership into innovation. However, traits like a [[proactive-personality]] may not moderate this significantly, as proactive employees tend to naturally innovate regardless of external leadership backing (source: Gao and Gao - 2024.md, p. 20-21).
 
+In the automotive sector, IWB serves as a mediator between [[digital-leadership]] and [[adaptive-performance]], but with a **negative indirect effect** (B = −0.03). This means that while DL strongly drives both IWB and adaptive performance individually, the indirect pathway through IWB slightly reduces the total effect of DL on AP. The direct effect of digital leadership on adaptive performance is substantially higher than the indirect path (source: Deviren - 2026.md, p. 43). Digital culture negatively moderates the DL → IWB relationship: when an organization's digital culture is already strong, the additional impact of digital leadership on IWB diminishes — suggesting a substitution effect (source: Deviren - 2026.md, p. 39–40, 42).
+
 ## Related pages
 
 - [[digital-leadership]]
@@ -47,3 +49,5 @@ Viewing this from a [[cognitive-affective-processing-system]] perspective, IWB i
 - [[proactive-personality]]
 - [[intrinsic-motivation]]
 - [[problem-solving-creativity]]
+- [[adaptive-performance]]
+- [[deviren-2026]]

@@ -2,14 +2,14 @@
 title: Digital Leadership
 tags: [concept, variable, leadership]
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-14
 ---
 
 # Digital Leadership
 
 **Summary**: A leadership style that maximizes technology integration, adaptability, and fosters a digital work climate to encourage innovation.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Erhan et al. - 2022.md, Gao and Gao - 2024.md, Hastiti et al. - 2025.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Gao and Gao - 2024.md, Hastiti et al. - 2025.md
 
 ---
 
@@ -22,6 +22,8 @@ It has a positive and significant effect on [[innovative-work-behavior]]. A digi
 - It positively influences [[intrinsic-motivation]], which acts as an indirect driver of innovation. Interestingly, while it also enhances [[problem-solving-creativity]], this creativity may not translate directly into overarching innovative behavior without other supports. Following [[social-role-theory]], this effect on motivation and creativity is notably stronger for women (source: Hastiti et al. - 2025.md, p. 51-52).
 
 The positive effect of digital leadership on learning orientation is significantly amplified when there is a high-quality [[leader-member-exchange]] (LMX) between the leader and their members (source: Ahmed et al. - 2024.md, p. 3620).
+
+In the automotive sector, digital leadership has a strong positive direct effect on both IWB (B = 0.80) and [[adaptive-performance]] (B = 0.60). Together with [[digital-organizational-culture]], these variables explain 82% of IWB variance and 87% of adaptive performance variance (source: Deviren - 2026.md, p. 39–40). However, digital culture **negatively moderates** both the DL → IWB and DL → AP relationships: when digital culture is already strong, it absorbs the influence that digital leadership would otherwise provide — a substitution effect (source: Deviren - 2026.md, p. 42–43). This contrasts with the purely positive mediating role of digital culture observed in [[cetinkaya-surucu-2025]].
 
 ## Related pages
 
@@ -41,3 +43,5 @@ The positive effect of digital leadership on learning orientation is significant
 - [[intrinsic-motivation]]
 - [[problem-solving-creativity]]
 - [[social-role-theory]]
+- [[adaptive-performance]]
+- [[deviren-2026]]
