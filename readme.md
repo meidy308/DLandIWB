@@ -8,10 +8,12 @@ It is maintained using the **LLM Wiki pattern** (based on Andrej Karpathy's appr
 > **Note**: Because this wiki relies heavily on internal `[[wiki-links]]` for navigation, it is best viewed using the **[Obsidian](https://obsidian.md/)** software.
 
 ## Repository Structure
-- `raw/`: Contains source documents and research papers. This directory is immutable; source files are never modified. 
-- `wiki/`: Contains the markdown pages that form the knowledge base.
-- `wiki/index.md`: The central table of contents mapping out the entire wiki.
-- `wiki/log.md`: An append-only log recording all changes, source ingestions, and updates made to the wiki.
+- `raw/` - Immutable source documents (transcripts, articles, notes). Never modify these.
+- `wiki/index.md` - table of contents for the entire wiki.
+- `wiki/log.md` - append-only record of all changes.
+- `wiki/summaries/` - One summary page per raw source document.
+- `wiki/concepts/` - Concept, strategy, and framework pages.
+- `wiki/syntheses/` - Comparison tables, decision frameworks, cross-cutting analyses.
 
 ## Workflow
 1. **Adding Sources**: New research or sources are added to the `raw/` folder.
