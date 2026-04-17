@@ -10,6 +10,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[erhan-et-al-2022]] - Study on how digital leadership positively affects four dimensions of employee IWB in the Turkish textile industry.
 - [[gao-and-gao-2024]] - Study investigating how digital leadership fosters employee innovative behavior through the dual-mediation paths of psychological empowerment and affective commitment.
 - [[hastiti-et-al-2025]] - Study exploring role of digital leadership, intrinsic motivation, and creativity in driving IWB, highlighting gender differences.
+- [[fahrurrozi-and-arief-2026]] - Study on digital leadership, compensation, Kaizen culture, and IWB in driving employee loyalty in the Indonesian energy sector.
 
 ## Concepts & Variables
 - [[adaptive-performance]] - The ability to adjust behavior and performance in response to changing work demands and environmental conditions.
@@ -26,6 +27,9 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[problem-solving-creativity]] - Ability to generate novel ideas and original methods in tackling complex challenges.
 - [[psychological-empowerment]] - Motivational cognitions relating to meaning, competence, autonomy, and impact.
 - [[work-engagement]] - Fulfilling state of mind characterized by vigor, dedication, and absorption.
+- [[employee-loyalty]] - Psychological attachment, commitment, and willingness to remain with an organization.
+- [[kaizen-culture]] - Management philosophy focused on continuous, incremental improvement.
+- [[employee-compensation]] - Financial and non-financial rewards received in exchange for organizational contribution.
 
 ## Theories
 - [[cognitive-affective-processing-system]] - Behavior output generated from the interaction of situations with internal cognitive and affective states.

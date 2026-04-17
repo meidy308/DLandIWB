@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The ability of individuals to generate, promote, and implement new and valuable ideas for an organization.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Gao and Gao - 2024.md, Hastiti et al. - 2025.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Gao and Gao - 2024.md, Hastiti et al. - 2025.md
 
 ---
 
@@ -44,6 +44,7 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **[[work-engagement]]** — Positive and significant (β = 0.262, t = 3.805, p = 0.000, F² = 0.082). Engaged individuals with energy, dedication, and concentration are motivated to seek new methods in their work (source: Afif and Fitrianingrum - 2025.md, p. 3118–3119).
 - **[[organization-experience]]** — The strongest direct predictor among Gen Z workers (β = 0.412, t = 5.759, p = 0.000, F² = 0.170, moderate effect). Accumulated organizational knowledge, decision-making courage, and collaboration skills are the most dominant drivers of innovation in this context (source: Afif and Fitrianingrum - 2025.md, p. 3118–3120).
 - **[[innovation-capabilities]]** — Positive and significant (β = 0.424, t = 7.058, p = 0.000). Having concrete capabilities to innovate translates directly into innovative behavior (source: Ahmed et al. - 2024.md, p. 3619).
+- **[[employee-compensation]]** — The strongest predictor of IWB in the Indonesian energy infrastructure sector ($B = 0.581, p < .001$), outweighing digital leadership and culture in that context (source: Fahrurrozi and Arief - 2026.md, p. 65).
 
 **Mediated pathways to IWB**:
 - **DL → [[learning-orientation]] → [[innovation-capabilities]] → IWB** — Sequential mediation (β = 0.105, t = 3.496, p = 0.001) (source: Ahmed et al. - 2024.md, p. 3622).
@@ -51,6 +52,7 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **DL → [[psychological-empowerment]] → IWB** — Through the [[cognitive-affective-processing-system]], digital leadership significantly predicts psychological empowerment (β = 0.374, p < .001), which partially mediates the relationship with IWB (indirect effect: β = 0.108, p = .001) (source: Gao and Gao - 2024.md, p. 16).
 - **DL → [[affective-commitment]] → IWB** — While digital leadership predicts affective commitment (β = 0.216, p = .001), the indirect path to IWB is not statistically significant in this sample (β = 0.033, p = .070) (source: Gao and Gao - 2024.md, p. 16).
 - **DL → [[intrinsic-motivation]] → IWB** — Intrinsic motivation mediates the DL–IWB link. However, [[problem-solving-creativity]] alone does not always have a directly significant effect on IWB without complementary organizational support. Following [[social-role-theory]], the effect on motivation and creativity is notably stronger for women (source: Hastiti et al. - 2025.md, p. 51–52).
+- **[[employee-compensation]] → IWB → [[employee-loyalty]]** — In project-based industries, IWB serves as a critical behavioral mechanism through which financial rewards are translated into long-term commitment (indirect effect: $B = 0.369, p = .0002$) (source: Fahrurrozi and Arief - 2026.md, p. 65).
 
 **Variance explained**:
 - Three IVs (DL, WE, OE) explain **50.1%** of IWB variance among Gen Z workers (R² Adj = 0.501) (source: Afif and Fitrianingrum - 2025.md, p. 3117).
@@ -103,3 +105,7 @@ IWB is measured with varying scales across the studies:
 - [[erhan-et-al-2022]]
 - [[gao-and-gao-2024]]
 - [[hastiti-et-al-2025]]
+- [[fahrurrozi-and-arief-2026]]
+- [[employee-loyalty]]
+- [[kaizen-culture]]
+- [[employee-compensation]]
