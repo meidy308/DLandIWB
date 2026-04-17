@@ -46,7 +46,8 @@ Digital leadership encourages IWB through several sequential mechanisms:
 
 - **DL → [[learning-orientation]] → [[innovation-capabilities]] → IWB** — employees evaluate digital leadership and respond by enhancing their learning orientation (β = 0.548), which develops innovation capabilities (β = 0.453), resulting in IWB (β = 0.424). Sequential mediation effect: β = 0.105, p = 0.001 (source: Ahmed et al. - 2024.md, p. 3619–3622).
 - **DL → [[digital-organizational-culture]] → IWB** — digital leadership actively shapes a culture that values agility, teamwork, and ongoing adaptation, which then catalyzes IWB (source: Çetinkaya and Sürücü - 2025.md, p. 242–243).
-- **DL → [[psychological-empowerment]] → IWB** — through the [[cognitive-affective-processing-system]], digital leadership elevates cognitive empowerment, which acts as a primary mediator in driving innovation (source: Gao and Gao - 2024.md, p. 20).
+- **DL → [[psychological-empowerment]] → IWB** — through the [[cognitive-affective-processing-system]], digital leadership significantly predicts psychological empowerment (β = 0.374, p < .001). This cognitive empowerment then acts as a partial mediator in driving innovative behavior (mediation effect: β = 0.108, p = .001) (source: Gao and Gao - 2024.md, p. 16).
+- **DL → [[affective-commitment]]** — digital leadership significantly increases affective commitment (β = 0.216, p = .001), though in this study, the commitment did not significantly translate into IWB (non-significant mediation: p = .070) (source: Gao and Gao - 2024.md, p. 16).
 - **DL → [[intrinsic-motivation]] → IWB** — digital leadership drives IWB indirectly through intrinsic motivation. Following [[social-role-theory]], this effect is notably stronger for women. However, [[problem-solving-creativity]] does not always translate directly into IWB without complementary organizational backing (source: Hastiti et al. - 2025.md, p. 51–52).
 
 ### Moderation effects
@@ -61,6 +62,7 @@ Digital leadership is measured with varying scales across the studies:
 - **Ahmed et al. (2024)**: 5-item scale, 7-point Likert (Artuz & Bayraktar, 2021). Reliability: Cronbach's α = 0.868, CR = 0.904, AVE = 0.654 (source: Ahmed et al. - 2024.md, p. 3617–3618).
 - **Deviren (2026)**: 9 items across 2 subdimensions (innovative & supportive), 5-point Likert (Büyükbeşe et al., 2022) (source: Deviren - 2026.md, p. 36).
 - **Erhan et al. (2022)**: adapted from Büyükbeşe et al. framework (source: Erhan et al. - 2022.md, p. 1530).
+- **Gao and Gao (2024)**: 6-item scale (Zeike et al., 2019), 5-point Likert. Items focus on digital expertise, up-to-date knowledge, and driving transformation. Reliability: Cronbach's α = 0.922, AVE = 0.701, CR = 0.922 (source: Gao and Gao - 2024.md, p. 12).
 
 ## Contradictions
 

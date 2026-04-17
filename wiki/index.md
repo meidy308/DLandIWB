@@ -8,7 +8,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[cetinkaya-surucu-2025]] - Study on digital leadership influencing IWB via digital organizational culture in Istanbul's IT sector.
 - [[deviren-2026]] - Study on digital leadership and digital culture effects on IWB and adaptive performance in the Turkish automotive sector, with negative moderation and mediation findings.
 - [[erhan-et-al-2022]] - Study on how digital leadership positively affects four dimensions of employee IWB in the Turkish textile industry.
-- [[gao-and-gao-2024]] - Study investigating digital leadership and employee innovative behavior through a cognitive-affective processing system perspective.
+- [[gao-and-gao-2024]] - Study investigating how digital leadership fosters employee innovative behavior through the dual-mediation paths of psychological empowerment and affective commitment.
 - [[hastiti-et-al-2025]] - Study exploring role of digital leadership, intrinsic motivation, and creativity in driving IWB, highlighting gender differences.
 
 ## Concepts & Variables

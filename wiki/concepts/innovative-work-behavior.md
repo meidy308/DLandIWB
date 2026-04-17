@@ -48,7 +48,8 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 **Mediated pathways to IWB**:
 - **DL → [[learning-orientation]] → [[innovation-capabilities]] → IWB** — Sequential mediation (β = 0.105, t = 3.496, p = 0.001) (source: Ahmed et al. - 2024.md, p. 3622).
 - **DL → [[digital-organizational-culture]] → IWB** — Digital culture acts as a vital catalyst for translating ideas into reality, providing an environment that values experimentation and psychological safety (source: Çetinkaya and Sürücü - 2025.md, p. 242).
-- **DL → [[psychological-empowerment]] → IWB** — Through the [[cognitive-affective-processing-system]], digital leadership elevates cognitive empowerment as a primary mediator. [[proactive-personality]] does not significantly moderate this, as proactive employees tend to naturally innovate regardless of external leadership (source: Gao and Gao - 2024.md, p. 20–21).
+- **DL → [[psychological-empowerment]] → IWB** — Through the [[cognitive-affective-processing-system]], digital leadership significantly predicts psychological empowerment (β = 0.374, p < .001), which partially mediates the relationship with IWB (indirect effect: β = 0.108, p = .001) (source: Gao and Gao - 2024.md, p. 16).
+- **DL → [[affective-commitment]] → IWB** — While digital leadership predicts affective commitment (β = 0.216, p = .001), the indirect path to IWB is not statistically significant in this sample (β = 0.033, p = .070) (source: Gao and Gao - 2024.md, p. 16).
 - **DL → [[intrinsic-motivation]] → IWB** — Intrinsic motivation mediates the DL–IWB link. However, [[problem-solving-creativity]] alone does not always have a directly significant effect on IWB without complementary organizational support. Following [[social-role-theory]], the effect on motivation and creativity is notably stronger for women (source: Hastiti et al. - 2025.md, p. 51–52).
 
 **Variance explained**:
@@ -68,6 +69,7 @@ IWB is measured with varying scales across the studies:
 - **Ahmed et al. (2024)**: 5-item scale (4 retained after CFA), 7-point Likert (Aboobaker & Zakkariya, 2020). Reliability: Cronbach's α = 0.765, CR = 0.849, AVE = 0.587 (source: Ahmed et al. - 2024.md, p. 3617–3618).
 - **Deviren (2026)**: 10-item unidimensional scale (Jong & den Hartog, adapted by Çimen & Yücel, 2017), 5-point Likert (source: Deviren - 2026.md, p. 36).
 - **Erhan et al. (2022)**: 4-dimensional framework (exploration, generation, championing, implementation) (source: Erhan et al. - 2022.md, p. 1528–1530).
+- **Gao and Gao (2024)**: 6-item scale (Scott and Bruce, 1994), 5-point Likert. Items focus on searching for new technologies, generating innovative ideas, and realizing them. Reliability: Cronbach's α = 0.905, AVE = 0.656, CR = 0.905 (source: Gao and Gao - 2024.md, p. 12).
 
 ## Contradictions
 
