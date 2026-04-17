@@ -11,6 +11,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[gao-and-gao-2024]] - Study investigating how digital leadership fosters employee innovative behavior through the dual-mediation paths of psychological empowerment and affective commitment.
 - [[hastiti-et-al-2025]] - Study exploring role of digital leadership, intrinsic motivation, and creativity in driving IWB, highlighting gender differences.
 - [[fahrurrozi-and-arief-2026]] - Study on digital leadership, compensation, Kaizen culture, and IWB in driving employee loyalty in the Indonesian energy sector.
+- [[farhaq-and-yulianti-2024]] - Study investigating digital leadership's impact on employee performance through the mediating role of IWB among millennials in East Java.
 
 ## Concepts & Variables
 - [[adaptive-performance]] - The ability to adjust behavior and performance in response to changing work demands and environmental conditions.
@@ -30,6 +31,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[employee-loyalty]] - Psychological attachment, commitment, and willingness to remain with an organization.
 - [[kaizen-culture]] - Management philosophy focused on continuous, incremental improvement.
 - [[employee-compensation]] - Financial and non-financial rewards received in exchange for organizational contribution.
+- [[employee-performance]] - The work results achieved by an individual in carrying out assigned tasks based on skill, experience, sincerity, and time.
 
 ## Theories
 - [[cognitive-affective-processing-system]] - Behavior output generated from the interaction of situations with internal cognitive and affective states.
@@ -38,3 +40,5 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[job-demands-resources-theory]] - Interaction of job resources and demands on employee performance.
 - [[social-exchange-theory]] - Human behavior driven by reciprocal cycles of social exchange.
 - [[social-role-theory]] - Posits that behavioral differences between men and women are influenced by constructed social roles.
+- [[resource-based-theory]] - A framework viewing organizational internal resources and capabilities as primary drivers of competitive advantage.
+- [[upper-echelon-theory]] - Posits that organizational strategic choices and performance are reflections of the values and cognitions of powerful managers.

@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A leadership style that maximizes technology integration, adaptability, and fosters a digital work climate to encourage innovation.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Gao and Gao - 2024.md, Hastiti et al. - 2025.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Hastiti et al. - 2025.md
 
 ---
 
@@ -40,7 +40,10 @@ Digital leadership has a positive and significant effect on [[innovative-work-be
 - **Strong direct effect** in the Turkish automotive sector (B = 0.80 on IWB, B = 0.60 on [[adaptive-performance]]). Together with [[digital-organizational-culture]], these variables explain 82% of IWB variance and 87% of adaptive performance variance (source: Deviren - 2026.md, p. 39–40).
 - **All four IWB dimensions predicted** in the Turkish textile industry: idea exploration, generation, championing, and implementation are all significantly and positively predicted by digital leadership (source: Erhan et al. - 2022.md, p. 1535–1536).
 - **No direct DL → IWB path in Ahmed et al. (2024) and Hastiti et al. (2025)**: both studies find that the influence of digital leadership is entirely channeled through mediators (learning orientation/innovation capabilities in Ahmed; intrinsic motivation in Hastiti) (source: Ahmed et al. - 2024.md, p. 3622; Hastiti et al. - 2025.md, p. 53).
-- **Non-significant direct effect** in the Indonesian energy infrastructure sector: digital leadership did not significantly predict IWB ($p = .3195$), suggesting that in certain high-risk, project-based environments, financial incentives like [[employee-compensation]] take precedence over digital leadership style (source: Fahrurrozi and Arief - 2026.md, p. 65).
+- **Non-significant direct effect in specific contexts**: in certain high-risk, project-based environments like energy infrastructure, financial incentives like [[employee-compensation]] may override leadership style in predicting IWB ($p = .3195$) (source: fahrurrozi-and-arief-2026.md, p. 65). This is echoed by findings that suggest DL's influence is often channeled through mediators.
+
+### Impact on Employee Performance
+Digital leadership is a strong predictor of [[employee-performance]] (β = 2.581, p = 0.010), particularly among millennial employees who rely on digital agility and flexible leadership styles (source: farhaq-and-yulianti-2024.md, p. 405).
 
 ### Mediated pathways
 Digital leadership encourages IWB through several sequential mechanisms:
@@ -50,7 +53,8 @@ Digital leadership encourages IWB through several sequential mechanisms:
 - **DL → [[psychological-empowerment]] → IWB** — through the [[cognitive-affective-processing-system]], digital leadership significantly predicts psychological empowerment (β = 0.374, p < .001). This cognitive empowerment then acts as a partial mediator in driving innovative behavior (mediation effect: β = 0.108, p = .001) (source: Gao and Gao - 2024.md, p. 16).
 - **DL → [[affective-commitment]]** — digital leadership significantly increases affective commitment (β = 0.216, p = .001), though in this study, the commitment did not significantly translate into IWB (non-significant mediation: p = .070) (source: Gao and Gao - 2024.md, p. 16).
 - **DL → [[intrinsic-motivation]] → IWB** — digital leadership drives IWB indirectly through intrinsic motivation. Following [[social-role-theory]], this effect is notably stronger for women. However, [[problem-solving-creativity]] does not always translate directly into IWB without complementary organizational backing (source: Hastiti et al. - 2025.md, p. 51–52).
-- **DL → [[employee-loyalty]]** — while hypothesized to directly enhance loyalty by reducing uncertainty and building trust, digital leadership may show insignificant direct effects in specific industrial contexts like energy infrastructure ($p = .2613$) (source: Fahrurrozi and Arief - 2026.md, p. 66).
+- **DL → [[employee-loyalty]]** — while hypothesized to directly enhance loyalty by reducing uncertainty and building trust, digital leadership may show insignificant direct effects in specific industrial contexts like energy infrastructure ($p = .2613$) (source: fahrurrozi-and-arief-2026.md, p. 66).
+- **DL → [[innovative-work-behavior]] → [[employee-performance]]** — digital leadership creates an environment where millennials feel empowered to implement imagination and creative ideas, which in turn drives overall work performance (mediation effect: β = 5.023, p = 0.000) (source: farhaq-and-yulianti-2024.md, p. 406-407).
 
 ### Moderation effects
 - **[[leader-member-exchange]] moderates DL → learning orientation**: when LMX quality is high, the positive effect of digital leadership on learning orientation is significantly amplified (β = 0.044, t = 3.069, p = 0.002) (source: Ahmed et al. - 2024.md, p. 3620).
@@ -66,13 +70,15 @@ Digital leadership is measured with varying scales across the studies:
 - **Erhan et al. (2022)**: adapted from Büyükbeşe et al. framework (source: Erhan et al. - 2022.md, p. 1530).
 - **Gao and Gao (2024)**: 6-item scale (Zeike et al., 2019), 5-point Likert. Items focus on digital expertise, up-to-date knowledge, and driving transformation. Reliability: Cronbach's α = 0.922, AVE = 0.701, CR = 0.922 (source: Gao and Gao - 2024.md, p. 12).
 - **Hastiti et al. (2025)**: 5 indicators focusing on technology adoption motivation and data-driven decision making, 5-point Likert. Reliability: Cronbach's α = 0.901 (source: Hastiti et al. - 2025.md, p. 47).
+- **Farhaq & Yulianti (2024)**: 10 items (adapted from Erhan et al. & Zhu et al.), 5-point Likert. Reliability: Cronbach's α = 0.950, CR = 0.939, AVE = 0.732 (source: farhaq-and-yulianti-2024.md, p. 403).
 
 ## Contradictions
 
 - The **effect size of digital leadership on IWB varies dramatically**: from weak (F² = 0.032 in Afif & Fitrianingrum, 2025) to very strong (B = 0.80 in Deviren, 2026). This may reflect sector differences (Gen Z workers vs. automotive employees), sample characteristics, or the presence/absence of mediators in the model.
 - In **Ahmed et al. (2024)** and **Hastiti et al. (2025)**, there is no significant direct DL → IWB path; the entire effect is mediated. In contrast, **Erhan et al. (2022)** and **Deviren (2026)** report strong direct effects.
 - **Digital culture's role** is contested: positive mediator in Çetinkaya & Sürücü (2025) vs. negative moderator in Deviren (2026).
-- **Contextual variability**: while most studies support the importance of digital leadership for IWB, findings from the energy infrastructure sector suggest its impact can be overridden by more tangible rewards like [[employee-compensation]] (source: Fahrurrozi and Arief - 2026.md, p. 65).
+- **Contextual variability**: while most studies support the importance of digital leadership for IWB, findings from the energy infrastructure sector suggest its impact can be overridden by more tangible rewards like [[employee-compensation]] (source: fahrurrozi-and-arief-2026.md, p. 65).
+- **Contradiction in Performance Linkage**: Farhaq & Yulianti (2024) found a significant direct effect on performance, which conflicts with **Arief Rizqi et al. (2023)** who found no significant direct path from digital leadership to employee performance (source: farhaq-and-yulianti-2024.md, p. 400).
 
 ## Related pages
 
@@ -101,3 +107,6 @@ Digital leadership is measured with varying scales across the studies:
 - [[employee-loyalty]]
 - [[kaizen-culture]]
 - [[employee-compensation]]
+- [[employee-performance]]
+- [[upper-echelon-theory]]
+- [[resource-based-theory]]

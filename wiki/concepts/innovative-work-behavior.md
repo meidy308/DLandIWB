@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The ability of individuals to generate, promote, and implement new and valuable ideas for an organization.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Gao and Gao - 2024.md, Hastiti et al. - 2025.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Hastiti et al. - 2025.md
 
 ---
 
@@ -53,11 +53,13 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **DL → [[affective-commitment]] → IWB** — While digital leadership predicts affective commitment (β = 0.216, p = .001), the indirect path to IWB is not statistically significant in this sample (β = 0.033, p = .070) (source: Gao and Gao - 2024.md, p. 16).
 - **DL → [[intrinsic-motivation]] → IWB** — Intrinsic motivation mediates the DL–IWB link. However, [[problem-solving-creativity]] alone does not always have a directly significant effect on IWB without complementary organizational support. Following [[social-role-theory]], the effect on motivation and creativity is notably stronger for women (source: Hastiti et al. - 2025.md, p. 51–52).
 - **[[employee-compensation]] → IWB → [[employee-loyalty]]** — In project-based industries, IWB serves as a critical behavioral mechanism through which financial rewards are translated into long-term commitment (indirect effect: $B = 0.369, p = .0002$) (source: Fahrurrozi and Arief - 2026.md, p. 65).
+- **[[digital-leadership]] → IWB → [[employee-performance]]** — Digital leadership fosters an environment where millennials feel safe to explore and promote new ideas, which results in tangible increases in overall work performance (indirect effect: β = 5.023, p = 0.000) (source: farhaq-and-yulianti-2024.md, p. 407).
 
 **Variance explained**:
 - Three IVs (DL, WE, OE) explain **50.1%** of IWB variance among Gen Z workers (R² Adj = 0.501) (source: Afif and Fitrianingrum - 2025.md, p. 3117).
 - DL + DC explain **82%** of IWB variance in the automotive sector (R² = 0.82) (source: Deviren - 2026.md, p. 39).
 - Sequential mediation model (DL → LO → IC → IWB) explains **17.9%** of IWB variance (R² = 0.179) in the French automobile industry (source: Ahmed et al. - 2024.md, p. 3619).
+- DL explains **40.4%** of IWB variance among millennials in East Java (source: farhaq-and-yulianti-2024.md, p. 404).
 
 ### As mediator
 
@@ -73,6 +75,7 @@ IWB is measured with varying scales across the studies:
 - **Erhan et al. (2022)**: 4-dimensional framework (exploration, generation, championing, implementation) (source: Erhan et al. - 2022.md, p. 1528–1530).
 - **Gao and Gao (2024)**: 6-item scale (Scott and Bruce, 1994), 5-point Likert. Items focus on searching for new technologies, generating innovative ideas, and realizing them. Reliability: Cronbach's α = 0.905, AVE = 0.656, CR = 0.905 (source: Gao and Gao - 2024.md, p. 12).
 - **Hastiti et al. (2025)**: 6 indicators focusing on the initiation of change and implementation of new ideas, 5-point Likert. Reliability: Cronbach's α = 0.852 (source: Hastiti et al. - 2025.md, p. 48).
+- **Farhaq & Yulianti (2024)**: 9 items (idea generation, promotion, & realization), 5-point Likert (Zhu et al., 2022). Reliability: Cronbach's α = 0.964, CR = 0.958, AVE = 0.750 (source: farhaq-and-yulianti-2024.md, p. 403-404).
 
 ## Contradictions
 
@@ -109,3 +112,5 @@ IWB is measured with varying scales across the studies:
 - [[employee-loyalty]]
 - [[kaizen-culture]]
 - [[employee-compensation]]
+- [[employee-performance]]
+- [[farhaq-and-yulianti-2024]]
