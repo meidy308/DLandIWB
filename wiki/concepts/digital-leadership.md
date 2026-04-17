@@ -39,7 +39,7 @@ Digital leadership has a positive and significant effect on [[innovative-work-be
 - **Weak but significant** in Gen Z workers in Central Java (β = 0.153, t = 2.282, p = 0.023, F² = 0.032). A digital visionary leader serves as an initial trigger for innovation, though [[organization-experience]] and [[work-engagement]] have stronger direct effects (source: Afif and Fitrianingrum - 2025.md, p. 3118–3119).
 - **Strong direct effect** in the Turkish automotive sector (B = 0.80 on IWB, B = 0.60 on [[adaptive-performance]]). Together with [[digital-organizational-culture]], these variables explain 82% of IWB variance and 87% of adaptive performance variance (source: Deviren - 2026.md, p. 39–40).
 - **All four IWB dimensions predicted** in the Turkish textile industry: idea exploration, generation, championing, and implementation are all significantly and positively predicted by digital leadership (source: Erhan et al. - 2022.md, p. 1535–1536).
-- **No direct DL → IWB path in Ahmed et al. (2024)**: the entire effect is mediated through [[learning-orientation]] and [[innovation-capabilities]] in a sequential chain (source: Ahmed et al. - 2024.md, p. 3622).
+- **No direct DL → IWB path in Ahmed et al. (2024) and Hastiti et al. (2025)**: both studies find that the influence of digital leadership is entirely channeled through mediators (learning orientation/innovation capabilities in Ahmed; intrinsic motivation in Hastiti) (source: Ahmed et al. - 2024.md, p. 3622; Hastiti et al. - 2025.md, p. 53).
 
 ### Mediated pathways
 Digital leadership encourages IWB through several sequential mechanisms:
@@ -63,11 +63,12 @@ Digital leadership is measured with varying scales across the studies:
 - **Deviren (2026)**: 9 items across 2 subdimensions (innovative & supportive), 5-point Likert (Büyükbeşe et al., 2022) (source: Deviren - 2026.md, p. 36).
 - **Erhan et al. (2022)**: adapted from Büyükbeşe et al. framework (source: Erhan et al. - 2022.md, p. 1530).
 - **Gao and Gao (2024)**: 6-item scale (Zeike et al., 2019), 5-point Likert. Items focus on digital expertise, up-to-date knowledge, and driving transformation. Reliability: Cronbach's α = 0.922, AVE = 0.701, CR = 0.922 (source: Gao and Gao - 2024.md, p. 12).
+- **Hastiti et al. (2025)**: 5 indicators focusing on technology adoption motivation and data-driven decision making, 5-point Likert. Reliability: Cronbach's α = 0.901 (source: Hastiti et al. - 2025.md, p. 47).
 
 ## Contradictions
 
 - The **effect size of digital leadership on IWB varies dramatically**: from weak (F² = 0.032 in Afif & Fitrianingrum, 2025) to very strong (B = 0.80 in Deviren, 2026). This may reflect sector differences (Gen Z workers vs. automotive employees), sample characteristics, or the presence/absence of mediators in the model.
-- In **Ahmed et al. (2024)**, there is no significant direct DL → IWB path; the entire effect is mediated. In contrast, **Erhan et al. (2022)** and **Deviren (2026)** report strong direct effects.
+- In **Ahmed et al. (2024)** and **Hastiti et al. (2025)**, there is no significant direct DL → IWB path; the entire effect is mediated. In contrast, **Erhan et al. (2022)** and **Deviren (2026)** report strong direct effects.
 - **Digital culture's role** is contested: positive mediator in Çetinkaya & Sürücü (2025) vs. negative moderator in Deviren (2026).
 
 ## Related pages

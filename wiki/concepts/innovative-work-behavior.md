@@ -70,6 +70,7 @@ IWB is measured with varying scales across the studies:
 - **Deviren (2026)**: 10-item unidimensional scale (Jong & den Hartog, adapted by Çimen & Yücel, 2017), 5-point Likert (source: Deviren - 2026.md, p. 36).
 - **Erhan et al. (2022)**: 4-dimensional framework (exploration, generation, championing, implementation) (source: Erhan et al. - 2022.md, p. 1528–1530).
 - **Gao and Gao (2024)**: 6-item scale (Scott and Bruce, 1994), 5-point Likert. Items focus on searching for new technologies, generating innovative ideas, and realizing them. Reliability: Cronbach's α = 0.905, AVE = 0.656, CR = 0.905 (source: Gao and Gao - 2024.md, p. 12).
+- **Hastiti et al. (2025)**: 6 indicators focusing on the initiation of change and implementation of new ideas, 5-point Likert. Reliability: Cronbach's α = 0.852 (source: Hastiti et al. - 2025.md, p. 48).
 
 ## Contradictions
 
