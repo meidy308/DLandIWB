@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A leadership style that maximizes technology integration, adaptability, and fosters a digital work climate to encourage innovation.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md
 
 
 ---
@@ -59,7 +59,7 @@ Digital leadership has a positive and significant effect on [[innovative-work-be
 - **Non-significant direct effect in specific contexts**: in certain high-risk, project-based environments like energy infrastructure, financial incentives like [[employee-compensation]] may override leadership style in predicting IWB ($p = .3195$) (source: fahrurrozi-and-arief-2026.md, p. 65). This is echoed by findings that suggest DL's influence is often channeled through mediators.
 
 ### Impact on Employee Performance
-- **Significant direct effect**: Digital leadership is a strong predictor of [[employee-performance]] (β = 2.581, p = 0.010) (source: farhaq-and-yulianti-2024.md, p. 405).
+- **Significant direct effect**: Digital leadership is a strong predictor of [[employee-performance]] (β = 2.581, p = 0.010) (source: farhaq-and-yulianti-2024.md, p. 405). In the retail sector, it also shows a positive direct correlation ($\beta = 0.203, p = .000$) with salesperson performance (source: Hang and Nguyệt - 2026.md, p. 13).
 - **Non-significant direct effect**: In a similar millennial sample, digital leadership failed to significantly predict performance directly ($p = 0.464$), with its impact acting solely through mediation (source: Gehan and Yulianti - 2024.md, p. 37).
 
 ### Mediated pathways
@@ -73,6 +73,7 @@ Digital leadership encourages IWB through several sequential mechanisms:
 - **DL → [[employee-loyalty]]** — while hypothesized to directly enhance loyalty by reducing uncertainty and building trust, digital leadership may show insignificant direct effects in specific industrial contexts like energy infrastructure ($p = .2613$) (source: fahrurrozi-and-arief-2026.md, p. 66).
 - **DL → [[innovative-work-behavior]] → [[employee-performance]]** — digital leadership creates an environment where millennials feel empowered to implement imagination and creative ideas, which in turn drives overall work performance (mediation effect: β = 5.023, p = 0.000) (source: farhaq-and-yulianti-2024.md, p. 406-407).
 - **[[digital-talent-development]] → DL → IWB** — talent development provides the groundwork for digital leadership, which in turn guides and empowers employees to explore novel approaches and creative solutions ($B = 0.095, p = 0.047$) (source: Fauziah et al. - 2026.md, p. 483).
+- **DL → [[digital-literacy]] → IWB → Performance** — as an antecedent to digital literacy, digital leadership fosters the awareness and capability required for innovative behavior and ultimate work outcomes ($\beta = 0.678$ to literacy) (source: Hang and Nguyệt - 2026.md, p. 13, 16).
 
 ### Link to Emotional States
 - **Non-significant effect on [[emotional-intelligence]]**: Digital leadership competence does not necessarily translate into higher emotional intelligence among subordinates ($p = 0.289$). Subordinates still require separate psychological knowledge to develop emotional maturity (source: [[hadi-et-al-2024]]).
@@ -81,6 +82,7 @@ Digital leadership encourages IWB through several sequential mechanisms:
 ### Moderation effects
 - **[[leader-member-exchange]] moderates DL → learning orientation**: when LMX quality is high, the positive effect of digital leadership on learning orientation is significantly amplified (β = 0.044, t = 3.069, p = 0.002) (source: Ahmed et al. - 2024.md, p. 3620).
 - **[[digital-organizational-culture]] negatively moderates DL → IWB and DL → AP**: when digital culture is already strong, it absorbs the influence that digital leadership would otherwise provide — a substitution effect (source: Deviren - 2026.md, p. 42–43). This contrasts with the purely positive mediating role of digital culture observed in [[cetinkaya-surucu-2025]].
+- **[[digital-literacy]] positively moderates DL → IWB and DL → Performance**: the influence of digital leadership on innovation and results is significantly amplified when employees possess higher digital literacy (source: Hang and Nguyệt - 2026.md, p. 14, 16).
 
 ## Measurement
 
@@ -95,6 +97,11 @@ Digital leadership is measured with varying scales across the studies:
 - **Farhaq & Yulianti (2024)**: 10 items (adapted from Erhan et al. & Zhu et al.), 5-point Likert. Reliability: Cronbach's α = 0.950, CR = 0.939, AVE = 0.732 (source: farhaq-and-yulianti-2024.md, p. 403).
 - **Gehan and Yulianti (2024)**: 9 indicators (based on Erhan et al.), 5-point Likert. Reliability: Cronbach's α = 0.875, CR = 0.902, AVE = 0.542 (source: Gehan and Yulianti - 2024.md, p. 35-36).
 - **Hadi et al. (2024)**: 18 statements (based on Ajabar et al., 2021), 5-point Likert. Reliability: Cronbach's α = 0.980 (source: Hadi et al. - 2023.md, p. 78).
+- **Hang and Nguyệt (2026)**: based on Sow & Aborbie (2018) / Erhan et al. (2022). Reliability: $\alpha = 0.840$, AVE = 0.610 (source: Hang and Nguyệt - 2026.md, p. 10).
+
+## IPMA Priority Insights
+
+Importance-Performance Map Analysis (IPMA) in the retail sector indicates that digital leadership exhibits the lowest relative effect coefficient compared to digital literacy and innovative work behavior, yet it is identified as the **primary strategic priority** for enhancement to boost salesperson performance (source: Hang and Nguyệt - 2026.md, p. 15).
 
 ## Contradictions
 
@@ -109,6 +116,7 @@ Digital leadership is measured with varying scales across the studies:
 
 - [[innovative-work-behavior]]
 - [[digital-talent-development]]
+- [[digital-literacy]]
 - [[learning-orientation]]
 
 - [[innovation-capabilities]]

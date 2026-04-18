@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The ability of individuals to generate, promote, and implement new and valuable ideas for an organization.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md
 
 
 ---
@@ -50,6 +50,7 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **[[digital-competency]]** — Positive and significant direct effect when mediating talent development ($B = 0.094, p = 0.036$) (source: Fauziah et al. - 2026.md, p. 482).
 - **[[emotional-intelligence]]** — Found to be a high significant predictor of IWB total effect ($B = 0.587, p = 0.000$). Individuals who can identify and direct their emotions effectively are more likely to carry out innovative behavior (source: [[hadi-et-al-2024]]).
 - **[[organizational-support]]** — A positive and significant predictor ($B = 0.299$ direct effect, $p = 0.006$). Perceptions of support directly increase the production of creative and innovative behaviors (source: [[hadi-et-al-2024]]).
+- **[[digital-literacy]]** — Positive and significant direct effect ($\beta = 0.535, p = .000$). High digital literacy enables employees to explore new technology and identify opportunities for improvement (source: Hang and Nguyệt - 2026.md, p. 13).
 
 
 **Mediated pathways to IWB**:
@@ -61,15 +62,20 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **[[employee-compensation]] → IWB → [[employee-loyalty]]** — In project-based industries, IWB serves as a critical behavioral mechanism through which financial rewards are translated into long-term commitment (indirect effect: $B = 0.369, p = .0002$) (source: Fahrurrozi and Arief - 2026.md, p. 65).
 - **[[digital-leadership]] → IWB → [[employee-performance]]** — Digital leadership fosters an environment where millennials feel empowered to implement imagination and creative ideas, which in turn drives overall work performance (indirect effect: β = 5.023, p = 0.000) (source: farhaq-and-yulianti-2024.md, p. 407). Similarly, IWB serves as the critical engine for performance gains when driven by digital leadership ($O = 0.541, p = .000$) (source: Gehan and Yulianti - 2024.md, p. 37).
 - **[[digital-talent-development]] → (DL, DC, DCu) → IWB** — Parallel/simultaneous mediation where talent development influences innovation through joint effects of digital leadership, digital competency, and digital culture ($B = 0.428, p = 0.000$) (source: Fauziah et al. - 2026.md, p. 483).
-- **[[organizational-support]] → [[emotional-intelligence]] → IWB** — Emotional intelligence serves as a significant mediator between organizational support and IWB ($B = 0.288, p = 0.001$), but fails to mediate the digital leadership path in some contexts (source: [[hadi-et-al-2024]]).
+- **[[organizational-support]]** → **[[emotional-intelligence]]** → IWB — Emotional intelligence serves as a significant mediator between organizational support and IWB ($B = 0.288, p = 0.001$), but fails to mediate the digital leadership path in some contexts (source: [[hadi-et-al-2024]]).
+- **DL → [[digital-literacy]] → IWB → Performance** — Sequential mediation in the retail sector where digital literacy provides the technical foundation for innovative behavior, which then drives performance (source: Hang and Nguyệt - 2026.md, p. 16).
+
+**Moderation of IWB paths**:
+- **[[digital-literacy]] moderates DL → IWB**: High digital literacy significantly strengthens the impact of digital leadership on innovative behavior (interaction: $\beta = 0.085, p = .000$) (source: Hang and Nguyệt - 2026.md, p. 16).
 
 
 **Variance explained**:
 - Three IVs (DL, WE, OE) explain **50.1%** of IWB variance among Gen Z workers (R² Adj = 0.501) (source: Afif and Fitrianingrum - 2025.md, p. 3117).
 - DL + DC explain **82%** of IWB variance in the automotive sector (R² = 0.82) (source: Deviren - 2026.md, p. 39).
-- Sequential mediation model (DL → LO → IC → IWB) explains **17.9%** of IWB variance (R² = 0.179) in the French automobile industry (source: Ahmed et al. - 2024.md, p. 3619).
+- Sequential mediation model (DL → LO → IC → IWB) explains **17.9%** of IWB variance (R² = 0.179) (source: Ahmed et al. - 2024.md, p. 3619).
 - DL explains **40.4%** of IWB variance among millennials in East Java (source: farhaq-and-yulianti-2024.md, p. 404). In a similar sample, DL explains **36.7%** of IWB variance ($R^2 = 0.367$) (source: Gehan and Yulianti - 2024.md, p. 36).
 - DTD + DL + DC + DCu explain **59.2%** of IWB variance in the Indonesian telecom industry (R² = 0.592) (source: Fauziah et al. - 2026.md, p. 480).
+- DL + DLit explain **65.9%** of IWB variance in the Vietnamese retail sector (R² = 0.659) (source: Hang and Nguyệt - 2026.md, p. 14).
 
 
 ### As mediator
@@ -89,6 +95,7 @@ IWB is measured with varying scales across the studies:
 - **Farhaq & Yulianti (2024)**: 9 items (idea generation, promotion, & realization), 5-point Likert (Zhu et al., 2022). Reliability: Cronbach's α = 0.964, CR = 0.958, AVE = 0.750 (source: farhaq-and-yulianti-2024.md, p. 403-404).
 - **Gehan and Yulianti (2024)**: 9 items (idea generation, promotion, & realization), 5-point Likert. Reliability: Cronbach's α = 0.933, CR = 0.945, AVE = 0.658 (source: Gehan and Yulianti - 2024.md, p. 35-36).
 - **Hadi et al. (2024)**: 12 statements (idea exploration, generation, promotion, implementation), 5-point Likert (based on Erhan et al., 2022). Reliability: Cronbach's α = 0.942 (source: Hadi et al. - 2023.md, p. 78).
+- **Hang and Nguyệt (2026)**: 4 items (idea promotion and resource securing), 5-point Likert (Santoso et al., 2019). Reliability: $\alpha = 0.892$, AVE = 0.756 (source: Hang and Nguyệt - 2026.md, p. 10).
 
 ## Contradictions
 
@@ -135,4 +142,7 @@ IWB is measured with varying scales across the studies:
 - [[fauziah-et-al-2026]]
 - [[digital-talent-development]]
 - [[digital-competency]]
+- [[digital-literacy]]
+- [[employee-performance]]
+- [[person-organization-fit-theory]]
 
