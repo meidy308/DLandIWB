@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A theory of motivation that posits humans have three innate psychological needs—autonomy, competence, and relatedness—the satisfaction of which drives intrinsic motivation and well-being.
 
-**Sources**: Huang et al. - 2026.md
+**Sources**: Huang et al. - 2026.md, Li and Xiao - 2023.md
 
 ---
 
@@ -24,7 +24,7 @@ Self-Determination Theory (SDT), developed by Ryan and Deci (2000), suggests tha
 
 ## Application in Innovation Research
 
-SDT explains why certain leadership styles, like [[digital-leadership]], are effective at promoting [[innovative-work-behavior]]. By fulfilling these innate needs, leaders empower employees to engage in [[job-crafting]] and build [[innovation-efficacy]], which are precursors to creative output (source: Huang et al. - 2026.md, p. 2-3).
+SDT explains why certain leadership styles, like [[digital-leadership]], are effective at promoting [[innovative-work-behavior]]. By fulfilling these innate needs, leaders empower employees to engage in [[job-crafting]] and build [[innovation-efficacy]]. Furthermore, when basic needs like autonomy and relatedness are met, employees are motivated to seek self-realization through positive role behaviors, often by increasing their **[[psychological-capital]]** (source: Li and Xiao - 2023.md, p. 5).
 
 ## Related pages
 
@@ -32,3 +32,4 @@ SDT explains why certain leadership styles, like [[digital-leadership]], are eff
 - [[innovative-work-behavior]]
 - [[job-crafting]]
 - [[innovation-efficacy]]
+- [[psychological-capital]]

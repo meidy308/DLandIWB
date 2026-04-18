@@ -18,10 +18,12 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[hang-and-nguyet-2026]] - Study on digital leadership affecting retail performance through sequential mediation of digital literacy and IWB in Vietnam.
 - [[huang-et-al-2026]] - Study investigating the sequential mediation of job crafting and innovation efficacy in the relationship between digital leadership and employee innovation in China.
 - [[khan-et-al-2025]] - Study investigating the influence of digital leadership on green innovative behavior through green organizational climate and strategic agility in Chinese software firms.
+- [[li-and-xiao-2023]] - Study investigating how E-leadership (Digital Leadership) drives innovation through psychological capital and affective commitment, moderated by power distance in China.
 
 ## Concepts & Variables
 - [[adaptive-performance]] - The ability to adjust behavior and performance in response to changing work demands and environmental conditions.
 - [[affective-commitment]] - Emotional attachment to an organization and desire to remain.
+- [[affective-commitment-to-leadership]] - Emotional identification with and attachment to an individual leader.
 - [[digital-competency]] - Knowledge, skills, and attitudes in utilizing digital resources efficiently.
 - [[digital-leadership]] - Leadership maximizing tech integration and adaptability.
 - [[digital-literacy]] - Awareness and capability to utilize digital resources for identifies, evaluation, and synthesis.
@@ -44,6 +46,8 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[organization-experience]] - Knowledge and skills gained from active organizational participation.
 - [[proactive-personality]] - Tendency to take initiative and bring about meaningful change.
 - [[problem-solving-creativity]] - Ability to generate novel ideas and original methods in tackling complex challenges.
+- [[power-distance]] - Individual cultural value orientation relating to the acceptance of power imbalances.
+- [[psychological-capital]] - Positive psychological resources characterized by self-efficacy, optimism, hope, and resilience.
 - [[psychological-empowerment]] - Motivational cognitions relating to meaning, competence, autonomy, and impact.
 - [[strategic-agility]] - An organization’s capacity to detect early signals of change and respond effectively by reconfiguring internal resources.
 - [[work-engagement]] - Fulfilling state of mind characterized by vigor, dedication, and absorption.

@@ -2,20 +2,27 @@
 title: Digital Leadership
 tags: [concept, variable, leadership]
 date-created: 2026-04-13
-date-updated: 2026-04-15
+date-updated: 2026-04-18
 confidence: high
 ---
 
 # Digital Leadership
 
-**Summary**: A leadership style that maximizes technology integration, adaptability, and fosters a digital work climate to encourage innovation.
+**Summary**: A leadership style that maximizes technology integration, adaptability, and fosters a digital work climate to encourage innovation. Also referred to as **E-leadership**, focuses on influencing others through information technology to achieve organizational goals.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md
-
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md
 
 ---
 
-Digital leadership involves leaders who effectively integrate technology into work processes, possess high adaptability to contemporary changes, and motivate their teams to produce innovations (source: Afif and Fitrianingrum - 2025.md, p. 3113). They are characterized by strategic vision, emotional intelligence, and openness to change (source: Çetinkaya and Sürücü - 2025.md, p. 238–239). It can also be seen as a combination of transformational leadership and digital technology usage, where digitally competent leaders act as proactive drivers of innovation by creating a digital workplace (source: Erhan et al. - 2022.md, p. 1525, 1528). Digital leadership refers to a company's capability to leverage digital, industry, business, and corporate strategy leadership qualities to oversee teams comprising both digitally skilled and non-skilled individuals (source: Ahmed et al. - 2024.md, p. 3608).
+Digital leadership involves leaders who effectively integrate technology into work processes, possess high adaptability to contemporary changes, and motivate their teams to produce innovations (source: Afif and Fitrianingrum - 2025.md, p. 3113). In the early literature, this construct was primarily known as **E-leadership**, defined as the use of information technology as a medium to integrate resources, motivate, and influence employees in the knowledge economy (source: Li and Xiao - 2023.md, p. 1). They are characterized by strategic vision, emotional intelligence, and openness to change (source: Çetinkaya and Sürücü - 2025.md, p. 238–239).
+
+## Dual Influence Mechanisms
+
+Li and Xiao (2023) identify two core psychological perspectives through which digital leadership influences subordinates (source: Li and Xiao - 2023.md, p. 3-4):
+
+1. **Perspective of "Self"**: Leaders use digital scenarios to create a sense of support and competence, thereby increasing employees' **[[psychological-capital]]** (self-efficacy, hope, optimism, resilience).
+2. **Perspective of "Relationship"**: Leaders optimize digital interactions to build high-quality links, enhancing employees' **[[affective-commitment-to-leadership]]**.
+, p. 3608).
 
 ## Dimensions
 
@@ -60,7 +67,7 @@ Digital leadership has a positive and significant effect on [[innovative-work-be
 - **Strong direct effect** in the Turkish automotive sector (B = 0.80 on IWB, B = 0.60 on [[adaptive-performance]]). Together with [[digital-organizational-culture]], these variables explain 82% of IWB variance and 87% of adaptive performance variance (source: Deviren - 2026.md, p. 39–40).
 - **All four IWB dimensions predicted** in the Turkish textile industry: idea exploration, generation, championing, and implementation are all significantly and positively predicted by digital leadership (source: Erhan et al. - 2022.md, p. 1535–1536).
 - **Strong effect on IWB among Indonesian millennials**: digital leadership significantly predicts innovative behavior ($\beta = 0.606, p = .000$), providing the necessary vision to move beyond daily routines (source: Gehan and Yulianti - 2024.md, p. 37).
-- **Positive impact in Chinese digital sector**: digital leadership demonstrates a significant positive effect on employee innovative behavior (β = .338, p < .001). This relationship is driven by the satisfaction of core psychological needs for autonomy, competence, and relatedness (source: Huang et al. - 2026.md, p. 8-9).
+- **Positive impact in Chinese digital sector**: digital leadership demonstrates a significant positive effect on employee innovative behavior (β = .338, p < .001). This relationship is driven by the satisfaction of core psychological needs for autonomy, competence, and relatedness (source: Huang et al. - 2026.md, p. 8-9). This is further categorized into two mediation pathways: the "Self" path via improved **[[psychological-capital]]** ($\beta = .356$) and the "Relationship" path via **[[affective-commitment-to-leadership]]** ($\beta = .251$) (source: Li and Xiao - 2023.md, p. 11).
 - **No direct DL → IWB path in Ahmed et al. (2024) and Hastiti et al. (2025)**: both studies find that the influence of digital leadership is entirely channeled through mediators (learning orientation/innovation capabilities in Ahmed; intrinsic motivation in Hastiti) (source: Ahmed et al. - 2024.md, p. 3622; Hastiti et al. - 2025.md, p. 53).
 - **Non-significant direct effect in specific contexts**: in certain high-risk, project-based environments like energy infrastructure, financial incentives like [[employee-compensation]] may override leadership style in predicting IWB ($p = .3195$) (source: fahrurrozi-and-arief-2026.md, p. 65). This is echoed by findings that suggest DL's influence is often channeled through mediators.
 
@@ -93,6 +100,7 @@ Digital leadership encourages IWB through several sequential mechanisms:
 - **[[digital-literacy]] positively moderates DL → IWB and DL → Performance**: the influence of digital leadership on innovation and results is significantly amplified when employees possess higher digital literacy (source: Hang and Nguyệt - 2026.md, p. 14, 16).
 - **[[organizational-innovation-climate]] positively moderates DL → IWB**: a supportive climate acts as a catalyst, making the positive influence of digital leadership on innovation behavior stronger (β = .333, p < .001) (source: Huang et al. - 2026.md, p. 9).
 - **[[strategic-agility]] positively moderates DL → [[green-organizational-climate]]**: higher strategic agility amplifies the positive impact of digital leadership on fostering a sustainable organizational climate (β = 0.36, p < .001). Under low agility, the leadership effect on green innovation may become non-significant (source: Khan et al. - 2025.md, p. 9, 11).
+- **[[power-distance]] negatively moderates DL influence**: in organizations with high power distance orientation, the positive effects of digital leadership on [[psychological-capital]] and [[affective-commitment-to-leadership]] are significantly weakened. Low power distance strengthens the sensitivity of employees to leadership cues (source: Li and Xiao - 2023.md, p. 13).
 
 ## Measurement
 
@@ -110,6 +118,7 @@ Digital leadership is measured with varying scales across the studies:
 - **Hang and Nguyệt (2026)**: based on Sow & Aborbie (2018) / Erhan et al. (2022). Reliability: $\alpha = 0.840$, AVE = 0.610 (source: Hang and Nguyệt - 2026.md, p. 10).
 - **Huang et al. (2026)**: 6-item scale (Zeike et al., 2019), 5-point Likert. Items focus on digital technology knowledge and inspiration. Reliability: Cronbach's α = 0.914, AVE = 0.647, CR = 0.916 (source: Huang et al. - 2026.md, p. 5-6).
 - **Khan et al. (2025)**: 6-item scale adapted from Shin et al. (2023), 5-point Likert. Reliability: Cronbach's α = 0.905, CR = 0.907, AVE = 0.619 (source: Khan et al. - 2025.md, p. 8).
+- **Li and Xiao (2023)**: 18 items across 4 dimensions (Liu, 2007), 5-point Likert. Focuses on network information containment, data collection via tech, and commercial prospects and organizing individuals for ICT-mediated tasks (source: Li and Xiao - 2023.md, p. 11).
 
 ## IPMA Priority Insights
 
@@ -148,6 +157,9 @@ Importance-Performance Map Analysis (IPMA) in the retail sector indicates that d
 - [[green-organizational-climate]]
 - [[green-innovative-behavior]]
 - [[strategic-agility]]
+- [[psychological-capital]]
+- [[affective-commitment-to-leadership]]
+- [[power-distance]]
 - [[self-determination-theory]]
 - [[person-environment-fit-theory]]
 - [[cognitive-affective-processing-system]]

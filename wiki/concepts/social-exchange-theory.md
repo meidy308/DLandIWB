@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A psychological framework proposing that human behavior is driven by a cycle of social exchange where people weigh the costs and rewards of relationships.
 
-**Sources**: Ahmed et al. - 2024.md
+**Sources**: Ahmed et al. - 2024.md, Li and Xiao - 2023.md
 
 ---
 
@@ -22,6 +22,7 @@ In organizational settings, the theory explains why positive leadership behavior
 
 - When employees feel treated ethically, trusted, and supported by their leaders, they feel compelled to reciprocate by aligning with managerial expectations and engaging in voluntary positive work activities (source: Ahmed et al. - 2024.md, p. 3610–3611).
 - Employees evaluate the digital leadership shown by their superiors and respond by enhancing their own learning ([[learning-orientation]]) and building [[innovation-capabilities]], ultimately exhibiting [[innovative-work-behavior]] (source: Ahmed et al. - 2024.md, p. 3612).
+- Digital leadership fosters **[[affective-commitment-to-leadership]]**, which significantly increases the motivation to reciprocate through innovation and organizational citizenship behavior (source: Li and Xiao - 2023.md, p. 3).
 
 ## Relationship with Other Variables
 
@@ -36,4 +37,5 @@ The theory also explains the serial mediation chain: [[digital-leadership]] → 
 - [[learning-orientation]]
 - [[innovation-capabilities]]
 - [[innovative-work-behavior]]
+- [[affective-commitment-to-leadership]]
 - [[ahmed-et-al-2024]]
