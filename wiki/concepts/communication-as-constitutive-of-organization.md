@@ -1,8 +1,9 @@
 ---
 title: Communication as Constitutive of Organization
 tags: [theory, concept, communication]
-created: 2026-04-13
-updated: 2026-04-13
+date-created: 2026-04-13
+date-updated: 2026-04-13
+confidence: high
 ---
 
 # Communication as Constitutive of Organization

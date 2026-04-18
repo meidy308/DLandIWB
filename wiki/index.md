@@ -14,7 +14,6 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[farhaq-and-yulianti-2024]] - Study investigating digital leadership's impact on employee performance through the mediating role of IWB among millennials in East Java.
 - [[fauziah-et-al-2026]] - Study on digital talent development influencing IWB through integrated mediation of digital leadership, competency, and culture.
 
-
 ## Concepts & Variables
 - [[adaptive-performance]] - The ability to adjust behavior and performance in response to changing work demands and environmental conditions.
 - [[affective-commitment]] - Emotional attachment to an organization and desire to remain.

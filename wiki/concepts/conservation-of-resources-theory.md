@@ -1,8 +1,9 @@
 ---
 title: Conservation of Resources Theory
 tags: [theory, concept]
-created: 2026-04-13
-updated: 2026-04-13
+date-created: 2026-04-13
+date-updated: 2026-04-13
+confidence: high
 ---
 
 # Conservation of Resources Theory

@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: This study demonstrates that digital leadership significantly enhances employee performance through the mediating role of innovative work behavior among millennial employees in East Java.
 
-**Sources**: farhaq-and-yulianti-2024.md
+**Sources**: Farhaq and Yulianti - 2024.md
 
 ---
 
@@ -42,27 +42,27 @@ confidence: high
 ## Key Findings
 
 ### Impact of Digital Leadership
-Digital leadership significantly positively affects millennial employee performance in East Java. Higher digital leadership leads to higher performance (source: farhaq-and-yulianti-2024.md, p. 407). Digital leadership also has a dominant impact on driving innovative behavior compared to other variables (source: farhaq-and-yulianti-2024.md, p. 408).
+Digital leadership significantly positively affects millennial employee performance in East Java. Higher digital leadership leads to higher performance (source: Farhaq and Yulianti - 2024.md, p. 407). Digital leadership also has a dominant impact on driving innovative behavior compared to other variables (source: Farhaq and Yulianti - 2024.md, p. 408).
 
 ### The Mediating Role of IWB
-Innovative work behavior acts as a critical bridge. Digital leadership encourages millennial employees to implement their imagination (source: farhaq-and-yulianti-2024.md, p. 406). The study confirms that IWB significantly mediates the path between digital leadership and performance (source: farhaq-and-yulianti-2024.md, p. 407).
+Innovative work behavior acts as a critical bridge. Digital leadership encourages millennial employees to implement their imagination (source: Farhaq and Yulianti - 2024.md, p. 406). The study confirms that IWB significantly mediates the path between digital leadership and performance (source: Farhaq and Yulianti - 2024.md, p. 407).
 
 ### Millennial Preferences
-Millennials in the workplace value flexibility (52%), professional development (70%), and ease of communication via supporting applications (59%) (source: farhaq-and-yulianti-2024.md, p. 396-397). Effective digital leaders must understand these characteristics to drive productivity.
+Millennials in the workplace value flexibility (52%), professional development (70%), and ease of communication via supporting applications (59%) (source: Farhaq and Yulianti - 2024.md, p. 396-397). Effective digital leaders must understand these characteristics to drive productivity.
 
 ## Contradictions
 
-The finding that digital leadership significantly impacts performance (H1) contradicts the study by **Arief Rizqi et al. (2023)**, which found no significant direct effect from digital leadership to employee performance (source: farhaq-and-yulianti-2024.md, p. 400).
+The finding that digital leadership significantly impacts performance (H1) contradicts the study by **Arief Rizqi et al. (2023)**, which found no significant direct effect from digital leadership to employee performance (source: Farhaq and Yulianti - 2024.md, p. 400).
 
 ## Practical Implications
 
-- **For Leaders**: Companies should provide guidance to supervisors on using digital tools to motivate millennial employees (source: farhaq-and-yulianti-2024.md, p. 408).
-- **Employee Voice**: Companies should give millennials opportunities to channel aspirations or ideas to improve productivity (source: farhaq-and-yulianti-2024.md, p. 408).
-- **Incentives**: Providing benefits and a pleasant work environment is recommended to boost millennial enthusiasm and performance (source: farhaq-and-yulianti-2024.md, p. 408).
+- **For Leaders**: Companies should provide guidance to supervisors on using digital tools to motivate millennial employees (source: Farhaq and Yulianti - 2024.md, p. 408).
+- **Employee Voice**: Companies should give millennials opportunities to channel aspirations or ideas to improve productivity (source: Farhaq and Yulianti - 2024.md, p. 408).
+- **Incentives**: Providing benefits and a pleasant work environment is recommended to boost millennial enthusiasm and performance (source: Farhaq and Yulianti - 2024.md, p. 408).
 
 ## Limitation
 
-The conceptual model is limited to the tested variables in the specific region of East Java. The author recommends future research involve other potential variables and different geographical areas in Indonesia (source: farhaq-and-yulianti-2024.md, p. 408).
+The conceptual model is limited to the tested variables in the specific region of East Java. The author recommends future research involve other potential variables and different geographical areas in Indonesia (source: Farhaq and Yulianti - 2024.md, p. 408).
 
 ## Related pages
 
