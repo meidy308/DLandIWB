@@ -16,6 +16,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[gehan-and-yulianti-2024]] - Study investigating how digital leadership's effect on performance among millennials in East Java is fully mediated by IWB, with LMX as a non-significant moderator.
 - [[hadi-et-al-2024]] - Study investigating how digital leadership and organizational support affect IWB through emotional intelligence among Indonesian lecturers.
 - [[hang-and-nguyet-2026]] - Study on digital leadership affecting retail performance through sequential mediation of digital literacy and IWB in Vietnam.
+- [[huang-et-al-2026]] - Study investigating the sequential mediation of job crafting and innovation efficacy in the relationship between digital leadership and employee innovation in China.
 
 ## Concepts & Variables
 - [[adaptive-performance]] - The ability to adjust behavior and performance in response to changing work demands and environmental conditions.
@@ -27,11 +28,15 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[emotional-intelligence]] - Ability to identify, manage, and regulate one's own and others' emotions.
 - [[digital-talent-development]] - Systematic process of enhancing employees' digital skills and technical proficiency.
 - [[innovation-capabilities]] - Aptitudes and methodologies to nurture practical innovations.
-
+- [[innovation-efficacy]] - An employee's belief in their capability to produce and execute innovative outcomes at work.
 - [[innovative-work-behavior]] - Generating, promoting, and implementing new ideas.
 - [[intrinsic-motivation]] - Internal drive to act out of interest, satisfaction, or a desire to achieve personal goals.
+- [[job-crafting]] - The self-initiated actions employees take to reshape their job boundaries by aligning their skills and resources with work demands.
+- [[job-demands-resources-theory]] - Interaction of job resources and demands on employee performance.
+- [[kaizen-culture]] - Management philosophy focused on continuous, incremental improvement.
 - [[leader-member-exchange]] - The quality of the localized, two-way relationship between leaders and subordinates.
 - [[learning-orientation]] - Active dedication to continuously enhancing skills and understanding.
+- [[organizational-innovation-climate]] - Shared perceptions of practices and behaviors that encourage and reward innovation.
 - [[organizational-support]] - Degree to which an organization values employee contributions and welfare.
 - [[organization-experience]] - Knowledge and skills gained from active organizational participation.
 - [[proactive-personality]] - Tendency to take initiative and bring about meaningful change.
@@ -52,3 +57,5 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[social-role-theory]] - Posits that behavioral differences between men and women are influenced by constructed social roles.
 - [[resource-based-theory]] - A framework viewing organizational internal resources and capabilities as primary drivers of competitive advantage.
 - [[upper-echelon-theory]] - Posits that organizational strategic choices and performance are reflections of the values and cognitions of powerful managers.
+- [[self-determination-theory]] - Posits that human behavior is driven by the satisfaction of autonomy, competence, and relatedness needs.
+- [[person-environment-fit-theory]] - Suggests that behavior is a function of the compatibility between an individual and their work environment.

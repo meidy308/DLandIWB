@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The ability of individuals to generate, promote, and implement new and valuable ideas for an organization.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md
 
 
 ---
@@ -34,6 +34,8 @@ IWB is conceptualized through varying dimensional frameworks across the studies:
 
 **Deviren (2026)** — Unidimensional, 10 items (Jong & den Hartog, adapted by Çimen & Yücel, 2017) (source: Deviren - 2026.md, p. 36).
 
+**Huang et al. (2026)** — Unidimensional, 6 items (Scott & Bruce, 1994). Items focus on idea generation and planning for implementation (source: Huang et al. - 2026.md, p. 5).
+
 ## Relationship with Other Variables
 
 ### As dependent variable (DV)
@@ -41,7 +43,7 @@ IWB is conceptualized through varying dimensional frameworks across the studies:
 IWB is the primary outcome variable across all studies in this wiki. Its key antecedents include:
 
 **Direct predictors**:
-- **[[digital-leadership]]** — Positive and significant across all studies, though effect sizes vary from weak (β = 0.153, F² = 0.032 in [[afif-fitrianingrum-2025]]) to very strong (B = 0.80 in Deviren, 2026). In the Ahmed et al. (2024) model, DL has no direct effect on IWB — the entire effect is sequentially mediated (source: Afif and Fitrianingrum - 2025.md, p. 3118; Deviren - 2026.md, p. 39; Ahmed et al. - 2024.md, p. 3622).
+- **[[digital-leadership]]** — Positive and significant across all studies, though effect sizes vary from weak (β = 0.153, F² = 0.032 in [[afif-fitrianingrum-2025]]) to very strong (B = 0.80 in Deviren, 2026). In the Chinese digital sector, digital leadership significantly predicts IWB with β = .338, p < .001 (source: Huang et al. - 2026.md, p. 8). In the Ahmed et al. (2024) model, DL has no direct effect on IWB — the entire effect is sequentially mediated (source: Afif and Fitrianingrum - 2025.md, p. 3118; Deviren - 2026.md, p. 39; Ahmed et al. - 2024.md, p. 3622).
 - **[[work-engagement]]** — Positive and significant (β = 0.262, t = 3.805, p = 0.000, F² = 0.082). Engaged individuals with energy, dedication, and concentration are motivated to seek new methods in their work (source: Afif and Fitrianingrum - 2025.md, p. 3118–3119).
 - **[[organization-experience]]** — The strongest direct predictor among Gen Z workers (β = 0.412, t = 5.759, p = 0.000, F² = 0.170, moderate effect). Accumulated organizational knowledge, decision-making courage, and collaboration skills are the most dominant drivers of innovation in this context (source: Afif and Fitrianingrum - 2025.md, p. 3118–3120).
 - **[[innovation-capabilities]]** — Positive and significant (β = 0.424, t = 7.058, p = 0.000). Having concrete capabilities to innovate translates directly into innovative behavior (source: Ahmed et al. - 2024.md, p. 3619).
@@ -51,6 +53,7 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **[[emotional-intelligence]]** — Found to be a high significant predictor of IWB total effect ($B = 0.587, p = 0.000$). Individuals who can identify and direct their emotions effectively are more likely to carry out innovative behavior (source: [[hadi-et-al-2024]]).
 - **[[organizational-support]]** — A positive and significant predictor ($B = 0.299$ direct effect, $p = 0.006$). Perceptions of support directly increase the production of creative and innovative behaviors (source: [[hadi-et-al-2024]]).
 - **[[digital-literacy]]** — Positive and significant direct effect ($\beta = 0.535, p = .000$). High digital literacy enables employees to explore new technology and identify opportunities for improvement (source: Hang and Nguyệt - 2026.md, p. 13).
+- **[[innovation-efficacy]]** — Positive and significant predictor (Point estimate = 0.419). Confidence in creative capabilities proximally drives the initiation of innovative actions (source: Huang et al. - 2026.md, p. 8).
 
 
 **Mediated pathways to IWB**:
@@ -64,9 +67,11 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **[[digital-talent-development]] → (DL, DC, DCu) → IWB** — Parallel/simultaneous mediation where talent development influences innovation through joint effects of digital leadership, digital competency, and digital culture ($B = 0.428, p = 0.000$) (source: Fauziah et al. - 2026.md, p. 483).
 - **[[organizational-support]]** → **[[emotional-intelligence]]** → IWB — Emotional intelligence serves as a significant mediator between organizational support and IWB ($B = 0.288, p = 0.001$), but fails to mediate the digital leadership path in some contexts (source: [[hadi-et-al-2024]]).
 - **DL → [[digital-literacy]] → IWB → Performance** — Sequential mediation in the retail sector where digital literacy provides the technical foundation for innovative behavior, which then drives performance (source: Hang and Nguyệt - 2026.md, p. 16).
+- **DL → [[job-crafting]] → [[innovation-efficacy]] → IWB** — Sequential chain where digital leadership promotes job crafting, which enhances innovation efficacy, ultimately feeding into innovative behavior ($Point estimate = 0.067, 95\% CI [0.033, 0.124]$) (source: Huang et al. - 2026.md, p. 8).
 
 **Moderation of IWB paths**:
 - **[[digital-literacy]] moderates DL → IWB**: High digital literacy significantly strengthens the impact of digital leadership on innovative behavior (interaction: $\beta = 0.085, p = .000$) (source: Hang and Nguyệt - 2026.md, p. 16).
+- **[[organizational-innovation-climate]] moderates DL → IWB**: A supportive climate amplifies the relationship, making digital leadership more effective in fostering innovation behavior (β = .333, p < .001) (source: Huang et al. - 2026.md, p. 9).
 
 
 **Variance explained**:
@@ -76,6 +81,7 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - DL explains **40.4%** of IWB variance among millennials in East Java (source: farhaq-and-yulianti-2024.md, p. 404). In a similar sample, DL explains **36.7%** of IWB variance ($R^2 = 0.367$) (source: Gehan and Yulianti - 2024.md, p. 36).
 - DTD + DL + DC + DCu explain **59.2%** of IWB variance in the Indonesian telecom industry (R² = 0.592) (source: Fauziah et al. - 2026.md, p. 480).
 - DL + DLit explain **65.9%** of IWB variance in the Vietnamese retail sector (R² = 0.659) (source: Hang and Nguyệt - 2026.md, p. 14).
+- The sequential mediation model (including DL, JC, and EIS) explains a significant portion of IWB variance in Chinese digital enterprises ($R^2 = 0.280$) (source: Huang et al. - 2026.md, p. 8).
 
 
 ### As mediator
@@ -144,5 +150,10 @@ IWB is measured with varying scales across the studies:
 - [[digital-competency]]
 - [[digital-literacy]]
 - [[employee-performance]]
+- [[job-crafting]]
+- [[innovation-efficacy]]
+- [[organizational-innovation-climate]]
+- [[self-determination-theory]]
+- [[person-environment-fit-theory]]
 - [[person-organization-fit-theory]]
 
