@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A leadership style that maximizes technology integration, adaptability, and fosters a digital work climate to encourage innovation.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md
 
 
 ---
@@ -37,6 +37,14 @@ Digital leadership is measured through varying dimensional frameworks across the
 2. **Competence** — Technical expertise as a digital specialist.
 3. **Behavior** — Active pursuit of the latest digital knowledge.
 4. **Skill** — Ability to implement digital transformation.
+
+**Hadi et al. (2024)** — 6 dimensions based on Ajabar et al. (2021) (source: Hadi et al. - 2023.md, p. 77):
+1. **Technological skill** — Following developments and adapting to digital technology.
+2. **Communication skills** — Willingness to educate and share info in adapting to tech.
+3. **Social skills** — Caring about welfare, career guidance, and IT risk awareness.
+4. **Team building skills** — Recommending digital mastery and collaboration.
+5. **Change management** — Raising awareness of digital technology and innovation in processes.
+6. **Trustworthiness** — Maintaining trust and developing employee competence.
 
 ## Relationship with Other Variables
 
@@ -66,6 +74,9 @@ Digital leadership encourages IWB through several sequential mechanisms:
 - **DL → [[innovative-work-behavior]] → [[employee-performance]]** — digital leadership creates an environment where millennials feel empowered to implement imagination and creative ideas, which in turn drives overall work performance (mediation effect: β = 5.023, p = 0.000) (source: farhaq-and-yulianti-2024.md, p. 406-407).
 - **[[digital-talent-development]] → DL → IWB** — talent development provides the groundwork for digital leadership, which in turn guides and empowers employees to explore novel approaches and creative solutions ($B = 0.095, p = 0.047$) (source: Fauziah et al. - 2026.md, p. 483).
 
+### Link to Emotional States
+- **Non-significant effect on [[emotional-intelligence]]**: Digital leadership competence does not necessarily translate into higher emotional intelligence among subordinates ($p = 0.289$). Subordinates still require separate psychological knowledge to develop emotional maturity (source: [[hadi-et-al-2024]]).
+
 
 ### Moderation effects
 - **[[leader-member-exchange]] moderates DL → learning orientation**: when LMX quality is high, the positive effect of digital leadership on learning orientation is significantly amplified (β = 0.044, t = 3.069, p = 0.002) (source: Ahmed et al. - 2024.md, p. 3620).
@@ -83,6 +94,7 @@ Digital leadership is measured with varying scales across the studies:
 - **Hastiti et al. (2025)**: 5 indicators focusing on technology adoption motivation and data-driven decision making, 5-point Likert. Reliability: Cronbach's α = 0.901 (source: Hastiti et al. - 2025.md, p. 47).
 - **Farhaq & Yulianti (2024)**: 10 items (adapted from Erhan et al. & Zhu et al.), 5-point Likert. Reliability: Cronbach's α = 0.950, CR = 0.939, AVE = 0.732 (source: farhaq-and-yulianti-2024.md, p. 403).
 - **Gehan and Yulianti (2024)**: 9 indicators (based on Erhan et al.), 5-point Likert. Reliability: Cronbach's α = 0.875, CR = 0.902, AVE = 0.542 (source: Gehan and Yulianti - 2024.md, p. 35-36).
+- **Hadi et al. (2024)**: 18 statements (based on Ajabar et al., 2021), 5-point Likert. Reliability: Cronbach's α = 0.980 (source: Hadi et al. - 2023.md, p. 78).
 
 ## Contradictions
 
@@ -91,6 +103,7 @@ Digital leadership is measured with varying scales across the studies:
 - **Digital culture's role** is contested: positive mediator in Çetinkaya & Sürücü (2025) vs. negative moderator in Deviren (2026).
 - **Contextual variability**: while most studies support the importance of digital leadership for IWB, findings from the energy infrastructure sector suggest its impact can be overridden by more tangible rewards like [[employee-compensation]] (source: fahrurrozi-and-arief-2026.md, p. 65).
 - **Contradiction in Performance Linkage**: Farhaq & Yulianti (2024) found a significant direct effect on performance, which conflicts with **Gehan and Yulianti (2024)** and **Arief Rizqi et al. (2023)**, both of whom found no significant direct path from digital leadership to employee performance (source: Gehan and Yulianti - 2024.md, p. 37; farhaq-and-yulianti-2024.md, p. 400).
+- **Total vs. Mediated Effect on IWB**: While [[erhan-et-al-2022]] found a strong direct impact, [[hadi-et-al-2024]] found that digital leadership had **no significant effect** ($p = 0.498$) on any dimension of IWB in the Indonesian higher education sector. This suggests that digital leadership effectiveness may be context-dependent or contingent on levels of [[emotional-intelligence]] and [[organizational-support]].
 
 ## Related pages
 
@@ -107,6 +120,8 @@ Digital leadership is measured with varying scales across the studies:
 - [[psychological-empowerment]]
 - [[intrinsic-motivation]]
 - [[problem-solving-creativity]]
+- [[emotional-intelligence]]
+- [[organizational-support]]
 - [[cognitive-affective-processing-system]]
 - [[social-exchange-theory]]
 - [[social-role-theory]]

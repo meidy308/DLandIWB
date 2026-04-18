@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The ability of individuals to generate, promote, and implement new and valuable ideas for an organization.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md
 
 
 ---
@@ -48,6 +48,8 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **[[employee-compensation]]** — The strongest predictor of IWB in the Indonesian energy infrastructure sector ($B = 0.581, p < .001$), outweighing digital leadership and culture in that context (source: Fahrurrozi and Arief - 2026.md, p. 65).
 - **[[digital-talent-development]]** — While provided as a foundational predictor, it showed a **non-significant direct effect** on IWB in the telecom sector (B = 0.076, p = 0.202), heavily relying on mediation through leadership, competency, and culture (source: Fauziah et al. - 2026.md, p. 481).
 - **[[digital-competency]]** — Positive and significant direct effect when mediating talent development ($B = 0.094, p = 0.036$) (source: Fauziah et al. - 2026.md, p. 482).
+- **[[emotional-intelligence]]** — Found to be a high significant predictor of IWB total effect ($B = 0.587, p = 0.000$). Individuals who can identify and direct their emotions effectively are more likely to carry out innovative behavior (source: [[hadi-et-al-2024]]).
+- **[[organizational-support]]** — A positive and significant predictor ($B = 0.299$ direct effect, $p = 0.006$). Perceptions of support directly increase the production of creative and innovative behaviors (source: [[hadi-et-al-2024]]).
 
 
 **Mediated pathways to IWB**:
@@ -59,6 +61,7 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **[[employee-compensation]] → IWB → [[employee-loyalty]]** — In project-based industries, IWB serves as a critical behavioral mechanism through which financial rewards are translated into long-term commitment (indirect effect: $B = 0.369, p = .0002$) (source: Fahrurrozi and Arief - 2026.md, p. 65).
 - **[[digital-leadership]] → IWB → [[employee-performance]]** — Digital leadership fosters an environment where millennials feel empowered to implement imagination and creative ideas, which in turn drives overall work performance (indirect effect: β = 5.023, p = 0.000) (source: farhaq-and-yulianti-2024.md, p. 407). Similarly, IWB serves as the critical engine for performance gains when driven by digital leadership ($O = 0.541, p = .000$) (source: Gehan and Yulianti - 2024.md, p. 37).
 - **[[digital-talent-development]] → (DL, DC, DCu) → IWB** — Parallel/simultaneous mediation where talent development influences innovation through joint effects of digital leadership, digital competency, and digital culture ($B = 0.428, p = 0.000$) (source: Fauziah et al. - 2026.md, p. 483).
+- **[[organizational-support]] → [[emotional-intelligence]] → IWB** — Emotional intelligence serves as a significant mediator between organizational support and IWB ($B = 0.288, p = 0.001$), but fails to mediate the digital leadership path in some contexts (source: [[hadi-et-al-2024]]).
 
 
 **Variance explained**:
@@ -85,12 +88,14 @@ IWB is measured with varying scales across the studies:
 - **Hastiti et al. (2025)**: 6 indicators focusing on the initiation of change and implementation of new ideas, 5-point Likert. Reliability: Cronbach's α = 0.852 (source: Hastiti et al. - 2025.md, p. 48).
 - **Farhaq & Yulianti (2024)**: 9 items (idea generation, promotion, & realization), 5-point Likert (Zhu et al., 2022). Reliability: Cronbach's α = 0.964, CR = 0.958, AVE = 0.750 (source: farhaq-and-yulianti-2024.md, p. 403-404).
 - **Gehan and Yulianti (2024)**: 9 items (idea generation, promotion, & realization), 5-point Likert. Reliability: Cronbach's α = 0.933, CR = 0.945, AVE = 0.658 (source: Gehan and Yulianti - 2024.md, p. 35-36).
+- **Hadi et al. (2024)**: 12 statements (idea exploration, generation, promotion, implementation), 5-point Likert (based on Erhan et al., 2022). Reliability: Cronbach's α = 0.942 (source: Hadi et al. - 2023.md, p. 78).
 
 ## Contradictions
 
 - The **effect size of digital leadership on IWB** varies dramatically across studies: from weak (F² = 0.032) in Afif & Fitrianingrum (2025) to very strong (B = 0.80) in Deviren (2026). This may reflect differences in sector, sample demographics (Gen Z vs. general workforce), model specification, and the presence of other IVs.
 - In **Ahmed et al. (2024)**, there is no significant direct DL → IWB path (R² = 0.179, relatively low). This contrasts sharply with **Erhan et al. (2022)** and **Deviren (2026)**, where digital leadership has strong direct effects on IWB.
 - **IWB as mediator**: When IWB is positioned as a mediator (DL → IWB → AP), it has a **negative indirect effect** (Deviren, 2026). However, as a DV it is consistently positively predicted by digital leadership across all studies.
+- **Direct Link with [[digital-leadership]]**: While most studies report significant positive effects, [[hadi-et-al-2024]] found a **non-significant** relationship ($p = 0.498$) in the Indonesian art higher education sector, where [[organizational-support]] provided a stronger impetus for IWB.
 
 ## Related pages
 
@@ -104,7 +109,10 @@ IWB is measured with varying scales across the studies:
 - [[psychological-empowerment]]
 - [[intrinsic-motivation]]
 - [[problem-solving-creativity]]
+- [[problem-solving-creativity]]
 - [[proactive-personality]]
+- [[emotional-intelligence]]
+- [[organizational-support]]
 - [[cognitive-affective-processing-system]]
 - [[social-exchange-theory]]
 - [[social-role-theory]]
