@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A leadership style that maximizes technology integration, adaptability, and fosters a digital work climate to encourage innovation.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md
 
 
 ---
@@ -81,6 +81,7 @@ Digital leadership encourages IWB through several sequential mechanisms:
 - **[[digital-talent-development]] → DL → IWB** — talent development provides the groundwork for digital leadership, which in turn guides and empowers employees to explore novel approaches and creative solutions ($B = 0.095, p = 0.047$) (source: Fauziah et al. - 2026.md, p. 483).
 - **DL → [[digital-literacy]] → IWB → Performance** — as an antecedent to digital literacy, digital leadership fosters the awareness and capability required for innovative behavior and ultimate work outcomes ($\beta = 0.678$ to literacy) (source: Hang and Nguyệt - 2026.md, p. 13, 16).
 - **DL → [[job-crafting]] → [[innovation-efficacy]] → IWB** — in the Chinese digital sector, digital leadership initiates a sequential psychological sequence where it encourages employees to reshape their work boundaries, which builds confidence in their innovative capabilities ($Point estimate = 0.067, 95\% CI [0.033, 0.124]$) (source: Huang et al. - 2026.md, p. 8-9).
+- **DL → [[green-organizational-climate]] → [[green-innovative-behavior]]** — digital leadership creates a supportive green climate that enables employees to engage in eco-innovation (indirect effect: β = 0.14) (source: Khan et al. - 2025.md, p. 9).
 
 ### Link to Emotional States
 - **Non-significant effect on [[emotional-intelligence]]**: Digital leadership competence does not necessarily translate into higher emotional intelligence among subordinates ($p = 0.289$). Subordinates still require separate psychological knowledge to develop emotional maturity (source: [[hadi-et-al-2024]]).
@@ -91,6 +92,7 @@ Digital leadership encourages IWB through several sequential mechanisms:
 - **[[digital-organizational-culture]] negatively moderates DL → IWB and DL → AP**: when digital culture is already strong, it absorbs the influence that digital leadership would otherwise provide — a substitution effect (source: Deviren - 2026.md, p. 42–43). This contrasts with the purely positive mediating role of digital culture observed in [[cetinkaya-surucu-2025]].
 - **[[digital-literacy]] positively moderates DL → IWB and DL → Performance**: the influence of digital leadership on innovation and results is significantly amplified when employees possess higher digital literacy (source: Hang and Nguyệt - 2026.md, p. 14, 16).
 - **[[organizational-innovation-climate]] positively moderates DL → IWB**: a supportive climate acts as a catalyst, making the positive influence of digital leadership on innovation behavior stronger (β = .333, p < .001) (source: Huang et al. - 2026.md, p. 9).
+- **[[strategic-agility]] positively moderates DL → [[green-organizational-climate]]**: higher strategic agility amplifies the positive impact of digital leadership on fostering a sustainable organizational climate (β = 0.36, p < .001). Under low agility, the leadership effect on green innovation may become non-significant (source: Khan et al. - 2025.md, p. 9, 11).
 
 ## Measurement
 
@@ -107,6 +109,7 @@ Digital leadership is measured with varying scales across the studies:
 - **Hadi et al. (2024)**: 18 statements (based on Ajabar et al., 2021), 5-point Likert. Reliability: Cronbach's α = 0.980 (source: Hadi et al. - 2023.md, p. 78).
 - **Hang and Nguyệt (2026)**: based on Sow & Aborbie (2018) / Erhan et al. (2022). Reliability: $\alpha = 0.840$, AVE = 0.610 (source: Hang and Nguyệt - 2026.md, p. 10).
 - **Huang et al. (2026)**: 6-item scale (Zeike et al., 2019), 5-point Likert. Items focus on digital technology knowledge and inspiration. Reliability: Cronbach's α = 0.914, AVE = 0.647, CR = 0.916 (source: Huang et al. - 2026.md, p. 5-6).
+- **Khan et al. (2025)**: 6-item scale adapted from Shin et al. (2023), 5-point Likert. Reliability: Cronbach's α = 0.905, CR = 0.907, AVE = 0.619 (source: Khan et al. - 2025.md, p. 8).
 
 ## IPMA Priority Insights
 
@@ -142,6 +145,9 @@ Importance-Performance Map Analysis (IPMA) in the retail sector indicates that d
 - [[job-crafting]]
 - [[innovation-efficacy]]
 - [[organizational-innovation-climate]]
+- [[green-organizational-climate]]
+- [[green-innovative-behavior]]
+- [[strategic-agility]]
 - [[self-determination-theory]]
 - [[person-environment-fit-theory]]
 - [[cognitive-affective-processing-system]]
@@ -156,6 +162,7 @@ Importance-Performance Map Analysis (IPMA) in the retail sector indicates that d
 - [[gao-and-gao-2024]]
 - [[hastiti-et-al-2025]]
 - [[huang-et-al-2026]]
+- [[khan-et-al-2025]]
 - [[employee-loyalty]]
 - [[kaizen-culture]]
 - [[employee-compensation]]

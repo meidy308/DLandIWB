@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The ability of individuals to generate, promote, and implement new and valuable ideas for an organization.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md
 
 
 ---
@@ -68,10 +68,12 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **[[organizational-support]]** → **[[emotional-intelligence]]** → IWB — Emotional intelligence serves as a significant mediator between organizational support and IWB ($B = 0.288, p = 0.001$), but fails to mediate the digital leadership path in some contexts (source: [[hadi-et-al-2024]]).
 - **DL → [[digital-literacy]] → IWB → Performance** — Sequential mediation in the retail sector where digital literacy provides the technical foundation for innovative behavior, which then drives performance (source: Hang and Nguyệt - 2026.md, p. 16).
 - **DL → [[job-crafting]] → [[innovation-efficacy]] → IWB** — Sequential chain where digital leadership promotes job crafting, which enhances innovation efficacy, ultimately feeding into innovative behavior ($Point estimate = 0.067, 95\% CI [0.033, 0.124]$) (source: Huang et al. - 2026.md, p. 8).
+- **DL → [[green-organizational-climate]] → [[green-innovative-behavior]]** — digital leadership creates a supportive green climate that enables employees to engage in eco-innovation (indirect effect: β = 0.14) (source: Khan et al. - 2025.md, p. 9).
 
 **Moderation of IWB paths**:
 - **[[digital-literacy]] moderates DL → IWB**: High digital literacy significantly strengthens the impact of digital leadership on innovative behavior (interaction: $\beta = 0.085, p = .000$) (source: Hang and Nguyệt - 2026.md, p. 16).
 - **[[organizational-innovation-climate]] moderates DL → IWB**: A supportive climate amplifies the relationship, making digital leadership more effective in fostering innovation behavior (β = .333, p < .001) (source: Huang et al. - 2026.md, p. 9).
+- **[[strategic-agility]] moderates DL → [[green-innovative-behavior]]**: strategic agility acts as a crucial moderator. In firms with low strategic agility, the indirect effect of digital leadership on green innovation becomes non-significant (source: Khan et al. - 2025.md, p. 11).
 
 
 **Variance explained**:
@@ -153,6 +155,9 @@ IWB is measured with varying scales across the studies:
 - [[job-crafting]]
 - [[innovation-efficacy]]
 - [[organizational-innovation-climate]]
+- [[green-innovative-behavior]]
+- [[green-organizational-climate]]
+- [[strategic-agility]]
 - [[self-determination-theory]]
 - [[person-environment-fit-theory]]
 - [[person-organization-fit-theory]]

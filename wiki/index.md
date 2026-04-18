@@ -17,6 +17,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[hadi-et-al-2024]] - Study investigating how digital leadership and organizational support affect IWB through emotional intelligence among Indonesian lecturers.
 - [[hang-and-nguyet-2026]] - Study on digital leadership affecting retail performance through sequential mediation of digital literacy and IWB in Vietnam.
 - [[huang-et-al-2026]] - Study investigating the sequential mediation of job crafting and innovation efficacy in the relationship between digital leadership and employee innovation in China.
+- [[khan-et-al-2025]] - Study investigating the influence of digital leadership on green innovative behavior through green organizational climate and strategic agility in Chinese software firms.
 
 ## Concepts & Variables
 - [[adaptive-performance]] - The ability to adjust behavior and performance in response to changing work demands and environmental conditions.
@@ -27,6 +28,8 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[digital-organizational-culture]] - Shared practices shaping digital technology integration in the workplace.
 - [[emotional-intelligence]] - Ability to identify, manage, and regulate one's own and others' emotions.
 - [[digital-talent-development]] - Systematic process of enhancing employees' digital skills and technical proficiency.
+- [[green-innovative-behavior]] - Actions targeted at inventing and implementing sustainable solutions to achieve environmental goals.
+- [[green-organizational-climate]] - Shared values and perceptions within an organization that encourage eco-friendly actions.
 - [[innovation-capabilities]] - Aptitudes and methodologies to nurture practical innovations.
 - [[innovation-efficacy]] - An employee's belief in their capability to produce and execute innovative outcomes at work.
 - [[innovative-work-behavior]] - Generating, promoting, and implementing new ideas.
@@ -42,6 +45,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[proactive-personality]] - Tendency to take initiative and bring about meaningful change.
 - [[problem-solving-creativity]] - Ability to generate novel ideas and original methods in tackling complex challenges.
 - [[psychological-empowerment]] - Motivational cognitions relating to meaning, competence, autonomy, and impact.
+- [[strategic-agility]] - An organization’s capacity to detect early signals of change and respond effectively by reconfiguring internal resources.
 - [[work-engagement]] - Fulfilling state of mind characterized by vigor, dedication, and absorption.
 - [[employee-loyalty]] - Psychological attachment, commitment, and willingness to remain with an organization.
 - [[kaizen-culture]] - Management philosophy focused on continuous, incremental improvement.
@@ -54,6 +58,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[conservation-of-resources-theory]] - Striving to obtain, retain, and foster resources.
 - [[job-demands-resources-theory]] - Interaction of job resources and demands on employee performance.
 - [[social-exchange-theory]] - Human behavior driven by reciprocal cycles of social exchange.
+- [[social-identity-theory]] - Framework suggesting that individuals define themselves based on social group membership and align their behavior with group values.
 - [[social-role-theory]] - Posits that behavioral differences between men and women are influenced by constructed social roles.
 - [[resource-based-theory]] - A framework viewing organizational internal resources and capabilities as primary drivers of competitive advantage.
 - [[upper-echelon-theory]] - Posits that organizational strategic choices and performance are reflections of the values and cognitions of powerful managers.
