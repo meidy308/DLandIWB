@@ -12,13 +12,18 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[hastiti-et-al-2025]] - Study exploring role of digital leadership, intrinsic motivation, and creativity in driving IWB, highlighting gender differences.
 - [[fahrurrozi-and-arief-2026]] - Study on digital leadership, compensation, Kaizen culture, and IWB in driving employee loyalty in the Indonesian energy sector.
 - [[farhaq-and-yulianti-2024]] - Study investigating digital leadership's impact on employee performance through the mediating role of IWB among millennials in East Java.
+- [[fauziah-et-al-2026]] - Study on digital talent development influencing IWB through integrated mediation of digital leadership, competency, and culture.
+
 
 ## Concepts & Variables
 - [[adaptive-performance]] - The ability to adjust behavior and performance in response to changing work demands and environmental conditions.
 - [[affective-commitment]] - Emotional attachment to an organization and desire to remain.
+- [[digital-competency]] - Knowledge, skills, and attitudes in utilizing digital resources efficiently.
 - [[digital-leadership]] - Leadership maximizing tech integration and adaptability.
 - [[digital-organizational-culture]] - Shared practices shaping digital technology integration in the workplace.
+- [[digital-talent-development]] - Systematic process of enhancing employees' digital skills and technical proficiency.
 - [[innovation-capabilities]] - Aptitudes and methodologies to nurture practical innovations.
+
 - [[innovative-work-behavior]] - Generating, promoting, and implementing new ideas.
 - [[intrinsic-motivation]] - Internal drive to act out of interest, satisfaction, or a desire to achieve personal goals.
 - [[leader-member-exchange]] - The quality of the localized, two-way relationship between leaders and subordinates.

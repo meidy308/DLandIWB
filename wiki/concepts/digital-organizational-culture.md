@@ -10,7 +10,8 @@ confidence: high
 
 **Summary**: The shared values, beliefs, and practices that shape how digital technologies are integrated into the workplace.
 
-**Sources**: Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md
+**Sources**: Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Fauziah et al. - 2026.md
+
 
 ---
 
@@ -51,6 +52,11 @@ In the automotive sector, digital culture plays a **negative moderating role**:
 - However, as digital culture increases, the effect of [[digital-leadership]] on IWB and adaptive performance significantly decreases (B = −0.15 and −0.10, respectively) (source: Deviren - 2026.md, p. 39–40).
 - This is interpreted as a **substitution effect** — when digital culture is already strong, it absorbs or replaces the contribution that digital leadership would otherwise make. Conversely, when digital culture is weak, the influence of digital leadership is substantially stronger (source: Deviren - 2026.md, p. 42–43).
 
+### As mediator (Fauziah et al., 2026)
+Digital culture significantly mediates the relationship between **[[digital-talent-development]]** and IWB:
+- DTD influences IWB through digital culture ($B = 0.239, p = 0.000$), reinforcing the need for a collaborative and experimental environment to translate talent investments into innovation (source: Fauziah et al. - 2026.md, p. 483).
+
+
 ## Measurement
 
 Digital organizational culture is measured with different scales across the studies:
@@ -68,6 +74,9 @@ Digital organizational culture is measured with different scales across the stud
 
 - [[digital-leadership]]
 - [[innovative-work-behavior]]
+- [[digital-talent-development]]
 - [[adaptive-performance]]
 - [[cetinkaya-surucu-2025]]
 - [[deviren-2026]]
+- [[fauziah-et-al-2026]]
+

@@ -10,7 +10,8 @@ confidence: high
 
 **Summary**: A leadership style that maximizes technology integration, adaptability, and fosters a digital work climate to encourage innovation.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Hastiti et al. - 2025.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md
+
 
 ---
 
@@ -55,6 +56,8 @@ Digital leadership encourages IWB through several sequential mechanisms:
 - **DL → [[intrinsic-motivation]] → IWB** — digital leadership drives IWB indirectly through intrinsic motivation. Following [[social-role-theory]], this effect is notably stronger for women. However, [[problem-solving-creativity]] does not always translate directly into IWB without complementary organizational backing (source: Hastiti et al. - 2025.md, p. 51–52).
 - **DL → [[employee-loyalty]]** — while hypothesized to directly enhance loyalty by reducing uncertainty and building trust, digital leadership may show insignificant direct effects in specific industrial contexts like energy infrastructure ($p = .2613$) (source: fahrurrozi-and-arief-2026.md, p. 66).
 - **DL → [[innovative-work-behavior]] → [[employee-performance]]** — digital leadership creates an environment where millennials feel empowered to implement imagination and creative ideas, which in turn drives overall work performance (mediation effect: β = 5.023, p = 0.000) (source: farhaq-and-yulianti-2024.md, p. 406-407).
+- **[[digital-talent-development]] → DL → IWB** — talent development provides the groundwork for digital leadership, which in turn guides and empowers employees to explore novel approaches and creative solutions ($B = 0.095, p = 0.047$) (source: Fauziah et al. - 2026.md, p. 483).
+
 
 ### Moderation effects
 - **[[leader-member-exchange]] moderates DL → learning orientation**: when LMX quality is high, the positive effect of digital leadership on learning orientation is significantly amplified (β = 0.044, t = 3.069, p = 0.002) (source: Ahmed et al. - 2024.md, p. 3620).
@@ -83,7 +86,9 @@ Digital leadership is measured with varying scales across the studies:
 ## Related pages
 
 - [[innovative-work-behavior]]
+- [[digital-talent-development]]
 - [[learning-orientation]]
+
 - [[innovation-capabilities]]
 - [[leader-member-exchange]]
 - [[digital-organizational-culture]]
