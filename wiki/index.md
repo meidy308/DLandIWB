@@ -13,6 +13,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[fahrurrozi-and-arief-2026]] - Study on digital leadership, compensation, Kaizen culture, and IWB in driving employee loyalty in the Indonesian energy sector.
 - [[farhaq-and-yulianti-2024]] - Study investigating digital leadership's impact on employee performance through the mediating role of IWB among millennials in East Java.
 - [[fauziah-et-al-2026]] - Study on digital talent development influencing IWB through integrated mediation of digital leadership, competency, and culture.
+- [[gehan-and-yulianti-2024]] - Study investigating how digital leadership's effect on performance among millennials in East Java is fully mediated by IWB, with LMX as a non-significant moderator.
 
 ## Concepts & Variables
 - [[adaptive-performance]] - The ability to adjust behavior and performance in response to changing work demands and environmental conditions.

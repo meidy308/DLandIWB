@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A leadership style that maximizes technology integration, adaptability, and fosters a digital work climate to encourage innovation.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md
 
 
 ---
@@ -32,6 +32,12 @@ Digital leadership is measured through varying dimensional frameworks across the
 
 **Erhan et al. (2022)** — conceptualized as the combination of visionary digital presence, digital skills, and digital knowledge to foster a digital work climate (source: Erhan et al. - 2022.md, p. 1528).
 
+**Gehan and Yulianti (2024)** — 4 indicators based on Erhan et al. (source: Gehan and Yulianti - 2024.md, p. 33-34):
+1. **Attitude** — Feeling positive about using digital tools.
+2. **Competence** — Technical expertise as a digital specialist.
+3. **Behavior** — Active pursuit of the latest digital knowledge.
+4. **Skill** — Ability to implement digital transformation.
+
 ## Relationship with Other Variables
 
 ### Direct effects on IWB
@@ -40,11 +46,13 @@ Digital leadership has a positive and significant effect on [[innovative-work-be
 - **Weak but significant** in Gen Z workers in Central Java (β = 0.153, t = 2.282, p = 0.023, F² = 0.032). A digital visionary leader serves as an initial trigger for innovation, though [[organization-experience]] and [[work-engagement]] have stronger direct effects (source: Afif and Fitrianingrum - 2025.md, p. 3118–3119).
 - **Strong direct effect** in the Turkish automotive sector (B = 0.80 on IWB, B = 0.60 on [[adaptive-performance]]). Together with [[digital-organizational-culture]], these variables explain 82% of IWB variance and 87% of adaptive performance variance (source: Deviren - 2026.md, p. 39–40).
 - **All four IWB dimensions predicted** in the Turkish textile industry: idea exploration, generation, championing, and implementation are all significantly and positively predicted by digital leadership (source: Erhan et al. - 2022.md, p. 1535–1536).
+- **Strong effect on IWB among Indonesian millennials**: digital leadership significantly predicts innovative behavior ($\beta = 0.606, p = .000$), providing the necessary vision to move beyond daily routines (source: Gehan and Yulianti - 2024.md, p. 37).
 - **No direct DL → IWB path in Ahmed et al. (2024) and Hastiti et al. (2025)**: both studies find that the influence of digital leadership is entirely channeled through mediators (learning orientation/innovation capabilities in Ahmed; intrinsic motivation in Hastiti) (source: Ahmed et al. - 2024.md, p. 3622; Hastiti et al. - 2025.md, p. 53).
 - **Non-significant direct effect in specific contexts**: in certain high-risk, project-based environments like energy infrastructure, financial incentives like [[employee-compensation]] may override leadership style in predicting IWB ($p = .3195$) (source: fahrurrozi-and-arief-2026.md, p. 65). This is echoed by findings that suggest DL's influence is often channeled through mediators.
 
 ### Impact on Employee Performance
-Digital leadership is a strong predictor of [[employee-performance]] (β = 2.581, p = 0.010), particularly among millennial employees who rely on digital agility and flexible leadership styles (source: farhaq-and-yulianti-2024.md, p. 405).
+- **Significant direct effect**: Digital leadership is a strong predictor of [[employee-performance]] (β = 2.581, p = 0.010) (source: farhaq-and-yulianti-2024.md, p. 405).
+- **Non-significant direct effect**: In a similar millennial sample, digital leadership failed to significantly predict performance directly ($p = 0.464$), with its impact acting solely through mediation (source: Gehan and Yulianti - 2024.md, p. 37).
 
 ### Mediated pathways
 Digital leadership encourages IWB through several sequential mechanisms:
@@ -74,6 +82,7 @@ Digital leadership is measured with varying scales across the studies:
 - **Gao and Gao (2024)**: 6-item scale (Zeike et al., 2019), 5-point Likert. Items focus on digital expertise, up-to-date knowledge, and driving transformation. Reliability: Cronbach's α = 0.922, AVE = 0.701, CR = 0.922 (source: Gao and Gao - 2024.md, p. 12).
 - **Hastiti et al. (2025)**: 5 indicators focusing on technology adoption motivation and data-driven decision making, 5-point Likert. Reliability: Cronbach's α = 0.901 (source: Hastiti et al. - 2025.md, p. 47).
 - **Farhaq & Yulianti (2024)**: 10 items (adapted from Erhan et al. & Zhu et al.), 5-point Likert. Reliability: Cronbach's α = 0.950, CR = 0.939, AVE = 0.732 (source: farhaq-and-yulianti-2024.md, p. 403).
+- **Gehan and Yulianti (2024)**: 9 indicators (based on Erhan et al.), 5-point Likert. Reliability: Cronbach's α = 0.875, CR = 0.902, AVE = 0.542 (source: Gehan and Yulianti - 2024.md, p. 35-36).
 
 ## Contradictions
 
@@ -81,7 +90,7 @@ Digital leadership is measured with varying scales across the studies:
 - In **Ahmed et al. (2024)** and **Hastiti et al. (2025)**, there is no significant direct DL → IWB path; the entire effect is mediated. In contrast, **Erhan et al. (2022)** and **Deviren (2026)** report strong direct effects.
 - **Digital culture's role** is contested: positive mediator in Çetinkaya & Sürücü (2025) vs. negative moderator in Deviren (2026).
 - **Contextual variability**: while most studies support the importance of digital leadership for IWB, findings from the energy infrastructure sector suggest its impact can be overridden by more tangible rewards like [[employee-compensation]] (source: fahrurrozi-and-arief-2026.md, p. 65).
-- **Contradiction in Performance Linkage**: Farhaq & Yulianti (2024) found a significant direct effect on performance, which conflicts with **Arief Rizqi et al. (2023)** who found no significant direct path from digital leadership to employee performance (source: farhaq-and-yulianti-2024.md, p. 400).
+- **Contradiction in Performance Linkage**: Farhaq & Yulianti (2024) found a significant direct effect on performance, which conflicts with **Gehan and Yulianti (2024)** and **Arief Rizqi et al. (2023)**, both of whom found no significant direct path from digital leadership to employee performance (source: Gehan and Yulianti - 2024.md, p. 37; farhaq-and-yulianti-2024.md, p. 400).
 
 ## Related pages
 

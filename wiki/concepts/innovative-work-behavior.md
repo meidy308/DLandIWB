@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The ability of individuals to generate, promote, and implement new and valuable ideas for an organization.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md
 
 
 ---
@@ -57,7 +57,7 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **DL → [[affective-commitment]] → IWB** — While digital leadership predicts affective commitment (β = 0.216, p = .001), the indirect path to IWB is not statistically significant in this sample (β = 0.033, p = .070) (source: Gao and Gao - 2024.md, p. 16).
 - **DL → [[intrinsic-motivation]] → IWB** — Intrinsic motivation mediates the DL–IWB link. However, [[problem-solving-creativity]] alone does not always have a directly significant effect on IWB without complementary organizational support. Following [[social-role-theory]], the effect on motivation and creativity is notably stronger for women (source: Hastiti et al. - 2025.md, p. 51–52).
 - **[[employee-compensation]] → IWB → [[employee-loyalty]]** — In project-based industries, IWB serves as a critical behavioral mechanism through which financial rewards are translated into long-term commitment (indirect effect: $B = 0.369, p = .0002$) (source: Fahrurrozi and Arief - 2026.md, p. 65).
-- **[[digital-leadership]] → IWB → [[employee-performance]]** — Digital leadership fosters an environment where millennials feel empowered to implement imagination and creative ideas, which in turn drives overall work performance (indirect effect: β = 5.023, p = 0.000) (source: farhaq-and-yulianti-2024.md, p. 407).
+- **[[digital-leadership]] → IWB → [[employee-performance]]** — Digital leadership fosters an environment where millennials feel empowered to implement imagination and creative ideas, which in turn drives overall work performance (indirect effect: β = 5.023, p = 0.000) (source: farhaq-and-yulianti-2024.md, p. 407). Similarly, IWB serves as the critical engine for performance gains when driven by digital leadership ($O = 0.541, p = .000$) (source: Gehan and Yulianti - 2024.md, p. 37).
 - **[[digital-talent-development]] → (DL, DC, DCu) → IWB** — Parallel/simultaneous mediation where talent development influences innovation through joint effects of digital leadership, digital competency, and digital culture ($B = 0.428, p = 0.000$) (source: Fauziah et al. - 2026.md, p. 483).
 
 
@@ -65,7 +65,7 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - Three IVs (DL, WE, OE) explain **50.1%** of IWB variance among Gen Z workers (R² Adj = 0.501) (source: Afif and Fitrianingrum - 2025.md, p. 3117).
 - DL + DC explain **82%** of IWB variance in the automotive sector (R² = 0.82) (source: Deviren - 2026.md, p. 39).
 - Sequential mediation model (DL → LO → IC → IWB) explains **17.9%** of IWB variance (R² = 0.179) in the French automobile industry (source: Ahmed et al. - 2024.md, p. 3619).
-- DL explains **40.4%** of IWB variance among millennials in East Java (source: farhaq-and-yulianti-2024.md, p. 404).
+- DL explains **40.4%** of IWB variance among millennials in East Java (source: farhaq-and-yulianti-2024.md, p. 404). In a similar sample, DL explains **36.7%** of IWB variance ($R^2 = 0.367$) (source: Gehan and Yulianti - 2024.md, p. 36).
 - DTD + DL + DC + DCu explain **59.2%** of IWB variance in the Indonesian telecom industry (R² = 0.592) (source: Fauziah et al. - 2026.md, p. 480).
 
 
@@ -84,6 +84,7 @@ IWB is measured with varying scales across the studies:
 - **Gao and Gao (2024)**: 6-item scale (Scott and Bruce, 1994), 5-point Likert. Items focus on searching for new technologies, generating innovative ideas, and realizing them. Reliability: Cronbach's α = 0.905, AVE = 0.656, CR = 0.905 (source: Gao and Gao - 2024.md, p. 12).
 - **Hastiti et al. (2025)**: 6 indicators focusing on the initiation of change and implementation of new ideas, 5-point Likert. Reliability: Cronbach's α = 0.852 (source: Hastiti et al. - 2025.md, p. 48).
 - **Farhaq & Yulianti (2024)**: 9 items (idea generation, promotion, & realization), 5-point Likert (Zhu et al., 2022). Reliability: Cronbach's α = 0.964, CR = 0.958, AVE = 0.750 (source: farhaq-and-yulianti-2024.md, p. 403-404).
+- **Gehan and Yulianti (2024)**: 9 items (idea generation, promotion, & realization), 5-point Likert. Reliability: Cronbach's α = 0.933, CR = 0.945, AVE = 0.658 (source: Gehan and Yulianti - 2024.md, p. 35-36).
 
 ## Contradictions
 
@@ -122,6 +123,7 @@ IWB is measured with varying scales across the studies:
 - [[employee-compensation]]
 - [[employee-performance]]
 - [[farhaq-and-yulianti-2024]]
+- [[gehan-and-yulianti-2024]]
 - [[fauziah-et-al-2026]]
 - [[digital-talent-development]]
 - [[digital-competency]]
