@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The ability to generate novel ideas and original methods when addressing complex workplace challenges, acting as a cognitive precursor to innovation.
 
-**Sources**: Hastiti et al. - 2025.md
+**Sources**: Hastiti et al. - 2025.md, Rahmandika et al. - 2025.md
 
 ---
 
@@ -34,9 +34,13 @@ Key aspects of creative problem solving include (source: Hastiti et al. - 2025.m
 ### Moderation by Gender
 Following [[social-role-theory]], research indicates that the impact of digital leadership on problem-solving creativity is **significantly stronger for men** (est = 0.890) than for women (est = 0.761) (source: Hastiti et al. - 2025.md, p. 52).
 
+### As a Moderator
+- **DL → Performance** — Among multi-sector Gen Z and Gen Y employees, creativity acts as a **negative moderator** ($β = -0.134, p = 0.007$). High levels of creativity weaken the positive impact of digital leadership on employee performance (source: Rahmandika et al. - 2025.md, p. 250). This "Creativity Paradox" suggests that highly creative "digital natives" value independence and may become less reliant on leadership direction, potentially leading to a reduction in performance quality if the leadership-creativity balance is not properly managed (source: Rahmandika et al. - 2025.md, p. 251).
+
 ## Measurement
 
 - **Hastiti et al. (2025)**: measured using 6 indicators focus on generating new ideas and innovative approaches to solving problems. Measured on a 5-point Likert scale. Reliability: Cronbach's α = 0.868 (source: Hastiti et al. - 2025.md, p. 47).
+- **Rahmandika et al. (2025)**: 4 items (adapted from Baer & Oldham, 2006), 5-point Likert. Items focus on proposing creative ideas, presenting solutions to workplace problems, suggesting new ways of performing tasks, and self-perceived creativity. Reliability: Cronbach's α = 0.753, CR = 0.848, AVE = 0.669 (source: Rahmandika et al. - 2025.md, p. 246, 248–249).
 
 ## Related pages
 
@@ -44,3 +48,4 @@ Following [[social-role-theory]], research indicates that the impact of digital 
 - [[innovative-work-behavior]]
 - [[social-role-theory]]
 - [[hastiti-et-al-2025]]
+- [[rahmandika-et-al-2025]]

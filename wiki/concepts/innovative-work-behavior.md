@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The ability of individuals to generate, promote, and implement new and valuable ideas for an organization. Also frequently referred to as **Employee Innovative Behavior**.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md
 
 ---
 
@@ -42,7 +42,7 @@ IWB is conceptualized through varying dimensional frameworks across the studies:
 IWB is the primary outcome variable across all studies in this wiki. Its key antecedents include:
 
 **Direct predictors**:
-- **[[digital-leadership]]** — Positive and significant across all studies, though effect sizes vary from weak (β = 0.153, F² = 0.032 in [[afif-fitrianingrum-2025]]) to very strong (B = 0.80 in Deviren, 2026). In the Chinese digital sector, digital leadership significantly predicts IWB with β = .338, p < .001 (source: Huang et al. - 2026.md, p. 8). Li and Xiao (2023) find a direct path (B = 0.218) alongside positive impacts on psychological states that drive innovation (source: Li and Xiao - 2023.md, p. 11). In the Ahmed et al. (2024) model, DL has no direct effect on IWB — the entire effect is sequentially mediated (source: Afif and Fitrianingrum - 2025.md, p. 3118; Deviren - 2026.md, p. 39; Ahmed et al. - 2024.md, p. 3622).
+- **[[digital-leadership]]** — Positive and significant across all studies, though effect sizes vary from weak (β = 0.153, F² = 0.032 in [[afif-fitrianingrum-2025]]) to very strong (B = 0.80 in Deviren, 2026). In the Chinese digital sector, digital leadership significantly predicts IWB with β = .338, p < .001 (source: Huang et al. - 2026.md, p. 8). Among multi-sector Gen Z/Y employees, it also shows a meaningful direct impact ($\beta = 0.325, p = .001$) (source: Rahmandika et al. - 2025.md, p. 250). Li and Xiao (2023) find a direct path (B = 0.218) alongside positive impacts on psychological states that drive innovation (source: Li and Xiao - 2023.md, p. 11). In the Ahmed et al. (2024) model, DL has no direct effect on IWB — the entire effect is sequentially mediated (source: Afif and Fitrianingrum - 2025.md, p. 3118; Deviren - 2026.md, p. 39; Ahmed et al. - 2024.md, p. 3622).
 - **[[work-engagement]]** — Positive and significant (β = 0.262, t = 3.805, p = 0.000, F² = 0.082). Engaged individuals with energy, dedication, and concentration are motivated to seek new methods in their work (source: Afif and Fitrianingrum - 2025.md, p. 3118–3119).
 - **[[organization-experience]]** — The strongest direct predictor among Gen Z workers (β = 0.412, t = 5.759, p = 0.000, F² = 0.170, moderate effect). Accumulated organizational knowledge, decision-making courage, and collaboration skills are the most dominant drivers of innovation in this context (source: Afif and Fitrianingrum - 2025.md, p. 3118–3120).
 - **[[innovation-capabilities]]** — Positive and significant (β = 0.424, t = 7.058, p = 0.000). Having concrete capabilities to innovate translates directly into innovative behavior (source: Ahmed et al. - 2024.md, p. 3619).
@@ -70,6 +70,7 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **DL → [[psychological-capital]] → IWB** — E-leadership boosts employees' optimism, hope, resilience, and self-efficacy, which provides the psychological resources needed for proactive innovation ("Self" perspective) (source: Li and Xiao - 2023.md, p. 11).
 - **DL → [[affective-commitment-to-leadership]] → IWB** — High-quality digital leadership builds emotional bonds and trust, triggering a reciprocal innovative response based on [[social-exchange-theory]] ("Relationship" perspective) (source: Li and Xiao - 2023.md, p. 11).
 - **DL → [[green-organizational-climate]] → [[green-innovative-behavior]]** — digital leadership creates a supportive green climate that enables employees to engage in eco-innovation (indirect effect: β = 0.14) (source: Khan et al. - 2025.md, p. 9).
+- **DL → IWB → [[employee-performance]]** — IWB acts as a partial mediator between digital leadership and performance among multi-sector Gen Z/Y employees (indirect effect: β = 0.088, p = .018) (source: Rahmandika et al. - 2025.md, p. 250).
 
 **Moderation of IWB paths**:
 - **[[digital-literacy]] moderates DL → IWB**: High digital literacy significantly strengthens the impact of digital leadership on innovative behavior (interaction: $\beta = 0.085, p = .000$) (source: Hang and Nguyệt - 2026.md, p. 16).
@@ -105,6 +106,7 @@ IWB is measured with varying scales across the studies:
 - **Gehan and Yulianti (2024)**: 9 items (idea generation, promotion, & realization), 5-point Likert. Reliability: Cronbach's α = 0.933, CR = 0.945, AVE = 0.658 (source: Gehan and Yulianti - 2024.md, p. 35-36).
 - **Hadi et al. (2024)**: 12 statements (idea exploration, generation, promotion, implementation), 5-point Likert (based on Erhan et al., 2022). Reliability: Cronbach's α = 0.942 (source: Hadi et al. - 2023.md, p. 78).
 - **Hang and Nguyệt (2026)**: 4 items (idea promotion and resource securing), 5-point Likert (Santoso et al., 2019). Reliability: $\alpha = 0.892$, AVE = 0.756 (source: Hang and Nguyệt - 2026.md, p. 10).
+- **Rahmandika et al. (2025)**: 10 items (adapted from De Jong & Den Hartog, 2010), 5-point Likert. Items cover idea generation, idea exploration, idea championing, and idea implementation. Reliability: Cronbach's α = 0.941, CR = 0.926, AVE = 0.795 (source: Rahmandika et al. - 2025.md, p. 248).
 
 ## Contradictions
 
@@ -165,4 +167,5 @@ IWB is measured with varying scales across the studies:
 - [[power-distance]]
 - [[person-environment-fit-theory]]
 - [[person-organization-fit-theory]]
+- [[rahmandika-et-al-2025]]
 

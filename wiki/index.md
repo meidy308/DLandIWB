@@ -19,6 +19,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[huang-et-al-2026]] - Study investigating the sequential mediation of job crafting and innovation efficacy in the relationship between digital leadership and employee innovation in China.
 - [[khan-et-al-2025]] - Study investigating the influence of digital leadership on green innovative behavior through green organizational climate and strategic agility in Chinese software firms.
 - [[li-and-xiao-2023]] - Study investigating how E-leadership (Digital Leadership) drives innovation through psychological capital and affective commitment, moderated by power distance in China.
+- [[rahmandika-et-al-2025]] - Study on digital leadership, IWB, and performance among Gen Z/Y in Indonesia, highlighting a negative moderating effect of creativity.
 
 ## Concepts & Variables
 - [[adaptive-performance]] - The ability to adjust behavior and performance in response to changing work demands and environmental conditions.
