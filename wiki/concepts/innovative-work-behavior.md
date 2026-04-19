@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The ability of individuals to generate, promote, and implement new and valuable ideas for an organization. Also frequently referred to as **Employee Innovative Behavior**.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md
 
 ---
 
@@ -70,6 +70,7 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **DL → [[psychological-capital]] → IWB** — E-leadership boosts employees' optimism, hope, resilience, and self-efficacy, which provides the psychological resources needed for proactive innovation ("Self" perspective) (source: Li and Xiao - 2023.md, p. 11).
 - **DL → [[affective-commitment-to-leadership]] → IWB** — High-quality digital leadership builds emotional bonds and trust, triggering a reciprocal innovative response based on [[social-exchange-theory]] ("Relationship" perspective) (source: Li and Xiao - 2023.md, p. 11).
 - **DL → [[green-organizational-climate]] → [[green-innovative-behavior]]** — digital leadership creates a supportive green climate that enables employees to engage in eco-innovation (indirect effect: β = 0.14) (source: Khan et al. - 2025.md, p. 9).
+- **DL → [[psychological-ownership]] → IWB** — In the IT sector, digital leadership works through psychological ownership to drive innovation. Notably, the effect of **supportive leadership** on IWB is entirely channeled through **work-based ownership** (Full Mediation) (source: Sebetci et al. - 2025.md, p. 8).
 - **DL → IWB → [[employee-performance]]** — IWB acts as a partial mediator between digital leadership and performance among multi-sector Gen Z/Y employees (indirect effect: β = 0.088, p = .018) (source: Rahmandika et al. - 2025.md, p. 250).
 
 **Moderation of IWB paths**:
@@ -168,4 +169,7 @@ IWB is measured with varying scales across the studies:
 - [[person-environment-fit-theory]]
 - [[person-organization-fit-theory]]
 - [[rahmandika-et-al-2025]]
+- [[sebetci-et-al-2025]]
+- [[psychological-ownership]]
+- [[knowledge-sharing-behavior]]
 

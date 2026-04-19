@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A leadership style that maximizes technology integration, adaptability, and fosters a digital work climate to encourage innovation. Also referred to as **E-leadership**, focuses on influencing others through information technology to achieve organizational goals.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md
 
 ---
 
@@ -58,6 +58,10 @@ Digital leadership is measured through varying dimensional frameworks across the
 2. **Inspiration** — Inspiring employees to embrace digital transformation.
 3. **Visionary leadership** — Foresight in anticipating digital trends and guiding organizations through transformation.
 
+**Sebetci et al. (2025)** — 2 dimensions based on Büyükbeşe et al. (source: Sebetci et al. - 2025.md, p. 4):
+1. **Innovative leadership** — Leaders' ability to drive and implement novel technological solutions.
+2. **Supportive leadership** — Facilitating an environment where employees feel backed in their digital efforts.
+
 **Rahmandika et al. (2025)** — 6 indicators (source: Rahmandika et al. - 2025.md, p. 246):
 1. **Enjoyment** — Considering digital tool usage as enjoyable.
 2. **Expertise** — Perception of the leader as a digital expert.
@@ -98,6 +102,7 @@ Digital leadership encourages IWB through several sequential mechanisms:
 - **DL → [[digital-literacy]] → IWB → Performance** — as an antecedent to digital literacy, digital leadership fosters the awareness and capability required for innovative behavior and ultimate work outcomes ($\beta = 0.678$ to literacy) (source: Hang and Nguyệt - 2026.md, p. 13, 16).
 - **DL → [[job-crafting]] → [[innovation-efficacy]] → IWB** — in the Chinese digital sector, digital leadership initiates a sequential psychological sequence where it encourages employees to reshape their work boundaries, which builds confidence in their innovative capabilities ($Point estimate = 0.067, 95\% CI [0.033, 0.124]$) (source: Huang et al. - 2026.md, p. 8-9).
 - **DL → [[green-organizational-climate]] → [[green-innovative-behavior]]** — digital leadership creates a supportive green climate that enables employees to engage in eco-innovation (indirect effect: β = 0.14) (source: Khan et al. - 2025.md, p. 9).
+- **DL → [[psychological-ownership]] → IWB / [[knowledge-sharing-behavior]]** — digital leaders foster a sense of ownership, which in turn enhances innovative and collaborative behaviors. Notably, **supportive leadership** works entirely through **work-based ownership** (Full Mediation) to drive innovation (source: Sebetci et al. - 2025.md, p. 8-9).
 - **DL → [[innovative-work-behavior]] → EP** — partial mediation where DL drives performance partly by stimulating innovative behaviors ($\beta_{indirect} = 0.088, p = .018$) (source: Rahmandika et al. - 2025.md, p. 250–251).
 
 ### Link to Emotional States
@@ -194,3 +199,6 @@ Importance-Performance Map Analysis (IPMA) in the retail sector indicates that d
 - [[upper-echelon-theory]]
 - [[resource-based-theory]]
 - [[rahmandika-et-al-2025]]
+- [[sebetci-et-al-2025]]
+- [[psychological-ownership]]
+- [[knowledge-sharing-behavior]]

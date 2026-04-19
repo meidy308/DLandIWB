@@ -20,6 +20,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[khan-et-al-2025]] - Study investigating the influence of digital leadership on green innovative behavior through green organizational climate and strategic agility in Chinese software firms.
 - [[li-and-xiao-2023]] - Study investigating how E-leadership (Digital Leadership) drives innovation through psychological capital and affective commitment, moderated by power distance in China.
 - [[rahmandika-et-al-2025]] - Study on digital leadership, IWB, and performance among Gen Z/Y in Indonesia, highlighting a negative moderating effect of creativity.
+- [[sebetci-et-al-2025]] - Study on digital leadership impacting IWB and knowledge sharing via psychological ownership in the Turkish IT sector.
 
 ## Concepts & Variables
 - [[adaptive-performance]] - The ability to adjust behavior and performance in response to changing work demands and environmental conditions.
@@ -36,6 +37,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[innovation-capabilities]] - Aptitudes and methodologies to nurture practical innovations.
 - [[innovation-efficacy]] - An employee's belief in their capability to produce and execute innovative outcomes at work.
 - [[innovative-work-behavior]] - Generating, promoting, and implementing new ideas.
+- [[knowledge-sharing-behavior]] - Process of exchanging ideas, expertise, and experiences for collective learning.
 - [[intrinsic-motivation]] - Internal drive to act out of interest, satisfaction, or a desire to achieve personal goals.
 - [[job-crafting]] - The self-initiated actions employees take to reshape their job boundaries by aligning their skills and resources with work demands.
 - [[job-demands-resources-theory]] - Interaction of job resources and demands on employee performance.
@@ -49,6 +51,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[problem-solving-creativity]] - Ability to generate novel ideas and original methods in tackling complex challenges.
 - [[power-distance]] - Individual cultural value orientation relating to the acceptance of power imbalances.
 - [[psychological-capital]] - Positive psychological resources characterized by self-efficacy, optimism, hope, and resilience.
+- [[psychological-ownership]] - Cognitive and emotional state of perceiving possession and attachment toward an organization or task.
 - [[psychological-empowerment]] - Motivational cognitions relating to meaning, competence, autonomy, and impact.
 - [[strategic-agility]] - An organization’s capacity to detect early signals of change and respond effectively by reconfiguring internal resources.
 - [[work-engagement]] - Fulfilling state of mind characterized by vigor, dedication, and absorption.
