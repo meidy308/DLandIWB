@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The ability of individuals to generate, promote, and implement new and valuable ideas for an organization. Also frequently referred to as **Employee Innovative Behavior**.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md, Soediro et al. - 2025.md
 
 ---
 
@@ -53,6 +53,9 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **[[organizational-support]]** — A positive and significant predictor ($B = 0.299$ direct effect, $p = 0.006$). Perceptions of support directly increase the production of creative and innovative behaviors (source: [[hadi-et-al-2024]]).
 - **[[digital-literacy]]** — Positive and significant direct effect ($\beta = 0.535, p = .000$). High digital literacy enables employees to explore new technology and identify opportunities for improvement (source: Hang and Nguyệt - 2026.md, p. 13).
 - **[[innovation-efficacy]]** — Positive and significant predictor (Point estimate = 0.419). Confidence in creative capabilities proximally drives the initiation of innovative actions (source: Huang et al. - 2026.md, p. 8).
+- **[[growth-mindset]]** — Positive and significant predictor (β = 0.172, p = 0.001) among university lecturers, fostering adaptability and resilience (source: Soediro et al. - 2025.md, p. 347).
+- **[[organizational-climate]]** — Positive and significant predictor (β = 0.251, p = 0.000), providing the psychological safety and support needed for experimentation (source: Soediro et al. - 2025.md, p. 349).
+- **[[creative-process-engagement]]** — Extremely strong predictor (β = 0.321, p = 0.000), serving as the primary behavioral mechanism where individuals immerse themselves in the creative process before achieving innovative outcomes (source: Soediro et al. - 2025.md, p. 343, 374).
 
 
 **Mediated pathways to IWB**:
@@ -72,6 +75,7 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **DL → [[green-organizational-climate]] → [[green-innovative-behavior]]** — digital leadership creates a supportive green climate that enables employees to engage in eco-innovation (indirect effect: β = 0.14) (source: Khan et al. - 2025.md, p. 9).
 - **DL → [[psychological-ownership]] → IWB** — In the IT sector, digital leadership works through psychological ownership to drive innovation. Notably, the effect of **supportive leadership** on IWB is entirely channeled through **work-based ownership** (Full Mediation) (source: Sebetci et al. - 2025.md, p. 8).
 - **DL → IWB → [[employee-performance]]** — IWB acts as a partial mediator between digital leadership and performance among multi-sector Gen Z/Y employees (indirect effect: β = 0.088, p = .018) (source: Rahmandika et al. - 2025.md, p. 250).
+- **(DL, GM, OC) → [[creative-process-engagement]] → IWB** — Sequential model where leadership, personal mindset, and organizational climate all work through creative engagement to produce IWB. CPE explains up to 47.94% of the indirect effect for digital leadership and 43.53% for climate (source: Soediro et al. - 2025.md, p. 345).
 
 **Moderation of IWB paths**:
 - **[[digital-literacy]] moderates DL → IWB**: High digital literacy significantly strengthens the impact of digital leadership on innovative behavior (interaction: $\beta = 0.085, p = .000$) (source: Hang and Nguyệt - 2026.md, p. 16).
@@ -87,6 +91,7 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - DTD + DL + DC + DCu explain **59.2%** of IWB variance in the Indonesian telecom industry (R² = 0.592) (source: Fauziah et al. - 2026.md, p. 480).
 - DL + DLit explain **65.9%** of IWB variance in the Vietnamese retail sector (R² = 0.659) (source: Hang and Nguyệt - 2026.md, p. 14).
 - The sequential mediation model (including DL, JC, and EIS) explains a significant portion of IWB variance in Chinese digital enterprises ($R^2 = 0.280$) (source: Huang et al. - 2026.md, p. 8).
+- The mediation model involving DL, GM, OC, and CPE explains **76.1%** of IWB variance among Indonesian lecturers ($R^2 = 0.761$) (source: Soediro et al. - 2025.md, p. 376).
 
 
 ### As mediator
@@ -108,6 +113,7 @@ IWB is measured with varying scales across the studies:
 - **Hadi et al. (2024)**: 12 statements (idea exploration, generation, promotion, implementation), 5-point Likert (based on Erhan et al., 2022). Reliability: Cronbach's α = 0.942 (source: Hadi et al. - 2023.md, p. 78).
 - **Hang and Nguyệt (2026)**: 4 items (idea promotion and resource securing), 5-point Likert (Santoso et al., 2019). Reliability: $\alpha = 0.892$, AVE = 0.756 (source: Hang and Nguyệt - 2026.md, p. 10).
 - **Rahmandika et al. (2025)**: 10 items (adapted from De Jong & Den Hartog, 2010), 5-point Likert. Items cover idea generation, idea exploration, idea championing, and idea implementation. Reliability: Cronbach's α = 0.941, CR = 0.926, AVE = 0.795 (source: Rahmandika et al. - 2025.md, p. 248).
+- **Soediro et al. (2025)**: Validated scales adapted from previous studies (mentions De Jong & Den Hartog, 2010), 5-point Likert. Reliability: Cronbach's α = 0.843, CR = 0.895, AVE = 0.680 (source: Soediro et al. - 2025.md, p. 237, 268-302).
 
 ## Contradictions
 
@@ -119,6 +125,9 @@ IWB is measured with varying scales across the studies:
 ## Related pages
 
 - [[digital-leadership]]
+- [[creative-process-engagement]]
+- [[growth-mindset]]
+- [[organizational-climate]]
 - [[work-engagement]]
 - [[organization-experience]]
 - [[learning-orientation]]
@@ -144,6 +153,7 @@ IWB is measured with varying scales across the studies:
 - [[erhan-et-al-2022]]
 - [[gao-and-gao-2024]]
 - [[hastiti-et-al-2025]]
+- [[soediro-et-al-2025]]
 - [[fahrurrozi-and-arief-2026]]
 - [[employee-loyalty]]
 - [[kaizen-culture]]

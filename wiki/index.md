@@ -21,6 +21,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[li-and-xiao-2023]] - Study investigating how E-leadership (Digital Leadership) drives innovation through psychological capital and affective commitment, moderated by power distance in China.
 - [[rahmandika-et-al-2025]] - Study on digital leadership, IWB, and performance among Gen Z/Y in Indonesia, highlighting a negative moderating effect of creativity.
 - [[sebetci-et-al-2025]] - Study on digital leadership impacting IWB and knowledge sharing via psychological ownership in the Turkish IT sector.
+- [[soediro-et-al-2025]] - Study on growth mindset, organizational climate, and digital leadership influencing IWB through the mediating role of creative process engagement among Indonesian lecturers.
 
 ## Concepts & Variables
 - [[adaptive-performance]] - The ability to adjust behavior and performance in response to changing work demands and environmental conditions.
@@ -29,9 +30,11 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[digital-competency]] - Knowledge, skills, and attitudes in utilizing digital resources efficiently.
 - [[digital-leadership]] - Leadership maximizing tech integration and adaptability.
 - [[digital-literacy]] - Awareness and capability to utilize digital resources for identifies, evaluation, and synthesis.
+- [[creative-process-engagement]] - Active participation in cognitive and collaborative activities such as problem identification, info search, and idea generation.
 - [[digital-organizational-culture]] - Shared practices shaping digital technology integration in the workplace.
 - [[emotional-intelligence]] - Ability to identify, manage, and regulate one's own and others' emotions.
 - [[digital-talent-development]] - Systematic process of enhancing employees' digital skills and technical proficiency.
+- [[growth-mindset]] - The belief that one's abilities and intelligence can be developed through effort, learning, and persistence.
 - [[green-innovative-behavior]] - Actions targeted at inventing and implementing sustainable solutions to achieve environmental goals.
 - [[green-organizational-climate]] - Shared values and perceptions within an organization that encourage eco-friendly actions.
 - [[innovation-capabilities]] - Aptitudes and methodologies to nurture practical innovations.
@@ -45,6 +48,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[leader-member-exchange]] - The quality of the localized, two-way relationship between leaders and subordinates.
 - [[learning-orientation]] - Active dedication to continuously enhancing skills and understanding.
 - [[organizational-innovation-climate]] - Shared perceptions of practices and behaviors that encourage and reward innovation.
+- [[organizational-climate]] - Shared perceptions and collective feelings of employees regarding their work environment and its supportive practices.
 - [[organizational-support]] - Degree to which an organization values employee contributions and welfare.
 - [[organization-experience]] - Knowledge and skills gained from active organizational participation.
 - [[proactive-personality]] - Tendency to take initiative and bring about meaningful change.
