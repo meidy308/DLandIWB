@@ -22,6 +22,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[rahmandika-et-al-2025]] - Study on digital leadership, IWB, and performance among Gen Z/Y in Indonesia, highlighting a negative moderating effect of creativity.
 - [[sebetci-et-al-2025]] - Study on digital leadership impacting IWB and knowledge sharing via psychological ownership in the Turkish IT sector.
 - [[soediro-et-al-2025]] - Study on growth mindset, organizational climate, and digital leadership influencing IWB through the mediating role of creative process engagement among Indonesian lecturers.
+- [[tanan-and-purbojo-2025]] - Study on the impact of school culture and digital leadership on teacher IWB in Manado, finding school culture as a significant predictor while digital leadership was non-significant.
 
 ## Concepts & Variables
 - [[adaptive-performance]] - The ability to adjust behavior and performance in response to changing work demands and environmental conditions.
@@ -49,6 +50,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[learning-orientation]] - Active dedication to continuously enhancing skills and understanding.
 - [[organizational-innovation-climate]] - Shared perceptions of practices and behaviors that encourage and reward innovation.
 - [[organizational-climate]] - Shared perceptions and collective feelings of employees regarding their work environment and its supportive practices.
+- [[school-culture]] - Deeply rooted shared values, beliefs, and agreements that shape the interactions and learning orientation within an educational institution.
 - [[organizational-support]] - Degree to which an organization values employee contributions and welfare.
 - [[organization-experience]] - Knowledge and skills gained from active organizational participation.
 - [[proactive-personality]] - Tendency to take initiative and bring about meaningful change.

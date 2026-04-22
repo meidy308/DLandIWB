@@ -10,13 +10,13 @@ confidence: high
 
 **Summary**: Posits that organizational outcomes and strategic choices are reflections of the values and cognitive bases of powerful actors (managers) in the organization.
 
-**Sources**: farhaq-and-yulianti-2024.md, Rahmandika et al. - 2025.md
+**Sources**: farhaq-and-yulianti-2024.md, Rahmandika et al. - 2025.md, Tanan and Purbojo - 2025.md
 
 ---
 
 Upper echelon theory suggests that strong managers are critical factors in influencing and executing strategic organizational decisions. The power of these leaders is considered a direct determinant of organizational success and performance (source: farhaq-and-yulianti-2024.md, p. 395).
 
-In the context of digital transformation, this theory underpins the idea that [[digital-leadership]] (as a combination of digital culture and competence) enables managers to navigate future events and make accurate predictions to drive corporate success (source: farhaq-and-yulianti-2024.md, p. 395). **Rahmandika et al. (2025)** further extend this by highlighting that digital leadership significantly impacts innovative behavior and performance as strategic outputs, as the values and cognitive frameworks that leaders bring (shaped by digital expertise) directly influence the firm's strategic direction (source: Rahmandika et al. - 2025.md, p. 242, 252).
+In the context of digital transformation, this theory underpins the idea that [[digital-leadership]] (as a combination of digital culture and competence) enables managers to navigate future events and make accurate predictions to drive corporate success (source: farhaq-and-yulianti-2024.md, p. 395). **Rahmandika et al. (2025)** further extend this by highlighting that digital leadership significantly impacts innovative behavior and performance as strategic outputs, as the values and cognitive frameworks that leaders bring (shaped by digital expertise) directly influence the firm's strategic direction (source: Rahmandika et al. - 2025.md, p. 242, 252). **Tanan & Purbojo (2025)** similarly apply the theory to suggest that the past experience and abilities of digital leaders impact the quality of innovation-related decision-making (source: Tanan and Purbojo - 2025.md, p. 34).
 
 ## Dimensions
 

@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A leadership style that maximizes technology integration, adaptability, and fosters a digital work climate to encourage innovation. Also referred to as **E-leadership**, focuses on influencing others through information technology to achieve organizational goals.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md, Soediro et al. - 2025.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md, Soediro et al. - 2025.md, Tanan and Purbojo - 2025.md
 
 ---
 
@@ -83,7 +83,7 @@ Digital leadership has a positive and significant effect on [[innovative-work-be
 - **No direct DL → IWB path in Ahmed et al. (2024) and Hastiti et al. (2025)**: both studies find that the influence of digital leadership is entirely channeled through mediators (learning orientation/innovation capabilities in Ahmed; intrinsic motivation in Hastiti) (source: Ahmed et al. - 2024.md, p. 3622; Hastiti et al. - 2025.md, p. 53).
 - **Significant direct effect in Indonesian HE**: Digital leadership exhibited the most substantial direct effect on lecturers' innovative behavior ($\beta = 0.300, p = 0.000$), demonstrating its crucial role in guidance during digital transformation in academia (source: Soediro et al. - 2025.md, p. 351, 376).
 - **Strong direct effect among Indonesian Gen Z/Y**: digital leadership significantly predicts innovative behavior ($\beta = 0.325, p = .001$) across multiple industries (source: Rahmandika et al. - 2025.md, p. 250).
-- **Non-significant direct effect in specific contexts**: in certain high-risk, project-based environments like energy infrastructure, financial incentives like [[employee-compensation]] may override leadership style in predicting IWB ($p = .3195$) (source: fahrurrozi-and-arief-2026.md, p. 65). This is echoed by findings that suggest DL's influence is often channeled through mediators.
+- **Non-significant direct effect in specific contexts**: in certain high-risk, project-based environments like energy infrastructure, financial incentives like [[employee-compensation]] may override leadership style in predicting IWB ($p = .3195$) (source: fahrurrozi-and-arief-2026.md, p. 65). This is echoed by findings that suggest DL's influence is often channeled through mediators. Similarly, **Tanan & Purbojo (2025)** found a **non-significant** impact on IWB (P-value = 0.445) in a private school, where teachers were already technologically independent and the leadership focus was not specifically on driving digital innovation (source: Tanan and Purbojo - 2025.md, p. 41).
 
 ### Impact on Employee Performance
 - **Significant direct effect**: Digital leadership is a strong predictor of [[employee-performance]] (β = 2.581, p = 0.010) (source: farhaq-and-yulianti-2024.md, p. 405). In the retail sector, it also shows a positive direct correlation ($\beta = 0.203, p = .000$) with salesperson performance (source: Hang and Nguyệt - 2026.md, p. 13). Among multi-sector Gen Z/Y employees, it also shows a meaningful direct impact ($\beta = 0.264, p = .001$) (source: Rahmandika et al. - 2025.md, p. 250).
@@ -151,7 +151,7 @@ Importance-Performance Map Analysis (IPMA) in the retail sector indicates that d
 - **Digital culture's role** is contested: positive mediator in Çetinkaya & Sürücü (2025) vs. negative moderator in Deviren (2026).
 - **Contextual variability**: while most studies support the importance of digital leadership for IWB, findings from the energy infrastructure sector suggest its impact can be overridden by more tangible rewards like [[employee-compensation]] (source: fahrurrozi-and-arief-2026.md, p. 65).
 - **Contradiction in Performance Linkage**: Farhaq & Yulianti (2024) found a significant direct effect on performance, which conflicts with **Gehan and Yulianti (2024)** and **Arief Rizqi et al. (2023)**, both of whom found no significant direct path from digital leadership to employee performance (source: Gehan and Yulianti - 2024.md, p. 37; farhaq-and-yulianti-2024.md, p. 400).
-- **Total vs. Mediated Effect on IWB**: While [[erhan-et-al-2022]] found a strong direct impact, [[hadi-et-al-2024]] found that digital leadership had **no significant effect** ($p = 0.498$) on any dimension of IWB in the Indonesian higher education sector. This suggests that digital leadership effectiveness may be context-dependent or contingent on levels of [[emotional-intelligence]] and [[organizational-support]].
+- **Total vs. Mediated Effect on IWB**: While [[erhan-et-al-2022]] found a strong direct impact, [[hadi-et-al-2024]] found that digital leadership had **no significant effect** ($p = 0.498$) on any dimension of IWB in the Indonesian higher education sector. **Tanan & Purbojo (2025)** corroborated this non-significance in a private school context (P-value = 0.445), suggesting that digital leadership's effectiveness is context-dependent and potentially redundant when employees are already digitally independent (source: Tanan and Purbojo - 2025.md, p. 41).
 
 ## Related pages
 
@@ -162,6 +162,7 @@ Importance-Performance Map Analysis (IPMA) in the retail sector indicates that d
 - [[digital-talent-development]]
 - [[digital-literacy]]
 - [[learning-orientation]]
+- [[school-culture]]
 
 - [[innovation-capabilities]]
 - [[leader-member-exchange]]

@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The ability of individuals to generate, promote, and implement new and valuable ideas for an organization. Also frequently referred to as **Employee Innovative Behavior**.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md, Soediro et al. - 2025.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md, Soediro et al. - 2025.md, Tanan and Purbojo - 2025.md
 
 ---
 
@@ -35,6 +35,13 @@ IWB is conceptualized through varying dimensional frameworks across the studies:
 
 **Huang et al. (2026)** — Unidimensional, 6 items (Scott & Bruce, 1994). Items focus on idea generation and planning for implementation (source: Huang et al. - 2026.md, p. 5).
 
+**Tanan & Purbojo (2025)** — 5 dimensions (Gkontellos et al., 2023) (source: Tanan and Purbojo - 2025.md, p. 32):
+1. **Opportunity exploration**
+2. **Idea generation**
+3. **Idea promotion**
+4. **Idea implementation**
+5. **Idea sustainability** (Kelangsungan ide)
+
 ## Relationship with Other Variables
 
 ### As dependent variable (DV)
@@ -56,6 +63,7 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **[[growth-mindset]]** — Positive and significant predictor (β = 0.172, p = 0.001) among university lecturers, fostering adaptability and resilience (source: Soediro et al. - 2025.md, p. 347).
 - **[[organizational-climate]]** — Positive and significant predictor (β = 0.251, p = 0.000), providing the psychological safety and support needed for experimentation (source: Soediro et al. - 2025.md, p. 349).
 - **[[creative-process-engagement]]** — Extremely strong predictor (β = 0.321, p = 0.000), serving as the primary behavioral mechanism where individuals immerse themselves in the creative process before achieving innovative outcomes (source: Soediro et al. - 2025.md, p. 343, 374).
+- **[[school-culture]]** — Positive and significant predictor in the education sector (P-value = 0.000). A culture of collaboration, feedback, and professional development directly fosters teacher innovation (source: Tanan and Purbojo - 2025.md, p. 40).
 
 
 **Mediated pathways to IWB**:
@@ -114,13 +122,14 @@ IWB is measured with varying scales across the studies:
 - **Hang and Nguyệt (2026)**: 4 items (idea promotion and resource securing), 5-point Likert (Santoso et al., 2019). Reliability: $\alpha = 0.892$, AVE = 0.756 (source: Hang and Nguyệt - 2026.md, p. 10).
 - **Rahmandika et al. (2025)**: 10 items (adapted from De Jong & Den Hartog, 2010), 5-point Likert. Items cover idea generation, idea exploration, idea championing, and idea implementation. Reliability: Cronbach's α = 0.941, CR = 0.926, AVE = 0.795 (source: Rahmandika et al. - 2025.md, p. 248).
 - **Soediro et al. (2025)**: Validated scales adapted from previous studies (mentions De Jong & Den Hartog, 2010), 5-point Likert. Reliability: Cronbach's α = 0.843, CR = 0.895, AVE = 0.680 (source: Soediro et al. - 2025.md, p. 237, 268-302).
+- **Tanan & Purbojo (2025)**: 5 indicators (Gkontellos et al., 2023), 4-point Likert. Reliability: Cronbach's α = 0.849, CR = 0.892, AVE = 0.621 (source: Tanan and Purbojo - 2025.md, p. 35).
 
 ## Contradictions
 
 - The **effect size of digital leadership on IWB** varies dramatically across studies: from weak (F² = 0.032) in Afif & Fitrianingrum (2025) to very strong (B = 0.80) in Deviren (2026). This may reflect differences in sector, sample demographics (Gen Z vs. general workforce), model specification, and the presence of other IVs.
 - In **Ahmed et al. (2024)**, there is no significant direct DL → IWB path (R² = 0.179, relatively low). This contrasts sharply with **Erhan et al. (2022)** and **Deviren (2026)**, where digital leadership has strong direct effects on IWB.
 - **IWB as mediator**: When IWB is positioned as a mediator (DL → IWB → AP), it has a **negative indirect effect** (Deviren, 2026). However, as a DV it is consistently positively predicted by digital leadership across all studies.
-- **Direct Link with [[digital-leadership]]**: While most studies report significant positive effects, [[hadi-et-al-2024]] found a **non-significant** relationship ($p = 0.498$) in the Indonesian art higher education sector, where [[organizational-support]] provided a stronger impetus for IWB.
+- **Direct Link with [[digital-leadership]]**: While most studies report significant positive effects, [[hadi-et-al-2024]] found a **non-significant** relationship ($p = 0.498$) in the Indonesian art higher education sector. Similarly, **Tanan & Purbojo (2025)** found a **non-significant** relationship (P-value = 0.445) in a private school in Manado, where teachers' pre-existing technological independence and a focus on learning culture diminished the relative importance of digital leadership in driving IWB (source: Tanan and Purbojo - 2025.md, p. 41).
 
 ## Related pages
 
@@ -182,4 +191,5 @@ IWB is measured with varying scales across the studies:
 - [[sebetci-et-al-2025]]
 - [[psychological-ownership]]
 - [[knowledge-sharing-behavior]]
+- [[school-culture]]
 
