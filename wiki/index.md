@@ -24,6 +24,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[soediro-et-al-2025]] - Study on growth mindset, organizational climate, and digital leadership influencing IWB through the mediating role of creative process engagement among Indonesian lecturers.
 - [[tanan-and-purbojo-2025]] - Study on the impact of school culture and digital leadership on teacher IWB in Manado, finding school culture as a significant predictor while digital leadership was non-significant.
 - [[umayna-et-al-2025]] - Study on psychological empowerment, creativity, and digital leadership influencing competitive advantage through IWB in Indonesian MSMEs.
+- [[wang-et-al-2025]] - Study on digital leadership affecting innovative performance through task and cognitive crafting, moderated by person-job fit in Chinese manufacturing.
 
 ## Concepts & Variables
 - [[adaptive-performance]] - The ability to adjust behavior and performance in response to changing work demands and environmental conditions.
@@ -55,7 +56,9 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[school-culture]] - Deeply rooted shared values, beliefs, and agreements that shape the interactions and learning orientation within an educational institution.
 - [[organizational-support]] - Degree to which an organization values employee contributions and welfare.
 - [[organization-experience]] - Knowledge and skills gained from active organizational participation.
+- [[person-job-fit]] - Compatibility between an individual and the tasks, goals, and requirements of their job.
 - [[proactive-personality]] - Tendency to take initiative and bring about meaningful change.
+- [[proactive-motivation-model]] - Framework explaining proactivity through "Can Do," "Reason To," and "Energized To" motivational states.
 - [[problem-solving-creativity]] - Ability to generate novel ideas and original methods in tackling complex challenges.
 - [[power-distance]] - Individual cultural value orientation relating to the acceptance of power imbalances.
 - [[psychological-capital]] - Positive psychological resources characterized by self-efficacy, optimism, hope, and resilience.

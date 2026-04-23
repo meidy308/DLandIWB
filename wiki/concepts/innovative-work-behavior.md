@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The ability of individuals to generate, promote, and implement new and valuable ideas for an organization. Also frequently referred to as **Employee Innovative Behavior**.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md, Soediro et al. - 2025.md, Tanan and Purbojo - 2025.md, Umayna et al. - 2025.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md, Soediro et al. - 2025.md, Tanan and Purbojo - 2025.md, Umayna et al. - 2025.md, Wang et al. - 2025.md
 
 ---
 
@@ -42,6 +42,8 @@ IWB is conceptualized through varying dimensional frameworks across the studies:
 4. **Idea implementation**
 5. **Idea sustainability** (Kelangsungan ide)
 
+**Wang et al. (2025)** — Unidimensional, 10 items (Janssen, 2000). Referred to as **Employee Innovative Performance**, it emphasizes both the generation and implementation of ideas (source: Wang et al. - 2025.md, p. 6).
+
 ## Relationship with Other Variables
 
 ### As dependent variable (DV)
@@ -49,7 +51,7 @@ IWB is conceptualized through varying dimensional frameworks across the studies:
 IWB is the primary outcome variable across all studies in this wiki. Its key antecedents include:
 
 **Direct predictors**:
-- **[[digital-leadership]]** — Positive and significant across all studies, though effect sizes vary from weak (β = 0.153, F² = 0.032 in [[afif-fitrianingrum-2025]]) to very strong (B = 0.80 in Deviren, 2026). In the Chinese digital sector, digital leadership significantly predicts IWB with β = .338, p < .001 (source: Huang et al. - 2026.md, p. 8). Among multi-sector Gen Z/Y employees, it also shows a meaningful direct impact ($\beta = 0.325, p = .001$) (source: Rahmandika et al. - 2025.md, p. 250). Li and Xiao (2023) find a direct path (B = 0.218) alongside positive impacts on psychological states that drive innovation (source: Li and Xiao - 2023.md, p. 11). In the Ahmed et al. (2024) model, DL has no direct effect on IWB — the entire effect is sequentially mediated (source: Afif and Fitrianingrum - 2025.md, p. 3118; Deviren - 2026.md, p. 39; Ahmed et al. - 2024.md, p. 3622).
+- **[[digital-leadership]]** — Positive and significant across all studies, though effect sizes vary from weak (β = 0.153, F² = 0.032 in [[afif-fitrianingrum-2025]]) to very strong (B = 0.80 in Deviren, 2026). In the Chinese digital sector, digital leadership significantly predicts IWB with β = .338, p < .001 (source: Huang et al. - 2026.md, p. 8). Among multi-sector Gen Z/Y employees, it also shows a meaningful direct impact ($\beta = 0.325, p = .001$) (source: Rahmandika et al. - 2025.md, p. 250). Li and Xiao (2023) find a direct path (B = 0.218) alongside positive impacts on psychological states that drive innovation (source: Li and Xiao - 2023.md, p. 11). In manufacturing, DL is positively related to innovative performance (B = 0.188, p < .001) (source: Wang et al. - 2025.md, p. 8). In the Ahmed et al. (2024) model, DL has no direct effect on IWB — the entire effect is sequentially mediated (source: Afif and Fitrianingrum - 2025.md, p. 3118; Deviren - 2026.md, p. 39; Ahmed et al. - 2024.md, p. 3622).
 - **[[work-engagement]]** — Positive and significant (β = 0.262, t = 3.805, p = 0.000, F² = 0.082). Engaged individuals with energy, dedication, and concentration are motivated to seek new methods in their work (source: Afif and Fitrianingrum - 2025.md, p. 3118–3119).
 - **[[organization-experience]]** — The strongest direct predictor among Gen Z workers (β = 0.412, t = 5.759, p = 0.000, F² = 0.170, moderate effect). Accumulated organizational knowledge, decision-making courage, and collaboration skills are the most dominant drivers of innovation in this context (source: Afif and Fitrianingrum - 2025.md, p. 3118–3120).
 - **[[innovation-capabilities]]** — Positive and significant (β = 0.424, t = 7.058, p = 0.000). Having concrete capabilities to innovate translates directly into innovative behavior (source: Ahmed et al. - 2024.md, p. 3619).
@@ -87,11 +89,13 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **DL → IWB → [[employee-performance]]** — IWB acts as a partial mediator between digital leadership and performance among multi-sector Gen Z/Y employees (indirect effect: β = 0.088, p = .018) (source: Rahmandika et al. - 2025.md, p. 250).
 - **(DL, GM, OC) → [[creative-process-engagement]] → IWB** — Sequential model where leadership, personal mindset, and organizational climate all work through creative engagement to produce IWB. CPE explains up to 47.94% of the indirect effect for digital leadership and 43.53% for climate (source: Soediro et al. - 2025.md, p. 345).
 - **PE → CR → IWB** — In MSMEs, psychological empowerment sparks creativity, which in turn leads to IWB (indirect effect: p = 0.000) (source: Umayna et al. - 2025.md, p. 139).
+- **DL → [[job-crafting]] → IWB** — In manufacturing, task and cognitive crafting significantly mediate the leadership-innovation link (B = 0.082 and B = 0.148, respectively) (source: Wang et al. - 2025.md, p. 8).
 
 **Moderation of IWB paths**:
 - **[[digital-literacy]] moderates DL → IWB**: High digital literacy significantly strengthens the impact of digital leadership on innovative behavior (interaction: $\beta = 0.085, p = .000$) (source: Hang and Nguyệt - 2026.md, p. 16).
 - **[[organizational-innovation-climate]] moderates DL → IWB**: A supportive climate amplifies the relationship, making digital leadership more effective in fostering innovation behavior (β = .333, p < .001) (source: Huang et al. - 2026.md, p. 9).
 - **[[strategic-agility]] moderates DL → [[green-innovative-behavior]]**: strategic agility acts as a crucial moderator. In firms with low strategic agility, the indirect effect of digital leadership on green innovation becomes non-significant (source: Khan et al. - 2025.md, p. 11).
+- **[[person-job-fit]] moderates [[job-crafting]] → IWB**: high P-J fit strengthens the relationship between cognitive crafting and innovative performance (B = 0.111, p < .05) (source: Wang et al. - 2025.md, p. 9).
 
 
 **Variance explained**:
@@ -126,6 +130,7 @@ IWB is measured with varying scales across the studies:
 - **Rahmandika et al. (2025)**: 10 items (adapted from De Jong & Den Hartog, 2010), 5-point Likert. Items cover idea generation, idea exploration, idea championing, and idea implementation. Reliability: Cronbach's α = 0.941, CR = 0.926, AVE = 0.795 (source: Rahmandika et al. - 2025.md, p. 248).
 - **Soediro et al. (2025)**: Validated scales adapted from previous studies (mentions De Jong & Den Hartog, 2010), 5-point Likert. Reliability: Cronbach's α = 0.843, CR = 0.895, AVE = 0.680 (source: Soediro et al. - 2025.md, p. 237, 268-302).
 - **Tanan & Purbojo (2025)**: 5 indicators (Gkontellos et al., 2023), 4-point Likert. Reliability: Cronbach's α = 0.849, CR = 0.892, AVE = 0.621 (source: Tanan and Purbojo - 2025.md, p. 35).
+- **Wang et al. (2025)**: 10-item scale (Janssen, 2000), 5-point Likert. Reliability: Cronbach's α = 0.921, AVE = 0.585, CR = 0.934 (source: Wang et al. - 2025.md, p. 6-7).
 
 ## Contradictions
 
@@ -197,4 +202,6 @@ IWB is measured with varying scales across the studies:
 - [[school-culture]]
 - [[competitive-advantage]]
 - [[dynamic-capabilities-theory]]
+- [[person-job-fit]]
+- [[proactive-motivation-model]]
 
