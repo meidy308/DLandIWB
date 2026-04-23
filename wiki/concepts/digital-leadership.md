@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A leadership style that maximizes technology integration, adaptability, and fosters a digital work climate to encourage innovation. Also referred to as **E-leadership**, focuses on influencing others through information technology to achieve organizational goals.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md, Soediro et al. - 2025.md, Tanan and Purbojo - 2025.md, Umayna et al. - 2025.md, Wang et al. - 2025.md, Yulianti and Maharani - 2024 .md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md, Soediro et al. - 2025.md, Tanan and Purbojo - 2025.md, Umayna et al. - 2025.md, Wang et al. - 2025.md, Yulianti and Maharani - 2024 .md, Zia et al. - 2024.md
 
 ---
 
@@ -83,6 +83,10 @@ Digital leadership is measured through varying dimensional frameworks across the
 3. **Digital behavior**
 4. **Digital transformation skills**
 
+**Zia et al. (2024)** — 6-item scale from Zeike et al. (2019) (source: Zia et al. - 2024.md, p. 8):
+1. **Attitudes and competencies** related to digital tool usage (items 1–3).
+2. **Digital leadership skills** (items 4–6), such as making others enthusiastic about transformation.
+
 ## Relationship with Other Variables
 
 ### Direct effects on IWB
@@ -98,6 +102,7 @@ Digital leadership has a positive and significant effect on [[innovative-work-be
 - **Strong direct effect among Indonesian Gen Z/Y**: digital leadership significantly predicts innovative behavior ($\beta = 0.325, p = .001$) across multiple industries (source: Rahmandika et al. - 2025.md, p. 250).
 - **Positive effect in manufacturing**: digital leadership is positively related to employee innovative performance ($B = 0.188, p < 0.001$), acting as a trigger for innovation by cultivating a digital culture and allocating resources (source: Wang et al. - 2025.md, p. 8). At PT Semen Indonesia, it significantly drives IWB (B = 0.502, p = 0.000) (source: Yulianti and Maharani - 2024 .md, p. 158).
 - **Non-significant direct effect in specific contexts**: in certain high-risk, project-based environments like energy infrastructure, financial incentives like [[employee-compensation]] may override leadership style in predicting IWB ($p = .3195$) (source: fahrurrozi-and-arief-2026.md, p. 65). This is echoed by findings that suggest DL's influence is often channeled through mediators. Similarly, **Tanan & Purbojo (2025)** found a **non-significant** impact on IWB (P-value = 0.445) in a private school, where teachers were already technologically independent and the leadership focus was not specifically on driving digital innovation (source: Tanan and Purbojo - 2025.md, p. 41).
+- **Strong direct effect among technological professionals**: digital leadership significantly predicts innovative behavior ($\beta = 0.616, p < 0.001$), reinforcing the role of digital vision and knowledge in navigating the evolving digital landscape (source: Zia et al. - 2024.md, p. 11).
 
 ### Impact on Employee Performance
 - **Significant direct effect**: Digital leadership is a strong predictor of [[employee-performance]] (β = 2.581, p = 0.010) (source: farhaq-and-yulianti-2024.md, p. 405). In the retail sector, it also shows a positive direct correlation ($\beta = 0.203, p = .000$) with salesperson performance (source: Hang and Nguyệt - 2026.md, p. 13). Among multi-sector Gen Z/Y employees, it also shows a meaningful direct impact ($\beta = 0.264, p = .001$) (source: Rahmandika et al. - 2025.md, p. 250).
@@ -123,6 +128,11 @@ Digital leadership encourages IWB through several sequential mechanisms:
 - **DL → [[innovative-work-behavior]] → [[employee-performance]]** — at PT Semen Indonesia, IWB fully mediates the relationship, explaining how digital vision leads to realized innovation and performance (indirect effect: B = 0.285, p = 0.000) (source: Yulianti and Maharani - 2024 .md, p. 161).
 - **DL → [[employee-creativity]]** — digital leadership significantly stimulates the generation of new and useful ideas (B = 0.382, p = 0.001), although this creativity does not always directly lead to performance without implementation (source: Yulianti and Maharani - 2024 .md, p. 158).
 - **DL → [[job-crafting]] → IWB** — digital leadership stimulates proactive role-redesign (specifically task and cognitive crafting), which in turn enhances innovative performance (source: Wang et al. - 2025.md, p. 10).
+
+### Antecedents to Digital Leadership
+While most research views digital leadership as an independent variable, some studies identify its prerequisites:
+- **[[digital-engagement]] → DL** — immersion in digital platforms provides the foundation for developing digital leadership capabilities, strategic thinking, and foresight ($\beta = 0.653, p < 0.001$) (source: Zia et al. - 2024.md, p. 11).
+- **[[digital-talent-development]] → DL** — talent development provides the groundwork for digital leadership by building the necessary competency base (source: Fauziah et al. - 2026.md, p. 483).
 
 ### Link to Emotional States
 - **Non-significant effect on [[emotional-intelligence]]**: Digital leadership competence does not necessarily translate into higher emotional intelligence among subordinates ($p = 0.289$). Subordinates still require separate psychological knowledge to develop emotional maturity (source: [[hadi-et-al-2024]]).
@@ -173,6 +183,7 @@ Importance-Performance Map Analysis (IPMA) in the retail sector indicates that d
 - **Contextual variability**: while most studies support the importance of digital leadership for IWB, findings from the energy infrastructure sector suggest its impact can be overridden by more tangible rewards like [[employee-compensation]] (source: fahrurrozi-and-arief-2026.md, p. 65).
 - **Contradiction in Performance Linkage**: Farhaq & Yulianti (2024) found a significant direct effect on performance, which conflicts with **Gehan and Yulianti (2024)** and **Arief Rizqi et al. (2023)**, both of whom found no significant direct path from digital leadership to employee performance (source: Gehan and Yulianti - 2024.md, p. 37; farhaq-and-yulianti-2024.md, p. 400).
 - **Total vs. Mediated Effect on IWB**: While [[erhan-et-al-2022]] found a strong direct impact, [[hadi-et-al-2024]] found that digital leadership had **no significant effect** ($p = 0.498$) on any dimension of IWB in the Indonesian higher education sector. **Tanan & Purbojo (2025)** corroborated this non-significance in a private school context (P-value = 0.445), suggesting that digital leadership's effectiveness is context-dependent and potentially redundant when employees are already digitally independent (source: Tanan and Purbojo - 2025.md, p. 41). **Umayna et al. (2025)** found that while digital leadership has a significant direct effect on **[[competitive-advantage]]** ($\beta$ = 0.212), it primarily functions as a moderator for the innovation-advantage path (source: Umayna et al. - 2025.md, p. 139).
+- **Engagement-Leadership Nexus**: Zia et al. (2024) challenge the traditional "Leadership → Engagement" model by demonstrating that **[[digital-engagement]]** is a prerequisite for **digital leadership** capabilities, rather than an outcome of it (source: Zia et al. - 2024.md, p. 14).
 
 ## Related pages
 
@@ -184,6 +195,9 @@ Importance-Performance Map Analysis (IPMA) in the retail sector indicates that d
 - [[digital-literacy]]
 - [[learning-orientation]]
 - [[school-culture]]
+- [[digital-engagement]]
+- [[digital-communication]]
+- [[digital-training]]
 
 - [[innovation-capabilities]]
 - [[leader-member-exchange]]
