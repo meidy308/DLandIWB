@@ -23,12 +23,14 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[sebetci-et-al-2025]] - Study on digital leadership impacting IWB and knowledge sharing via psychological ownership in the Turkish IT sector.
 - [[soediro-et-al-2025]] - Study on growth mindset, organizational climate, and digital leadership influencing IWB through the mediating role of creative process engagement among Indonesian lecturers.
 - [[tanan-and-purbojo-2025]] - Study on the impact of school culture and digital leadership on teacher IWB in Manado, finding school culture as a significant predictor while digital leadership was non-significant.
+- [[umayna-et-al-2025]] - Study on psychological empowerment, creativity, and digital leadership influencing competitive advantage through IWB in Indonesian MSMEs.
 
 ## Concepts & Variables
 - [[adaptive-performance]] - The ability to adjust behavior and performance in response to changing work demands and environmental conditions.
 - [[affective-commitment]] - Emotional attachment to an organization and desire to remain.
 - [[affective-commitment-to-leadership]] - Emotional identification with and attachment to an individual leader.
 - [[digital-competency]] - Knowledge, skills, and attitudes in utilizing digital resources efficiently.
+- [[competitive-advantage]] - An organization's ability to generate greater value than its competitors through differentiation and innovation.
 - [[digital-leadership]] - Leadership maximizing tech integration and adaptability.
 - [[digital-literacy]] - Awareness and capability to utilize digital resources for identifies, evaluation, and synthesis.
 - [[creative-process-engagement]] - Active participation in cognitive and collaborative activities such as problem identification, info search, and idea generation.
@@ -70,6 +72,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[cognitive-affective-processing-system]] - Behavior output generated from the interaction of situations with internal cognitive and affective states.
 - [[communication-as-constitutive-of-organization]] - Communication processes creating organizations.
 - [[conservation-of-resources-theory]] - Striving to obtain, retain, and foster resources.
+- [[dynamic-capabilities-theory]] - Framework for sustaining competitive advantage through continuous resource reconfiguration.
 - [[job-demands-resources-theory]] - Interaction of job resources and demands on employee performance.
 - [[social-exchange-theory]] - Human behavior driven by reciprocal cycles of social exchange.
 - [[social-identity-theory]] - Framework suggesting that individuals define themselves based on social group membership and align their behavior with group values.

@@ -14,7 +14,7 @@ confidence: high
 
 ---
 
-Resource-based theory (RBT) posits that for a firm to achieve superior performance, it must possess resources that are valuable, rare, inimitable, and non-substitutable (VRIN). These resources and capabilities determine the firm's sustainable competitive stance (source: farhaq-and-yulianti-2024.md, p. 401).
+Resource-based theory (RBT) posits that for a firm to achieve superior performance, it must possess resources that are valuable, rare, inimitable, and non-substitutable (VRIN). These resources and capabilities determine the firm's sustainable competitive stance (source: farhaq-and-yulianti-2024.md, p. 401). **[[dynamic-capabilities-theory]]** is an extension of RBT that addresses how these resources are renewed and reconfigured in volatile environments.
 
 ## Relationship with Other Variables
 
@@ -35,3 +35,5 @@ Digital leadership is considered a dynamic organizational resource exploitable f
 - [[upper-echelon-theory]]
 - [[farhaq-and-yulianti-2024]]
 - [[khan-et-al-2025]]
+- [[dynamic-capabilities-theory]]
+- [[competitive-advantage]]

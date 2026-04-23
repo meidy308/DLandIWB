@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The ability to generate novel ideas and original methods when addressing complex workplace challenges, acting as a cognitive precursor to innovation.
 
-**Sources**: Hastiti et al. - 2025.md, Rahmandika et al. - 2025.md
+**Sources**: Hastiti et al. - 2025.md, Rahmandika et al. - 2025.md, Umayna et al. - 2025.md
 
 ---
 
@@ -27,9 +27,11 @@ Key aspects of creative problem solving include (source: Hastiti et al. - 2025.m
 
 ### As a Mediator
 - **[[digital-leadership]] → Problem-Solving Creativity** — Digital leadership has a strongly significant, positive impact on fostering problem-solving creativity (est = 0.831, p < 0.001) (source: Hastiti et al. - 2025.md, p. 50-51). Digital leaders facilitate this by introducing collaborative software and AI tools that break down traditional communication barriers.
+- **[[psychological-empowerment]] → Problem-Solving Creativity** — Empowerment significantly predicts creativity ($\beta$ = 0.413, p = 0.000), as it builds ownership and motivation (source: Umayna et al. - 2025.md, p. 139).
 
 ### Relationship with Innovation
-- **Relationship with [[innovative-work-behavior]] (IWB)** — Research indicates that problem-solving creativity does *not* always translate directly into IWB (est = 1.847, p = 0.546) (source: Hastiti et al. - 2025.md, p. 51). While creativity sparks the *intent* or the *idea*, structural, cultural, or resource barriers may prevent these creative ideas from being practically implemented into workplace outcomes.
+- **Relationship with [[innovative-work-behavior]] (IWB)** — Research indicates that problem-solving creativity does *not* always translate directly into IWB (est = 1.847, p = 0.546) (source: Hastiti et al. - 2025.md, p. 51). However, in MSMEs, creativity strongly influences IWB ($\beta$ = 0.367, p = 0.000) and this relationship is significantly strengthened by [[digital-leadership]] ($\beta$ = 0.405, p = 0.000) (source: Umayna et al. - 2025.md, p. 139-140).
+- **Relationship with [[competitive-advantage]]** — Creativity does NOT directly lead to competitive advantage; its impact is fully mediated by [[innovative-work-behavior]] (source: Umayna et al. - 2025.md, p. 142).
 
 ### Moderation by Gender
 Following [[social-role-theory]], research indicates that the impact of digital leadership on problem-solving creativity is **significantly stronger for men** (est = 0.890) than for women (est = 0.761) (source: Hastiti et al. - 2025.md, p. 52).
@@ -49,3 +51,5 @@ Following [[social-role-theory]], research indicates that the impact of digital 
 - [[social-role-theory]]
 - [[hastiti-et-al-2025]]
 - [[rahmandika-et-al-2025]]
+- [[competitive-advantage]]
+- [[dynamic-capabilities-theory]]

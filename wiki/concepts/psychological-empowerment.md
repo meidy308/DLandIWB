@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A set of motivational cognitions—meaning, competence, self-determination, and impact—that reflect an employee's orientation toward their job role and psychological state in the workplace.
 
-**Sources**: Gao and Gao - 2024.md
+**Sources**: Gao and Gao - 2024.md, Umayna et al. - 2025.md
 
 ---
 
@@ -31,8 +31,9 @@ Psychological empowerment consists of four key cognitions (source: Gao and Gao -
 In the study of digital transformation, psychological empowerment acts as a verified cognitive mediator between leadership and behavior:
 
 - **[[digital-leadership]] → PE**: Digital leadership significantly and positively predicts psychological empowerment (β = 0.374, p < .001). Digital leaders build skills, create growth mindsets, and provide autonomy, which directly elevates these four cognitions (source: Gao and Gao - 2024.md, p. 16).
-- **PE → [[innovative-work-behavior]]**: Psychological empowerment strongly predicts innovative behavior (β = 0.290, p < .001). When employees feel autonomous and impactful, they are more willing to risk trial-and-error processes and implement novel ideas (source: Gao and Gao - 2024.md, p. 16).
-- **Indirect Effect**: Psychological empowerment partially mediates the relationship between digital leadership and innovative behavior (β = 0.108, p = .001) (source: Gao and Gao - 2024.md, p. 16).
+- **PE → [[innovative-work-behavior]]**: Psychological empowerment strongly predicts innovative behavior (β = 0.290, p < .001 in [[gao-and-gao-2024]]; $\beta$ = 0.253, p = 0.001 in [[umayna-et-al-2025]]). When employees feel autonomous and impactful, they are more willing to risk trial-and-error processes and implement novel ideas.
+- **PE → [[problem-solving-creativity]]**: Significantly and positively predicts creativity ($\beta$ = 0.413, p = 0.000), suggesting that empowered employees are more likely to engage in creative thinking and idea generation (source: Umayna et al. - 2025.md, p. 139).
+- **Indirect Effect**: Psychological empowerment partially mediates the relationship between digital leadership and innovative behavior (β = 0.108, p = .001) (source: Gao and Gao - 2024.md, p. 16). In MSMEs, its influence on **[[competitive-advantage]]** is fully mediated by [[innovative-work-behavior]] (source: Umayna et al. - 2025.md, p. 141).
 
 ### Moderation Boundary Conditions
 - **[[proactive-personality]]**: Gao and Gao (2024) found that a proactive personality did not significantly moderate the DL → PE relationship (p = .093), suggesting that proactive employees may maintain high empowerment regardless of the digital leadership style (source: Gao and Gao - 2024.md, p. 18).
@@ -50,3 +51,6 @@ In the study of digital transformation, psychological empowerment acts as a veri
 - [[proactive-personality]]
 - [[cognitive-affective-processing-system]]
 - [[gao-and-gao-2024]]
+- [[problem-solving-creativity]]
+- [[competitive-advantage]]
+- [[dynamic-capabilities-theory]]

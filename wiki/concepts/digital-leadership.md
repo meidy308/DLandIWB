@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A leadership style that maximizes technology integration, adaptability, and fosters a digital work climate to encourage innovation. Also referred to as **E-leadership**, focuses on influencing others through information technology to achieve organizational goals.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md, Soediro et al. - 2025.md, Tanan and Purbojo - 2025.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md, Soediro et al. - 2025.md, Tanan and Purbojo - 2025.md, Umayna et al. - 2025.md
 
 ---
 
@@ -119,6 +119,8 @@ Digital leadership encourages IWB through several sequential mechanisms:
 - **[[strategic-agility]] positively moderates DL → [[green-organizational-climate]]**: higher strategic agility amplifies the positive impact of digital leadership on fostering a sustainable organizational climate (β = 0.36, p < .001). Under low agility, the leadership effect on green innovation may become non-significant (source: Khan et al. - 2025.md, p. 9, 11).
 - **[[power-distance]] negatively moderates DL influence**: in organizations with high power distance orientation, the positive effects of digital leadership on [[psychological-capital]] and [[affective-commitment-to-leadership]] are significantly weakened. Low power distance strengthens the sensitivity of employees to leadership cues (source: Li and Xiao - 2023.md, p. 13).
 - **[[problem-solving-creativity]] negatively moderates DL → Performance**: among Gen Z and Gen Y, high creativity actually **weakens** the impact of digital leadership on performance ($p = .007$), as these employees tend to act more independently and rely on their own digital standards (source: Rahmandika et al. - 2025.md, p. 251).
+- **[[problem-solving-creativity]] to IWB positive moderation**: in MSMEs, digital leadership significantly strengthens the transformation of creativity into actual innovative behavior ($\beta$ = 0.405, p = 0.000) (source: Umayna et al. - 2025.md, p. 140).
+- **IWB to [[competitive-advantage]] positive moderation**: digital leadership amplifies the impact of innovative actions on firm competitiveness ($\beta$ = 0.325, p = 0.004) (source: Umayna et al. - 2025.md, p. 140).
 
 ## Measurement
 
@@ -151,7 +153,7 @@ Importance-Performance Map Analysis (IPMA) in the retail sector indicates that d
 - **Digital culture's role** is contested: positive mediator in Çetinkaya & Sürücü (2025) vs. negative moderator in Deviren (2026).
 - **Contextual variability**: while most studies support the importance of digital leadership for IWB, findings from the energy infrastructure sector suggest its impact can be overridden by more tangible rewards like [[employee-compensation]] (source: fahrurrozi-and-arief-2026.md, p. 65).
 - **Contradiction in Performance Linkage**: Farhaq & Yulianti (2024) found a significant direct effect on performance, which conflicts with **Gehan and Yulianti (2024)** and **Arief Rizqi et al. (2023)**, both of whom found no significant direct path from digital leadership to employee performance (source: Gehan and Yulianti - 2024.md, p. 37; farhaq-and-yulianti-2024.md, p. 400).
-- **Total vs. Mediated Effect on IWB**: While [[erhan-et-al-2022]] found a strong direct impact, [[hadi-et-al-2024]] found that digital leadership had **no significant effect** ($p = 0.498$) on any dimension of IWB in the Indonesian higher education sector. **Tanan & Purbojo (2025)** corroborated this non-significance in a private school context (P-value = 0.445), suggesting that digital leadership's effectiveness is context-dependent and potentially redundant when employees are already digitally independent (source: Tanan and Purbojo - 2025.md, p. 41).
+- **Total vs. Mediated Effect on IWB**: While [[erhan-et-al-2022]] found a strong direct impact, [[hadi-et-al-2024]] found that digital leadership had **no significant effect** ($p = 0.498$) on any dimension of IWB in the Indonesian higher education sector. **Tanan & Purbojo (2025)** corroborated this non-significance in a private school context (P-value = 0.445), suggesting that digital leadership's effectiveness is context-dependent and potentially redundant when employees are already digitally independent (source: Tanan and Purbojo - 2025.md, p. 41). **Umayna et al. (2025)** found that while digital leadership has a significant direct effect on **[[competitive-advantage]]** ($\beta$ = 0.212), it primarily functions as a moderator for the innovation-advantage path (source: Umayna et al. - 2025.md, p. 139).
 
 ## Related pages
 
@@ -210,3 +212,5 @@ Importance-Performance Map Analysis (IPMA) in the retail sector indicates that d
 - [[sebetci-et-al-2025]]
 - [[psychological-ownership]]
 - [[knowledge-sharing-behavior]]
+- [[competitive-advantage]]
+- [[dynamic-capabilities-theory]]
