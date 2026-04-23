@@ -25,6 +25,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[tanan-and-purbojo-2025]] - Study on the impact of school culture and digital leadership on teacher IWB in Manado, finding school culture as a significant predictor while digital leadership was non-significant.
 - [[umayna-et-al-2025]] - Study on psychological empowerment, creativity, and digital leadership influencing competitive advantage through IWB in Indonesian MSMEs.
 - [[wang-et-al-2025]] - Study on digital leadership affecting innovative performance through task and cognitive crafting, moderated by person-job fit in Chinese manufacturing.
+- [[yulianti-maharani-2024]] - Study on digital leadership affecting employee performance through the full mediation of IWB at PT Semen Indonesia, with non-significant mediation by creativity.
 
 ## Concepts & Variables
 - [[adaptive-performance]] - The ability to adjust behavior and performance in response to changing work demands and environmental conditions.
@@ -35,6 +36,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[digital-leadership]] - Leadership maximizing tech integration and adaptability.
 - [[digital-literacy]] - Awareness and capability to utilize digital resources for identifies, evaluation, and synthesis.
 - [[creative-process-engagement]] - Active participation in cognitive and collaborative activities such as problem identification, info search, and idea generation.
+- [[employee-creativity]] - The production of novel and useful ideas regarding products, services, processes, and methods.
 - [[digital-organizational-culture]] - Shared practices shaping digital technology integration in the workplace.
 - [[emotional-intelligence]] - Ability to identify, manage, and regulate one's own and others' emotions.
 - [[digital-talent-development]] - Systematic process of enhancing employees' digital skills and technical proficiency.

@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The work results achieved by an individual in carrying out assigned tasks based on skill, experience, sincerity, and time.
 
-**Sources**: farhaq-and-yulianti-2024.md, Gehan and Yulianti - 2024.md, Hang and Nguyệt - 2026.md, Rahmandika et al. - 2025.md
+**Sources**: farhaq-and-yulianti-2024.md, Gehan and Yulianti - 2024.md, Hang and Nguyệt - 2026.md, Rahmandika et al. - 2025.md, Yulianti and Maharani - 2024 .md
 
 ---
 
@@ -31,11 +31,16 @@ Employee performance (Kinerja Karyawan) serves as an evaluation and feedback too
 1. **Task Performance** — Striving to complete tasks in accordance with assigned routines and expectations.
 2. **Contextual Performance** — Proactive behaviors like improving work outcomes and technical knowledge.
 
+**Yulianti and Maharani (2024)** — 3 dimensions based on Pradhan and Jena (2017) (source: Yulianti and Maharani - 2024 .md, p. 149):
+1. **Task Performance**
+2. **Contextual Performance**
+3. **Adaptive Performance**
+
 ## Relationship with Other Variables
 
 ### Predicted by Digital Leadership
 - **Significant direct effect**: [[digital-leadership]] significantly predicts employee performance among millennials (β = 2.581, p = 0.010) (source: farhaq-and-yulianti-2024.md, p. 405). Similarly, in the retail sector, digital leadership is positively related to salesperson performance ($\beta = 0.203, p = .000$) (source: Hang and Nguyệt - 2026.md, p. 13). Among Gen Z/Y employees across multiple sectors, digital leadership also shows a direct and significant impact ($\beta = 0.264, p = .001$) (source: Rahmandika et al. - 2025.md, p. 250).
-- **Non-significant direct effect**: In a similar millennial study, digital leadership did not directly predict performance ($p = 0.464$), suggesting the connection varies even within similar demographics (source: Gehan and Yulianti - 2024.md, p. 36).
+- **Non-significant direct effect**: In a similar millennial study, digital leadership did not directly predict performance ($p = 0.464$), suggesting the connection varies even within similar demographics (source: Gehan and Yulianti - 2024.md, p. 36). This is corroborated by findings at PT Semen Indonesia ($p = 0.086$), where digital leadership's effect is entirely indirect (source: Yulianti and Maharani - 2024 .md, p. 158).
 
 ### Predicted by Innovative Work Behavior
 [[innovative-work-behavior]] consistently has a significant positive effect on employee performance (β = 5.315, p = 0.000 in Farhaq; $O = 0.541, p = .000$ in Gehan; $\beta = 0.349, p = .000$ in Hang & Nguyệt; $\beta = 0.272, p = 0.000$ in Rahmandika). The activities of building, promoting, and realizing ideas improve an employee's overall capacity to perform (source: farhaq-and-yulianti-2024.md, p. 406; Gehan and Yulianti - 2024.md, p. 37; Hang and Nguyệt - 2026.md, p. 13; Rahmandika et al. - 2025.md, p. 250).
@@ -43,6 +48,8 @@ Employee performance (Kinerja Karyawan) serves as an evaluation and feedback too
 ### Mediated Relationship
 [[innovative-work-behavior]] acts as a significant mediator between [[digital-leadership]] and employee performance (β = 5.023, p = 0.000). For millennials, digital leadership's value is realized through the innovation it stimulates, which then drives performance (source: farhaq-and-yulianti-2024.md, p. 407; Gehan and Yulianti - 2024.md, p. 37). In a multi-sector Gen Z/Y sample, IWB acts as a partial mediator ($\beta = 0.088, p = .018$) (source: Rahmandika et al. - 2025.md, p. 250).
 - **Sequential Mediation**: In retail contexts, performance is driven by a chain starting from **[[digital-leadership]]** to **[[digital-literacy]]**, then **[[innovative-work-behavior]]**, and finally to work performance ($\beta = 0.127, p = .000$) (source: Hang and Nguyệt - 2026.md, p. 16).
+- **IWB as Full Mediator**: At PT Semen Indonesia, the influence of digital leadership on performance is entirely channeled through IWB (indirect effect: B = 0.285, p = 0.000). Leaders drive innovation, which in turn secures performance gains (source: Yulianti and Maharani - 2024 .md, p. 161).
+- **Non-significant mediation by Creativity**: Although digital leadership increases creativity, creativity itself does not significantly predict performance ($p = 0.096$), as ideas often remain as "potential" without the implementation phase of IWB (source: Yulianti and Maharani - 2024 .md, p. 161).
 
 ### Moderated Relationship
 - **[[digital-literacy]] moderates DL → Performance**: The impact of digital leadership on performance is significantly strengthened when employees have high digital literacy ($\beta = 0.081, p = .010$) (source: Hang and Nguyệt - 2026.md, p. 16).
