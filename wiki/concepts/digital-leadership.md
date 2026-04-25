@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A leadership style that maximizes technology integration, adaptability, and fosters a digital work climate to encourage innovation. Also referred to as **E-leadership**, focuses on influencing others through information technology to achieve organizational goals.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md, Soediro et al. - 2025.md, Tanan and Purbojo - 2025.md, Umayna et al. - 2025.md, Wang et al. - 2025.md, Yulianti and Maharani - 2024 .md, Zia et al. - 2024.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Nugroho et al. - 2025.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md, Soediro et al. - 2025.md, Tanan and Purbojo - 2025.md, Umayna et al. - 2025.md, Wang et al. - 2025.md, Yulianti and Maharani - 2024 .md, Zia et al. - 2024.md
 
 ---
 
@@ -101,7 +101,7 @@ Digital leadership has a positive and significant effect on [[innovative-work-be
 - **Significant direct effect in Indonesian HE**: Digital leadership exhibited the most substantial direct effect on lecturers' innovative behavior ($\beta = 0.300, p = 0.000$), demonstrating its crucial role in guidance during digital transformation in academia (source: Soediro et al. - 2025.md, p. 351, 376).
 - **Strong direct effect among Indonesian Gen Z/Y**: digital leadership significantly predicts innovative behavior ($\beta = 0.325, p = .001$) across multiple industries (source: Rahmandika et al. - 2025.md, p. 250).
 - **Positive effect in manufacturing**: digital leadership is positively related to employee innovative performance ($B = 0.188, p < 0.001$), acting as a trigger for innovation by cultivating a digital culture and allocating resources (source: Wang et al. - 2025.md, p. 8). At PT Semen Indonesia, it significantly drives IWB (B = 0.502, p = 0.000) (source: Yulianti and Maharani - 2024 .md, p. 158).
-- **Non-significant direct effect in specific contexts**: in certain high-risk, project-based environments like energy infrastructure, financial incentives like [[employee-compensation]] may override leadership style in predicting IWB ($p = .3195$) (source: fahrurrozi-and-arief-2026.md, p. 65). This is echoed by findings that suggest DL's influence is often channeled through mediators. Similarly, **Tanan & Purbojo (2025)** found a **non-significant** impact on IWB (P-value = 0.445) in a private school, where teachers were already technologically independent and the leadership focus was not specifically on driving digital innovation (source: Tanan and Purbojo - 2025.md, p. 41).
+- **Non-significant direct effect in specific contexts**: in certain high-risk, project-based environments like energy infrastructure, financial incentives like [[employee-compensation]] may override leadership style in predicting IWB ($p = .3195$) (source: fahrurrozi-and-arief-2026.md, p. 65). This is echoed by findings in the **Indonesian construction sector**, where digital leadership had no significant direct effect on IWB ($\beta = 0.010, p = 0.853$), acting instead as a trigger that shapes environment and mindset (source: Nugroho et al. - 2025.md, p. 84, 92). This is further supported by findings that suggest DL's influence is often channeled through mediators. Similarly, **Tanan & Purbojo (2025)** found a **non-significant** impact on IWB (P-value = 0.445) in a private school, where teachers were already technologically independent and the leadership focus was not specifically on driving digital innovation (source: Tanan and Purbojo - 2025.md, p. 41).
 - **Strong direct effect among technological professionals**: digital leadership significantly predicts innovative behavior ($\beta = 0.616, p < 0.001$), reinforcing the role of digital vision and knowledge in navigating the evolving digital landscape (source: Zia et al. - 2024.md, p. 11).
 
 ### Impact on Employee Performance
@@ -124,6 +124,7 @@ Digital leadership encourages IWB through several sequential mechanisms:
 - **DL → [[green-organizational-climate]] → [[green-innovative-behavior]]** — digital leadership creates a supportive green climate that enables employees to engage in eco-innovation (indirect effect: β = 0.14) (source: Khan et al. - 2025.md, p. 9).
 - **DL → [[psychological-ownership]] → IWB / [[knowledge-sharing-behavior]]** — digital leaders foster a sense of ownership, which in turn enhances innovative and collaborative behaviors. Notably, **supportive leadership** works entirely through **work-based ownership** (Full Mediation) to drive innovation (source: Sebetci et al. - 2025.md, p. 8-9).
 - **DL → [[innovative-work-behavior]] → EP** — partial mediation where DL drives performance partly by stimulating innovative behaviors ($\beta_{indirect} = 0.088, p = .018$) (source: Rahmandika et al. - 2025.md, p. 250–251).
+- **DL → [[organizational-culture]] / [[work-engagement]] → IWB** — in the construction sector, digital leadership influences IWB entirely through the full mediation of organizational culture and work engagement, shaping the environment and motivating employees to innovate (source: Nugroho et al. - 2025.md, p. 95).
 - **DL → [[creative-process-engagement]] → IWB** — digital leadership facilitates an environment where individuals are more likely to immerse themselves in creative cognitive processes (problem identification, idea generation), which in turn drives innovative behavior. CPE accounts for 47.94% of the effect of digital leadership on IWB in private universities (source: Soediro et al. - 2025.md, p. 345, 365).
 - **DL → [[innovative-work-behavior]] → [[employee-performance]]** — at PT Semen Indonesia, IWB fully mediates the relationship, explaining how digital vision leads to realized innovation and performance (indirect effect: B = 0.285, p = 0.000) (source: Yulianti and Maharani - 2024 .md, p. 161).
 - **DL → [[employee-creativity]]** — digital leadership significantly stimulates the generation of new and useful ideas (B = 0.382, p = 0.001), although this creativity does not always directly lead to performance without implementation (source: Yulianti and Maharani - 2024 .md, p. 158).
@@ -182,7 +183,7 @@ Importance-Performance Map Analysis (IPMA) in the retail sector indicates that d
 - **Digital culture's role** is contested: positive mediator in Çetinkaya & Sürücü (2025) vs. negative moderator in Deviren (2026).
 - **Contextual variability**: while most studies support the importance of digital leadership for IWB, findings from the energy infrastructure sector suggest its impact can be overridden by more tangible rewards like [[employee-compensation]] (source: fahrurrozi-and-arief-2026.md, p. 65).
 - **Contradiction in Performance Linkage**: Farhaq & Yulianti (2024) found a significant direct effect on performance, which conflicts with **Gehan and Yulianti (2024)** and **Arief Rizqi et al. (2023)**, both of whom found no significant direct path from digital leadership to employee performance (source: Gehan and Yulianti - 2024.md, p. 37; farhaq-and-yulianti-2024.md, p. 400).
-- **Total vs. Mediated Effect on IWB**: While [[erhan-et-al-2022]] found a strong direct impact, [[hadi-et-al-2024]] found that digital leadership had **no significant effect** ($p = 0.498$) on any dimension of IWB in the Indonesian higher education sector. **Tanan & Purbojo (2025)** corroborated this non-significance in a private school context (P-value = 0.445), suggesting that digital leadership's effectiveness is context-dependent and potentially redundant when employees are already digitally independent (source: Tanan and Purbojo - 2025.md, p. 41). **Umayna et al. (2025)** found that while digital leadership has a significant direct effect on **[[competitive-advantage]]** ($\beta$ = 0.212), it primarily functions as a moderator for the innovation-advantage path (source: Umayna et al. - 2025.md, p. 139).
+- **Total vs. Mediated Effect on IWB**: While [[erhan-et-al-2022]] found a strong direct impact, [[hadi-et-al-2024]] found that digital leadership had **no significant effect** ($p = 0.498$) on any dimension of IWB in the Indonesian higher education sector. **Nugroho et al. (2025)** corroborated this non-significance in the construction sector ($\beta = 0.010, p = 0.853$), identifying full mediation through culture and engagement (source: Nugroho et al. - 2025.md, p. 92). **Tanan & Purbojo (2025)** also reported non-significance in a private school context (P-value = 0.445), suggesting that digital leadership's effectiveness is context-dependent and potentially redundant when employees are already digitally independent (source: Tanan and Purbojo - 2025.md, p. 41). **Umayna et al. (2025)** found that while digital leadership has a significant direct effect on **[[competitive-advantage]]** ($\beta$ = 0.212), it primarily functions as a moderator for the innovation-advantage path (source: Umayna et al. - 2025.md, p. 139).
 - **Engagement-Leadership Nexus**: Zia et al. (2024) challenge the traditional "Leadership → Engagement" model by demonstrating that **[[digital-engagement]]** is a prerequisite for **digital leadership** capabilities, rather than an outcome of it (source: Zia et al. - 2024.md, p. 14).
 
 ## Related pages
@@ -198,10 +199,10 @@ Importance-Performance Map Analysis (IPMA) in the retail sector indicates that d
 - [[digital-engagement]]
 - [[digital-communication]]
 - [[digital-training]]
-
 - [[innovation-capabilities]]
 - [[leader-member-exchange]]
 - [[digital-organizational-culture]]
+- [[organizational-culture]]
 - [[work-engagement]]
 - [[organization-experience]]
 - [[adaptive-performance]]
@@ -239,10 +240,12 @@ Importance-Performance Map Analysis (IPMA) in the retail sector indicates that d
 - [[kaizen-culture]]
 - [[employee-compensation]]
 - [[employee-performance]]
+- [[contingency-theory]]
 - [[upper-echelon-theory]]
 - [[resource-based-theory]]
 - [[rahmandika-et-al-2025]]
 - [[sebetci-et-al-2025]]
+- [[nugroho-et-al-2025]]
 - [[psychological-ownership]]
 - [[knowledge-sharing-behavior]]
 - [[competitive-advantage]]

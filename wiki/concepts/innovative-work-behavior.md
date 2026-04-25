@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The ability of individuals to generate, promote, and implement new and valuable ideas for an organization. Also frequently referred to as **Employee Innovative Behavior**.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md, Soediro et al. - 2025.md, Tanan and Purbojo - 2025.md, Umayna et al. - 2025.md, Wang et al. - 2025.md, Yulianti and Maharani - 2024 .md, Zia et al. - 2024.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Nugroho et al. - 2025.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md, Soediro et al. - 2025.md, Tanan and Purbojo - 2025.md, Umayna et al. - 2025.md, Wang et al. - 2025.md, Yulianti and Maharani - 2024 .md, Zia et al. - 2024.md
 
 ---
 
@@ -64,6 +64,7 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **[[innovation-efficacy]]** — Positive and significant predictor (Point estimate = 0.419). Confidence in creative capabilities proximally drives the initiation of innovative actions (source: Huang et al. - 2026.md, p. 8).
 - **[[growth-mindset]]** — Positive and significant predictor (β = 0.172, p = 0.001) among university lecturers, fostering adaptability and resilience (source: Soediro et al. - 2025.md, p. 347).
 - **[[organizational-climate]]** — Positive and significant predictor (β = 0.251, p = 0.000), providing the psychological safety and support needed for experimentation (source: Soediro et al. - 2025.md, p. 349).
+- **[[organizational-culture]]** — Positive and significant predictor (β = 0.488, p = 0.000), fostering innovation as a corporate concept through socialization and shared values (source: Nugroho et al. - 2025.md, p. 88, 92).
 - **[[creative-process-engagement]]** — Extremely strong predictor (β = 0.321, p = 0.000), serving as the primary behavioral mechanism where individuals immerse themselves in the creative process before achieving innovative outcomes (source: Soediro et al. - 2025.md, p. 343, 374).
 - **[[school-culture]]** — Positive and significant predictor in the education sector (P-value = 0.000). A culture of collaboration, feedback, and professional development directly fosters teacher innovation (source: Tanan and Purbojo - 2025.md, p. 40).
 - **[[psychological-empowerment]]** — Positive and significant predictor ($\beta$ = 0.253, p = 0.001) in MSMEs, acting as a motivational foundation for innovation (source: Umayna et al. - 2025.md, p. 139).
@@ -87,6 +88,7 @@ IWB is the primary outcome variable across all studies in this wiki. Its key ant
 - **DL → [[green-organizational-climate]] → [[green-innovative-behavior]]** — digital leadership creates a supportive green climate that enables employees to engage in eco-innovation (indirect effect: β = 0.14) (source: Khan et al. - 2025.md, p. 9).
 - **DL → [[psychological-ownership]] → IWB** — In the IT sector, digital leadership works through psychological ownership to drive innovation. Notably, the effect of **supportive leadership** on IWB is entirely channeled through **work-based ownership** (Full Mediation) (source: Sebetci et al. - 2025.md, p. 8).
 - **DL → IWB → [[employee-performance]]** — IWB acts as a partial mediator between digital leadership and performance among multi-sector Gen Z/Y employees (indirect effect: β = 0.088, p = .018) (source: Rahmandika et al. - 2025.md, p. 250).
+- **DL → [[organizational-culture]] / [[work-engagement]] → IWB** — In the construction sector, digital leadership influences IWB through the full mediation of organizational culture and work engagement, shaping the environment and motivating employees to innovate (source: Nugroho et al. - 2025.md, p. 95).
 - **(DL, GM, OC) → [[creative-process-engagement]] → IWB** — Sequential model where leadership, personal mindset, and organizational climate all work through creative engagement to produce IWB. CPE explains up to 47.94% of the indirect effect for digital leadership and 43.53% for climate (source: Soediro et al. - 2025.md, p. 345).
 - **PE → CR → IWB** — In MSMEs, psychological empowerment sparks creativity, which in turn leads to IWB (indirect effect: p = 0.000) (source: Umayna et al. - 2025.md, p. 139).
 - **DL → [[job-crafting]] → IWB** — In manufacturing, task and cognitive crafting significantly mediate the leadership-innovation link (B = 0.082 and B = 0.148, respectively) (source: Wang et al. - 2025.md, p. 8).
@@ -141,7 +143,7 @@ IWB is measured with varying scales across the studies:
 - The **effect size of digital leadership on IWB** varies dramatically across studies: from weak (F² = 0.032) in Afif & Fitrianingrum (2025) to very strong (B = 0.80) in Deviren (2026). This may reflect differences in sector, sample demographics (Gen Z vs. general workforce), model specification, and the presence of other IVs.
 - In **Ahmed et al. (2024)**, there is no significant direct DL → IWB path (R² = 0.179, relatively low). This contrasts sharply with **Erhan et al. (2022)** and **Deviren (2026)**, where digital leadership has strong direct effects on IWB.
 - **IWB as mediator**: When IWB is positioned as a mediator (DL → IWB → AP), it has a **negative indirect effect** (Deviren, 2026). However, as a DV it is consistently positively predicted by digital leadership across all studies.
-- **Direct Link with [[digital-leadership]]**: While most studies report significant positive effects, [[hadi-et-al-2024]] found a **non-significant** relationship ($p = 0.498$) in the Indonesian art higher education sector. Similarly, **Tanan & Purbojo (2025)** found a **non-significant** relationship (P-value = 0.445) in a private school in Manado, where teachers' pre-existing technological independence and a focus on learning culture diminished the relative importance of digital leadership in driving IWB (source: Tanan and Purbojo - 2025.md, p. 41).
+- **Direct Link with [[digital-leadership]]**: While most studies report significant positive effects, [[hadi-et-al-2024]] found a **non-significant** relationship ($p = 0.498$) in the Indonesian art higher education sector. **Nugroho et al. (2025)** similarly found a **non-significant** direct effect ($\beta = 0.010, p = 0.853$) in the construction sector, observing full mediation through culture and engagement (source: Nugroho et al. - 2025.md, p. 92). Similarly, **Tanan & Purbojo (2025)** found a **non-significant** relationship (P-value = 0.445) in a private school in Manado, where teachers' pre-existing technological independence and a focus on learning culture diminished the relative importance of digital leadership in driving IWB (source: Tanan and Purbojo - 2025.md, p. 41).
 
 ## Related pages
 
@@ -203,6 +205,7 @@ IWB is measured with varying scales across the studies:
 - [[sebetci-et-al-2025]]
 - [[psychological-ownership]]
 - [[knowledge-sharing-behavior]]
+- [[organizational-culture]]
 - [[school-culture]]
 - [[competitive-advantage]]
 - [[dynamic-capabilities-theory]]

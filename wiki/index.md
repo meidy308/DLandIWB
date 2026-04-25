@@ -20,6 +20,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[khan-et-al-2025]] - Study investigating the influence of digital leadership on green innovative behavior through green organizational climate and strategic agility in Chinese software firms.
 - [[li-and-xiao-2023]] - Study investigating how E-leadership (Digital Leadership) drives innovation through psychological capital and affective commitment, moderated by power distance in China.
 - [[rahmandika-et-al-2025]] - Study on digital leadership, IWB, and performance among Gen Z/Y in Indonesia, highlighting a negative moderating effect of creativity.
+- [[nugroho-et-al-2025]] - Study on digital leadership influencing IWB through full mediation of organizational culture and work engagement in the construction sector.
 - [[sebetci-et-al-2025]] - Study on digital leadership impacting IWB and knowledge sharing via psychological ownership in the Turkish IT sector.
 - [[soediro-et-al-2025]] - Study on growth mindset, organizational climate, and digital leadership influencing IWB through the mediating role of creative process engagement among Indonesian lecturers.
 - [[tanan-and-purbojo-2025]] - Study on the impact of school culture and digital leadership on teacher IWB in Manado, finding school culture as a significant predictor while digital leadership was non-significant.
@@ -58,6 +59,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[leader-member-exchange]] - The quality of the localized, two-way relationship between leaders and subordinates.
 - [[learning-orientation]] - Active dedication to continuously enhancing skills and understanding.
 - [[organizational-innovation-climate]] - Shared perceptions of practices and behaviors that encourage and reward innovation.
+- [[organizational-culture]] - Shared values, beliefs, and hidden assumptions that guide behavior and shape organizational capital.
 - [[organizational-climate]] - Shared perceptions and collective feelings of employees regarding their work environment and its supportive practices.
 - [[school-culture]] - Deeply rooted shared values, beliefs, and agreements that shape the interactions and learning orientation within an educational institution.
 - [[organizational-support]] - Degree to which an organization values employee contributions and welfare.
@@ -90,3 +92,4 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[upper-echelon-theory]] - Posits that organizational strategic choices and performance are reflections of the values and cognitions of powerful managers.
 - [[self-determination-theory]] - Posits that human behavior is driven by the satisfaction of autonomy, competence, and relatedness needs.
 - [[person-environment-fit-theory]] - Suggests that behavior is a function of the compatibility between an individual and their work environment.
+- [[contingency-theory]] - Posits that optimal leadership is contingent upon the leader's understanding of situational circumstances.
