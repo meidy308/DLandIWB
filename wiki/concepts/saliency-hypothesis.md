@@ -10,11 +10,11 @@ confidence: high
 
 **Summary**: A proposition within [[job-demands-resources-theory]] stating that [[job-resources]] become most beneficial and boost [[work-engagement]] particularly when [[job-demands]] are high.
 
-**Sources**: Bakker and Demerouti - 2014.md
+**Sources**: Bakker and Demerouti - 2014.md, Bakker et al. - 2014.md
 
 ---
 
-The Saliency Hypothesis explains a specific interaction effect in the JD-R theory. It suggests that when employees are confronted with challenging tasks or high pressure, their available resources (e.g., skill variety, support) become more valuable and foster higher dedication (source: Bakker and Demerouti - 2014.md, p. 11).
+The Saliency Hypothesis explains a specific interaction effect in the JD-R theory. It suggests that when employees are confronted with challenging tasks or high pressure, their available resources (e.g., skill variety, support) become more valuable and foster higher dedication (source: Bakker et al. - 2014.md, p. 401).
 
 ## Dimensions
 
@@ -24,8 +24,10 @@ The Saliency Hypothesis explains a specific interaction effect in the JD-R theor
 ## Relationship with Other Variables
 
 - **Variables**: Interaction between [[job-demands]] and [[job-resources]].
-- **Outcome**: [[work-engagement]] (source: Bakker and Demerouti - 2014.md, p. 11).
-- **Evidence**: Supported by studies among Finnish dentists (40% of interactions significant) and teachers (78% of interactions significant) (source: Bakker and Demerouti - 2014.md, p. 12).
+- **Outcome**: [[work-engagement]] (vigor, dedication, absorption).
+- **Evidence**:
+    - **Skill Variety**: Variability in professional skills boosted engagement when qualitative workload was high (source: Bakker et al. - 2014.md, p. 394).
+    - **Supportive Climate**: Supervisor support, appreciation, and organizational climate were particularly important job resources that helped teachers cope with demanding interactions (source: Bakker et al. - 2014.md, p. 394).
 
 ## Measurement
 
@@ -42,3 +44,4 @@ This hypothesis primarily applies to challenging demands; hindrance demands may 
 - [[work-engagement]]
 - [[job-resources]]
 - [[challenge-demands]]
+- [[organizational-climate]]

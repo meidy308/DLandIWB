@@ -10,15 +10,15 @@ confidence: high
 
 **Summary**: The physical and cognitive changes individuals make in their task or relational boundaries to align work demands with personal needs and resources.
 
-**Sources**: Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md, Huang et al. - 2026.md, Wang et al. - 2025.md
+**Sources**: Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md, Bakker et al. - 2014.md, Huang et al. - 2026.md, Wang et al. - 2025.md
 
 ---
 
-Job crafting is a proactive behavior where employees autonomously adjust their work tasks, methods, and interpersonal relationships. Within [[job-demands-resources-theory]], it is the primary mechanism through which employees proactively align their [[job-demands]] and [[job-resources]] to maintain motivation and health (source: Bakker and Demerouti - 2014.md, p. 16-17).
+Job crafting is a proactive behavior where employees autonomously adjust their work tasks, methods, and interpersonal relationships. Within [[job-demands-resources-theory]], it is the primary mechanism through which employees proactively align their [[job-demands]] and [[job-resources]] to maintain motivation and health (source: Bakker et al. - 2014.md, p. 401).
 
 ## Motivations for Crafting
 
-According to Wrzesniewski and Dutton (2001), employees engage in crafting due to three basic needs (source: Bakker and Demerouti - 2014.md, p. 16):
+According to Wrzesniewski and Dutton (2001), employees engage in crafting due to three basic needs (source: Bakker et al. - 2014.md, p. 401):
 1. **Control**: The need to take control over work aspects to avoid negative consequences like alienation.
 2. **Positive Self-Image**: The desire to express and confirm a positive sense of self.
 3. **Connection**: The basic human need for connection to others.
@@ -28,11 +28,11 @@ According to Wrzesniewski and Dutton (2001), employees engage in crafting due to
 Standard literature identifies two main dimensional frameworks:
 
 ### JD-R Based Framework (Tims et al., 2012)
-This framework conceptualizes crafting as changes in demands and resources (source: Bakker and Demerouti - 2014.md, p. 16):
-- **Increasing structural job resources**: Seeking opportunities for professional development and learning.
-- **Increasing social job resources**: Seeking feedback and support from colleagues and supervisors.
-- **Increasing challenging job demands**: Seeking more complex tasks or taking on new responsibilities.
-- **Decreasing hindrance job demands**: Reducing aspects of the job that interfere with performance.
+This framework conceptualizes crafting as physical and cognitive changes individuals make in their task or relational boundaries by specifically targeting demands and resources (source: Bakker et al. - 2014.md, p. 401):
+- **Increasing structural job resources**: Seeking opportunities for professional development, learning new things, and asking for more responsibility.
+- **Increasing social job resources**: Asking for feedback, seeking social support from colleagues and supervisors.
+- **Increasing challenging job demands**: Looking for new tasks, volunteering for projects, and trying to learn new skills.
+- **Decreasing hindrance job demands**: Trying to make work less mentally or physically intense, reducing workload to avoid exhaustion.
 
 ### Role-Based Framework (Wrzesniewski and Dutton, 2001)
 - **Task Crafting**: Changing the number, scope, or type of tasks performed at work.
@@ -42,8 +42,9 @@ This framework conceptualizes crafting as changes in demands and resources (sour
 ## Role in JD-R Theory
 
 Job crafting plays a critical role in the dynamic nature of the JD-R theory:
-- **Mechanism for Spirals**: It explains how engaged employees mobilize resources (gain spirals) and how they try to mitigate exhaustion by simplifying work (source: Bakker and Demerouti - 2014.md, p. 17).
-- **Individual-Level Intervention**: Organizations can stimulate crafting behavior through training and personal crafting plans (PCPs) (source: Bakker and Demerouti - 2014.md, p. 19).
+- **Mechanism for Spirals**: It explains how engaged employees mobilize resources (gain spirals). Employees who craft their resources show an increase in future structural and social resources, leading to higher engagement (source: Bakker et al. - 2014.md, p. 401-402).
+- **Proactive Personality Link**: Job crafting mediates the relationship between **[[proactive-personality]]** and engagement. Proactive people adjust their work demands and mobilize resources, which facilitates engagement (source: Bakker et al. - 2014.md, p. 395).
+- **Individual-Level Intervention**: Organizations can stimulate crafting behavior through training and personal crafting plans (PCPs) (source: Bakker et al. - 2014.md, p. 403).
 
 ## Relationship with Other Variables
 
@@ -57,13 +58,14 @@ Job crafting plays a critical role in the dynamic nature of the JD-R theory:
 
 ### As a Consequent
 - **Digital Leadership**: Digital leadership promotes job crafting by providing advanced digital tools, infrastructure, and flexible work models that increase autonomy and "Can Do" motivation (source: Huang et al. - 2026.md, p. 3; Wang et al. - 2025.md, p. 3).
+- **Work Engagement**: High engagement predicts increased job crafting behavior over time (source: Bakker et al. - 2014.md, p. 404).
 
 ### As an Antecedent
 - **Innovative Performance**: All three forms of crafting (Task, Cognitive, Relational) are hypothesized to drive innovation, though Relational Crafting effects may be constrained by organizational structure (source: Wang et al. - 2025.md, p. 10, 13).
 
 ## Measurement
 
-- **Tims et al. (2012)**: A 21-item scale measuring the four JD-R dimensions of crafting (source: Bakker and Demerouti - 2014.md, p. 16).
+- **Tims et al. (2012)**: A 21-item scale measuring the four JD-R dimensions of crafting (source: Bakker et al. - 2014.md, p. 401).
 - **Slemp and Vella-Brodrick (2013)**: A 15-item scale measuring Task, Cognitive, and Relational crafting. Items include "Introduce new approaches to improve your work" and "Think about how your job gives your life purpose" (source: Wang et al. - 2025.md, p. 6).
 
 ## Related pages
@@ -75,3 +77,5 @@ Job crafting plays a critical role in the dynamic nature of the JD-R theory:
 - [[self-determination-theory]]
 - [[person-job-fit]]
 - [[proactive-motivation-model]]
+- [[proactive-personality]]
+- [[work-engagement]]

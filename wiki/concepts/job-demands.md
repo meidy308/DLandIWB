@@ -10,37 +10,43 @@ confidence: high
 
 **Summary**: Physical, psychological, social, or organizational aspects of a job that require sustained effort and are associated with physiological and psychological costs.
 
-**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md, Bakker and Demerouti - 2007.md, Crawford et al. - 2010.md
+**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md, Bakker and Demerouti - 2007.md, Bakker et al. - 2014.md, Crawford et al. - 2010.md
 
 ---
 
 Job demands refer to those physical, psychological (cognitive and emotional), social, or organizational aspects of the job that require sustained physical and/or psychological effort or skills and are therefore associated with certain physiological and/or psychological costs (source: Bakker and Demerouti - 2007.md, p. 312). 
 
-While job demands are not necessarily negative, they may turn into job stressors when meeting those demands requires high effort from which the employee has not adequately recovered (source: Bakker and Demerouti - 2007.md, p. 312).
+While job demands are not necessarily negative, they may turn into job stressors when meeting those demands requires high effort from which the employee has not adequately recovered (source: Bakker et al. - 2014.md, p. 392).
 
 ## Challenge and Hindrance Differentiation
 
 Crawford et al. (2010) refined the classification of job demands by integrating the [[transactional-theory-of-stress]], distinguishing between demands based on how they are appraised by employees:
 
-- **[[challenge-demands]]**: Demands that employees tend to appraise as opportunities for personal growth, learning, and future gains (e.g., high workload, time pressure, responsibility). These promote [[work-engagement]] (source: Crawford et al. - 2010.md, p. 836).
-- **[[hindrance-demands]]**: Demands that employees tend to appraise as barriers or constraints that thwart growth and goal attainment (e.g., role conflict, organizational politics, red tape). These decrease [[work-engagement]] (source: Crawford et al. - 2010.md, p. 836).
+- **[[challenge-demands]]**: Demands that employees tend to appraise as opportunities for personal growth, learning, and future gains (e.g., high workload, time pressure, complex tasks). These promote [[work-engagement]] (source: Bakker et al. - 2014.md, p. 402; Crawford et al. - 2010.md, p. 836).
+- **[[hindrance-demands]]**: Demands that employees tend to appraise as barriers or constraints that thwart growth and goal attainment (e.g., role conflict, role ambiguity, red tape). These decrease [[work-engagement]] and are primary causes of [[burnout]] (source: Bakker et al. - 2014.md, p. 402; Crawford et al. - 2010.md, p. 836).
 
 ## Examples
 
 Examples of job demands include:
 - **Workload and pressure**: High work pressure, time pressure, and workload.
-- **Cognitive/Mental demands**: Computer problems, processing of information (e.g., air-traffic controllers).
+- **Cognitive/Mental demands**: Computer problems, processing of information, and complex tasks.
 - **Emotional demands**: Emotionally demanding interactions with clients, patient harassment, or pupil misconduct.
 - **Physical demands**: Physical workload and unfavorable physical environments.
-- **Organizational demands**: Role ambiguity, role conflict, and changes in tasks.
+- **Organizational demands**: Role ambiguity, role conflict, role stress, and stressful events.
 
 ## Relationship with Other Variables
 
 In the context of the [[job-demands-resources-theory]], job demands play a central role in the health-impairment process. 
 
-- **Burnout**: High job demands are the primary predictors of the exhaustion component of [[burnout]]. Demanding aspects of work lead to constant overtaxing, draining an individual's energy and resulting in a state of exhaustion (source: Bakker and Demerouti - 2007.md, p. 313).
+- **Burnout**: High job demands are the primary predictors of the exhaustion component of [[burnout]]. Lee & Ashforth (1996) and Alarcon (2011) confirmed that role conflict, workload, and role ambiguity are the most important predictors (source: Bakker et al. - 2014.md, p. 392).
 - **Absenteeism**: Job demands (e.g., work pressure, computer problems, emotional demands) are the most important predictors of health problems, which, in turn, are related to sickness absence duration and long-term absence (source: Bakker and Demerouti - 2007.md, p. 316).
-- **Interaction with Resources**: The negative impact of job demands on well-being can be buffered by [[job-resources]]. Furthermore, job resources gain their motivational potential particularly when employees are confronted with high job demands (source: Bakker and Demerouti - 2007.md, p. 317-318).
+- **Interaction with Resources**: The negative impact of job demands on well-being can be buffered by [[job-resources]]. Furthermore, job resources gain their motivational potential particularly when employees are confronted with high job demands (**[[saliency-hypothesis]]**) (source: Bakker et al. - 2014.md, p. 400).
+
+## Interventions
+
+Organizations can optimize job demands through:
+- **Reducing Hindrance Demands**: Implementing fair procedures during organizational change and teaching teams to manage conflict.
+- **Combining Challenges with Resources**: Ensuring that challenge demands like work pressure are accompanied by sufficient resources to prevent exhaustion (source: Bakker et al. - 2014.md, p. 402).
 
 ## Related pages
 
@@ -52,3 +58,5 @@ In the context of the [[job-demands-resources-theory]], job demands play a centr
 - [[burnout]]
 - [[exhaustion]]
 - [[absenteeism]]
+- [[buffer-hypothesis]]
+- [[saliency-hypothesis]]

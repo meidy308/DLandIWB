@@ -7,6 +7,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[ahmed-et-al-2024]] - Study on the impact of digital leadership on IWB through LMX, learning orientation, and innovation capabilities.
 - [[bakker-and-demerouti-2007]] - State-of-the-art overview of the JD-R model, confirming dual processes, interaction effects, and extending it to personal resources and job crafting.
 - [[bakker-and-demerouti-2014]] - Formalization of the JD-R model into a theory, detailing dual pathways, spirals, and an intervention taxonomy.
+- [[bakker-et-al-2014]] - Comprehensive review of burnout and work engagement, highlighting situational/individual predictors and health/performance consequences.
 - [[bakker-et-al-2003]] - Study testing the JD-R model's dual processes (health impairment and motivation) predicting absenteeism and turnover intentions in a call centre.
 - [[cetinkaya-surucu-2025]] - Study on digital leadership influencing IWB via digital organizational culture in Istanbul's IT sector.
 - [[crawford-et-al-2010]] - Meta-analysis of the JD-R model differentiating challenge and hindrance demands and their impact on engagement and burnout.
