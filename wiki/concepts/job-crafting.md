@@ -2,7 +2,7 @@
 title: Job Crafting
 tags: [concept, variable, category]
 date-created: 2026-04-18
-date-updated: 2026-04-18
+date-updated: 2026-04-28
 confidence: high
 ---
 
@@ -10,13 +10,16 @@ confidence: high
 
 **Summary**: The self-initiated actions employees take to reshape their job boundaries by aligning their knowledge, skills, and psychological resources with work demands.
 
-**Sources**: Huang et al. - 2026.md, Wang et al. - 2025.md
+**Sources**: Bakker and Demerouti - 2007.md, Huang et al. - 2026.md, Wang et al. - 2025.md
 
 ---
 
 Job crafting is a proactive behavior where employees autonomously adjust their work tasks, methods, and interpersonal relationships to better suit their personal needs and goals. Grounded in [[self-determination-theory]], it embodies employee autonomy and serves as a crucial catalyst for innovation (source: Huang et al. - 2026.md, p. 3).
 
+According to Bakker and Demerouti (2007), job crafting is the rationalizing process through which individuals cognitively construct characteristics of their job that are consistent with their social context. People are not passive receivers of information from their work environment, but rather active in interpreting and consequently in shaping their jobs (source: Bakker and Demerouti - 2007.md, p. 322).
+
 ## Dimensions
+...
 
 Standard literature identifies two main dimensional frameworks:
 

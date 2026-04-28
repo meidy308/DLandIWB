@@ -8,23 +8,32 @@ confidence: high
 
 # Job Demands
 
-**Summary**: Physical, social, or organizational aspects of a job that require sustained effort and are associated with physiological and psychological costs.
+**Summary**: Physical, psychological, social, or organizational aspects of a job that require sustained effort and are associated with physiological and psychological costs.
 
-**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md
+**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md, Bakker and Demerouti - 2007.md
 
 ---
 
-Job demands refer to those physical, social, or organizational aspects of the job that require sustained physical or mental effort and are therefore associated with certain physiological and psychological costs, such as exhaustion (source: Demerouti et al. - 2001.md, p. 501). While not necessarily negative, job demands can become stressors when meeting them requires high effort from which the employee fails to adequately recover.
+Job demands refer to those physical, psychological (cognitive and emotional), social, or organizational aspects of the job that require sustained physical and/or psychological effort or skills and are therefore associated with certain physiological and/or psychological costs (source: Bakker and Demerouti - 2007.md, p. 312). 
 
-Examples of specific job demands include physical workload, time pressure, demanding contacts with recipients/clients, unfavorable physical environments, and challenging shift-work schedules.
+While job demands are not necessarily negative, they may turn into job stressors when meeting those demands requires high effort from which the employee has not adequately recovered (source: Bakker and Demerouti - 2007.md, p. 312).
+
+## Examples
+
+Examples of job demands include:
+- **Workload and pressure**: High work pressure, time pressure, and workload.
+- **Cognitive/Mental demands**: Computer problems, processing of information (e.g., air-traffic controllers).
+- **Emotional demands**: Emotionally demanding interactions with clients, patient harassment, or pupil misconduct.
+- **Physical demands**: Physical workload and unfavorable physical environments.
+- **Organizational demands**: Role ambiguity, role conflict, and changes in tasks.
 
 ## Relationship with Other Variables
 
 In the context of the [[job-demands-resources-theory]], job demands play a central role in the health-impairment process. 
-- **Burnout**: High job demands are the primary predictors of the exhaustion component of [[burnout]]. According to the theory, demanding aspects of work lead to constant overtaxing, draining an individual's energy and resulting in a state of exhaustion (source: Demerouti et al. - 2001.md, p. 502, 508).
-- **Health Problems & Absenteeism**: In a call centre context, specific job demands such as workload, changes in tasks, emotional demands, and computer problems were found to strongly predict health problems like [[exhaustion]] and [[repetitive-strain-injury]] (RSI). These health issues subsequently mediate the relationship between job demands and [[absenteeism]] (source: Bakker et al. - 2003.md, p. 409).
 
-The importance of specific job demands varies across occupations (e.g., physical workload is highly relevant in manufacturing, whereas demanding client contact is highly relevant in human services) (source: Demerouti et al. - 2001.md, p. 507).
+- **Burnout**: High job demands are the primary predictors of the exhaustion component of [[burnout]]. Demanding aspects of work lead to constant overtaxing, draining an individual's energy and resulting in a state of exhaustion (source: Bakker and Demerouti - 2007.md, p. 313).
+- **Absenteeism**: Job demands (e.g., work pressure, computer problems, emotional demands) are the most important predictors of health problems, which, in turn, are related to sickness absence duration and long-term absence (source: Bakker and Demerouti - 2007.md, p. 316).
+- **Interaction with Resources**: The negative impact of job demands on well-being can be buffered by [[job-resources]]. Furthermore, job resources gain their motivational potential particularly when employees are confronted with high job demands (source: Bakker and Demerouti - 2007.md, p. 317-318).
 
 ## Related pages
 
@@ -32,5 +41,4 @@ The importance of specific job demands varies across occupations (e.g., physical
 - [[job-resources]]
 - [[burnout]]
 - [[exhaustion]]
-- [[repetitive-strain-injury]]
 - [[absenteeism]]

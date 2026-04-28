@@ -8,33 +8,36 @@ confidence: high
 
 # Burnout
 
-**Summary**: A syndrome characterized by exhaustion and disengagement from work, which can occur in any occupational context, not just human services.
+**Summary**: A syndrome characterized by exhaustion and disengagement (cynicism) from work, which develops when job demands are high and job resources are limited.
 
-**Sources**: Demerouti et al. - 2001.md
+**Sources**: Demerouti et al. - 2001.md, Bakker and Demerouti - 2007.md
 
 ---
 
-Burnout is traditionally defined as a syndrome of emotional exhaustion, depersonalization, and reduced personal accomplishment, primarily restricted to human service professions (Maslach, 1982). However, Demerouti et al. (2001) expanded this concept beyond human services, arguing that burnout develops irrespective of the occupation when job demands are high and job resources are limited. They define burnout through two core dimensions: exhaustion and disengagement from work (source: Demerouti et al. - 2001.md, p. 500-501).
+Burnout was foundationally redefined by Demerouti et al. (2001) as a syndrome applicable to any occupational context. Within the [[job-demands-resources-theory]], burnout is the end result of a health-impairment process where sustained high demands deplete an individual's energy. It is characterized by two core dimensions: exhaustion and disengagement/cynicism (source: Bakker and Demerouti - 2007.md, p. 310).
 
 ## Dimensions
 
-- **Exhaustion**: A consequence of intensive physical, affective, and cognitive strain, often resulting from prolonged exposure to high [[job-demands]]. It includes general feelings of emptiness, overtaxing, and a strong need for rest.
-- **Disengagement**: Distancing oneself from the object and content of one's work, and holding negative, cynical attitudes toward one's work in general. It is conceptualized as an outcome of lacking [[job-resources]].
+- **Exhaustion**: The depletion of mental and physical resources and severe fatigue resulting from prolonged exposure to high [[job-demands]]. It predicted decreased in-role performance (source: Bakker and Demerouti - 2007.md, p. 313, 316).
+- **Disengagement (Cynicism)**: Holding negative, cynical, or indifferent attitudes toward one's work. It is primarily an outcome of lacking [[job-resources]] (source: Bakker and Demerouti - 2007.md, p. 316).
 
 ## Relationship with Other Variables
 
 According to the [[job-demands-resources-theory]]:
-- **Job Demands**: High job demands are primarily and positively related to exhaustion (source: Demerouti et al. - 2001.md, p. 505).
-- **Job Resources**: A lack of job resources is primarily and positively related to disengagement from work (source: Demerouti et al. - 2001.md, p. 505).
-
-The combination of both high exhaustion and high disengagement represents the full burnout syndrome (source: Demerouti et al. - 2001.md, p. 508).
+- **Job Demands**: High job demands are the most important predictors of exhaustion.
+- **Job Resources**: Lack of job resources primarily predicts disengagement. However, the presence of job resources (like autonomy, feedback, and social support) can buffer the negative impact of demands on burnout (source: Bakker and Demerouti - 2007.md, p. 317).
+- **Performance**: Exhaustion primarily affects in-role performance, whereas disengagement (or lack of engagement) primarily affects extra-role performance (source: Bakker and Demerouti - 2007.md, p. 316).
+- **Absenteeism**: Burnout dimensions often mediate the relationship between job demands and future absenteeism duration (source: Bakker and Demerouti - 2007.md, p. 316).
 
 ## Measurement
 
-Burnout is measured in this expanded context using the **Oldenburg Burnout Inventory (OLBI)**, developed by Demerouti (1999). It includes two dimensions: Exhaustion (7 items) and Disengagement (8 items). The OLBI is distinct from earlier tools like the MBI because it includes both positively and negatively worded items to avoid acquiescence bias, and it uses general terms applicable to all professions, assessing physical and cognitive aspects of exhaustion alongside affective ones (source: Demerouti et al. - 2001.md, p. 500-501).
+Burnout is measured using the **Oldenburg Burnout Inventory (OLBI)** or the **Maslach Burnout Inventory-General Survey (MBI-GS)**. The MBI-GS includes dimensions of exhaustion, cynicism, and reduced professional efficacy (source: Bakker and Demerouti - 2007.md, p. 317, 324).
 
 ## Related pages
 
 - [[job-demands-resources-theory]]
 - [[job-demands]]
 - [[job-resources]]
+- [[work-engagement]]
+- [[absenteeism]]
+- [[employee-performance]]

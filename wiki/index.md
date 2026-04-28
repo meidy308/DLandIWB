@@ -5,6 +5,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 ## Sources
 - [[afif-fitrianingrum-2025]] - Study on digital leadership, work engagement, and organization experience among Gen Z in Central Java.
 - [[ahmed-et-al-2024]] - Study on the impact of digital leadership on IWB through LMX, learning orientation, and innovation capabilities.
+- [[bakker-and-demerouti-2007]] - State-of-the-art overview of the JD-R model, confirming dual processes, interaction effects, and extending it to personal resources and job crafting.
 - [[bakker-et-al-2003]] - Study testing the JD-R model's dual processes (health impairment and motivation) predicting absenteeism and turnover intentions in a call centre.
 - [[cetinkaya-surucu-2025]] - Study on digital leadership influencing IWB via digital organizational culture in Istanbul's IT sector.
 - [[demerouti-et-al-2001]] - Seminal paper introducing the Job Demands-Resources (JD-R) model and expanding the concept of burnout.
@@ -71,6 +72,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[organizational-climate]] - Shared perceptions and collective feelings of employees regarding their work environment and its supportive practices.
 - [[school-culture]] - Deeply rooted shared values, beliefs, and agreements that shape the interactions and learning orientation within an educational institution.
 - [[organizational-support]] - Degree to which an organization values employee contributions and welfare.
+- [[personal-resources]] - Positive psychological characteristics (e.g., self-efficacy, optimism) that mediate the relationship between job resources and engagement.
 - [[organization-experience]] - Knowledge and skills gained from active organizational participation.
 - [[person-job-fit]] - Compatibility between an individual and the tasks, goals, and requirements of their job.
 - [[proactive-personality]] - Tendency to take initiative and bring about meaningful change.

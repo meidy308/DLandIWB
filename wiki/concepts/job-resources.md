@@ -8,28 +8,37 @@ confidence: high
 
 # Job Resources
 
-**Summary**: Physical, psychological, social, or organizational aspects of the job that are functional in achieving goals, reducing demands, or stimulating growth.
+**Summary**: Physical, psychological, social, or organizational aspects of the job that are functional in achieving goals, reducing demands, or stimulating personal growth, learning, and development.
 
-**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md
+**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md, Bakker and Demerouti - 2007.md
 
 ---
 
-Job resources refer to those physical, psychological, social, or organizational aspects of the job that may do any of the following: (a) be functional in achieving work goals; (b) reduce job demands at the associated physiological and psychological costs; or (c) stimulate personal growth and development (source: Demerouti et al. - 2001.md, p. 501).
+Job resources refer to those physical, psychological, social, or organizational aspects of the job that are functional in achieving work goals, reduce job demands and the associated physiological and psychological costs, or stimulate personal growth, learning, and development (source: Bakker and Demerouti - 2007.md, p. 312).
 
-Examples of external organizational and social resources include job control, potential for qualification, participation in decision making, task variety, performance feedback, rewards, job security, and support from colleagues and supervisors.
+## Hierarchy of Resources
+
+Job resources can be located at multiple levels within an organization (source: Bakker and Demerouti - 2007.md, p. 312-313):
+- **Organization level**: Pay, career opportunities, and job security.
+- **Interpersonal and social level**: Supervisor support, co-worker support, and team climate.
+- **Organization of work level**: Role clarity and participation in decision making.
+- **Task level**: Skill variety, task identity, task significance, autonomy, and performance feedback.
 
 ## Relationship with Other Variables
 
-In the context of the [[job-demands-resources-theory]], job resources are critical for health promotion and maintenance, keeping people healthy even after encountering high degrees of workload.
-- **Burnout**: A lack of job resources is the primary predictor of the disengagement component of [[burnout]]. When the external environment lacks resources, individuals cannot cope with the negative influences of environmental demands, leading to withdrawal behavior and disengagement to prevent further frustration (source: Demerouti et al. - 2001.md, p. 501-502).
-- **Involvement & Turnover**: Within the motivational path, resources such as social support, supervisory coaching, performance feedback, and time control significantly and uniquely predict positive involvement ([[affective-commitment]] and [[dedication]]), which subsequently act as a full mediator to decrease [[turnover-intentions]] (source: Bakker et al. - 2003.md, p. 409). Additionally, Bakker et al. (2003) noted a small cross-link where job resources had a minor negative direct relationship with health problems (source: Bakker et al. - 2003.md, p. 410).
-- **Innovative Work Behavior**: Based on studies of JD-R theory, resources such as digital communication and training can elevate digital engagement, which in turn fosters [[innovative-work-behavior]] (see [[zia-et-al-2024]]).
+In the context of the [[job-demands-resources-theory]], job resources are the drivers of the motivational process.
+
+- **Work Engagement**: Job resources (e.g., autonomy, social support, supervisory coaching) are the unique predictors of vigor and [[dedication]], which constitute [[work-engagement]] (source: Bakker and Demerouti - 2007.md, p. 316).
+- **Buffer Hypothesis**: Job resources buffer the impact of [[job-demands]] on [[burnout]]. For example, work overload does not result in high burnout if employees experience autonomy, receive feedback, or have social support (source: Bakker and Demerouti - 2007.md, p. 317).
+- **Salience of Resources**: Job resources particularly influence motivation or work engagement when job demands are high. Individuals with a greater pool of resources are less susceptible to resource loss and are more likely to seek opportunities for resource gains ("gain spirals") (source: Bakker and Demerouti - 2007.md, p. 318).
+- **Innovative Work Behavior**: Resources such as digital communication and training can elevate digital engagement, which in turn fosters [[innovative-work-behavior]] (see [[zia-et-al-2024]]).
 
 ## Related pages
 
 - [[job-demands-resources-theory]]
 - [[job-demands]]
+- [[personal-resources]]
 - [[burnout]]
-- [[affective-commitment]]
+- [[work-engagement]]
 - [[dedication]]
 - [[turnover-intentions]]
