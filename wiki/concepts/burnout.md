@@ -10,11 +10,11 @@ confidence: high
 
 **Summary**: A syndrome characterized by exhaustion and disengagement (cynicism) from work, which develops when job demands are high and job resources are limited.
 
-**Sources**: Demerouti et al. - 2001.md, Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md, Bakker and Demerouti - 2017.md, Bakker et al. - 2014.md, Crawford et al. - 2010.md
+**Sources**: Demerouti et al. - 2001.md, Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md, Bakker and Demerouti - 2017.md, Bakker et al. - 2014.md, Bakker et al. - 2023.md, Crawford et al. - 2010.md
 
 ---
 
-Burnout is foundationally redefined within [[job-demands-resources-theory]] as the end result of the [[health-impairment-process]]. It occurs when sustained high [[job-demands]] deplete an individual's energetic resources, leading to fatigue and mental distance from work (source: Bakker et al. - 2014.md, p. 392).
+Burnout is recognized by the World Health Organization (WHO) in ICD-11 as an "occupational phenomenon," not a medical condition. It is defined as a syndrome resulting from chronic workplace stress that has not been successfully managed (source: Bakker et al. - 2023.md, p. 26). Within [[job-demands-resources-theory]], it is the end result of the [[health-impairment-process]].
 
 ## Dimensions
 
@@ -36,6 +36,10 @@ Burnout can have an impact on job demands over time, creating a **loss spiral** 
 ### Outcomes
 - **Performance**: Burnout (composed of exhaustion and cynicism) is negatively related to in-role performance (source: Bakker et al. - 2014.md, p. 396). Exhaustion is the most consistent predictor of poor performance (source: Bakker et al. - 2014.md, p. 397).
 - **Health**: Burnout leads to severe health impairment, including depressive and anxiety disorders, cardiovascular diseases (men), musculoskeletal disorders (women), and an increased risk of type 2 diabetes (source: Bakker et al. - 2014.md, p. 395-396). A one-unit increase in burnout is related to a 35% increase in all-cause mortality risk (source: Bakker et al. - 2014.md, p. 396).
+
+## Contradictions and Overlap
+- **Depression**: The overlap between burnout and depression is very high, with a meta-analytic correlation of *r* = 0.80. This makes distinguishing between the two concepts difficult (source: Bakker et al. - 2023.md, p. 26).
+- **Definitions**: No fewer than 13 different definitions of burnout were published between 1974 and 2019, highlighting ongoing academic debate (source: Bakker et al. - 2023.md, p. 26).
 
 ## Related pages
 

@@ -10,6 +10,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[bakker-and-demerouti-2017]] - Consolidation of JD-R theory with 8 propositions, introducing self-undermining, personal demands, and leadership's role in resource creation.
 - [[bakker-et-al-2014]] - Comprehensive review of burnout and work engagement, highlighting situational/individual predictors and health/performance consequences.
 - [[bakker-et-al-2003]] - Study testing the JD-R model's dual processes (health impairment and motivation) predicting absenteeism and turnover intentions in a call centre.
+- [[bakker-et-al-2023]] - Comprehensive "10 years later" review of JD-R theory, introducing person x situation, multilevel, and proactive approaches.
 - [[cetinkaya-surucu-2025]] - Study on digital leadership influencing IWB via digital organizational culture in Istanbul's IT sector.
 - [[crawford-et-al-2010]] - Meta-analysis of the JD-R model differentiating challenge and hindrance demands and their impact on engagement and burnout.
 - [[demerouti-et-al-2001]] - Seminal paper introducing the Job Demands-Resources (JD-R) model and expanding the concept of burnout.
@@ -80,6 +81,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[leader-member-exchange]] - The quality of the localized, two-way relationship between leaders and subordinates.
 - [[learning-orientation]] - Active dedication to continuously enhancing skills and understanding.
 - [[organizational-innovation-climate]] - Shared perceptions of practices and behaviors that encourage and reward innovation.
+- [[playful-work-design]] - Proactive strategy where employees create conditions fostering play, fun, and competition to optimize person-task fit.
 - [[organizational-culture]] - Shared values, beliefs, and hidden assumptions that guide behavior and shape organizational capital.
 - [[organizational-climate]] - Shared perceptions and collective feelings of employees regarding their work environment and its supportive practices.
 - [[school-culture]] - Deeply rooted shared values, beliefs, and agreements that shape the interactions and learning orientation within an educational institution.
@@ -89,6 +91,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[organization-experience]] - Knowledge and skills gained from active organizational participation.
 - [[person-job-fit]] - Compatibility between an individual and the tasks, goals, and requirements of their job.
 - [[proactive-personality]] - Tendency to take initiative and bring about meaningful change.
+- [[proactive-vitality-management]] - Self-oriented proactive behavior where employees manage their own energy and inspiration for optimal functioning.
 - [[proactive-motivation-model]] - Framework explaining proactivity through "Can Do," "Reason To," and "Energized To" motivational states.
 - [[problem-solving-creativity]] - Ability to generate novel ideas and original methods in tackling complex challenges.
 - [[power-distance]] - Individual cultural value orientation relating to the acceptance of power imbalances.
@@ -105,6 +108,8 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[employee-compensation]] - Financial and non-financial rewards received in exchange for organizational contribution.
 - [[employee-performance]] - The work results achieved by an individual in carrying out assigned tasks based on skill, experience, sincerity, and time.
 - [[turnover-intentions]] - An employee's conscious and deliberate cognitive formulation to leave the organization in the near future.
+- [[multilevel-jd-r-theory]] - Extension of JD-R theory acknowledging nested structures of individuals in teams and teams in organizations.
+- [[person-situation-approach-jd-r]] - Approach combining stable personality traits with daily fluctuations in job characteristics to explain well-being.
 - [[transformational-leadership]] - Leadership style focusing on inspiration and individual consideration to create resourceful work environments.
 
 ## Theories
@@ -121,6 +126,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[transactional-theory-of-stress]] - A framework positing that stress impact is determined by an individual's appraisal of a demand as a challenge or hindrance.
 - [[self-determination-theory]] - Posits that human behavior is driven by the satisfaction of autonomy, competence, and relatedness needs.
 - [[person-environment-fit-theory]] - Suggests that behavior is a function of the compatibility between an individual and their work environment.
+- [[work-home-resources-model]] - Integrative framework explaining how demands and resources in work and home domains influence each other via volatile personal resources.
 - [[contingency-theory]] - Posits that optimal leadership is contingent upon the leader's understanding of situational circumstances.
 
 ## Syntheses

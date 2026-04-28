@@ -10,11 +10,11 @@ confidence: high
 
 **Summary**: A positive, fulfilling, work-related state of mind characterized by vigor, dedication, and absorption.
 
-**Sources**: Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md, Bakker and Demerouti - 2017.md, Bakker et al. - 2014.md, Crawford et al. - 2010.md, Afif and Fitrianingrum - 2025.md, Nugroho et al. - 2025.md
+**Sources**: Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md, Bakker and Demerouti - 2017.md, Bakker et al. - 2014.md, Bakker et al. - 2023.md, Crawford et al. - 2010.md, Afif and Fitrianingrum - 2025.md, Nugroho et al. - 2025.md
 
 ---
 
-Work engagement reflects an individual's energy, dedication, and deep concentration. Within the [[job-demands-resources-theory]], work engagement is the core outcome of the [[motivational-process]] driven by [[job-resources]]. These resources fulfill basic psychological needs, leading to the positive affective-motivational state of engagement (source: Bakker et al. - 2014.md, p. 399).
+Work engagement is a positive motivational state of vigor, dedication, and absorption. In Europe, the prevalence is relatively high, with ~71% of workers reported feeling full of energy or dedicated in 2015 (source: Bakker et al. - 2023.md, p. 27). Within the [[job-demands-resources-theory]], it is the core outcome of the [[motivational-process]] driven by [[job-resources]].
 
 ## Dimensions
 
@@ -38,6 +38,10 @@ Engaged employees are more likely to mobilize or create their own [[job-resource
 - **Innovative Work Behavior**: Work engagement has a positive and significant effect on [[innovative-work-behavior]] (source: Nugroho et al. - 2025.md, p. 88; Afif and Fitrianingrum - 2025.md, p. 3118–3119).
 - **Performance (Proposition 6)**: Motivation helps employees stay goal-oriented and focused. Experimental studies (e.g., Hopstaken et al., 2015) show that engaged individuals perform better on demanding tasks because they focus all their attention on the task, as indicated by brain activity and pupil diameter (source: Bakker and Demerouti - 2017.md, p. 275).
 - **Financial Returns**: Diary studies show that employees have better financial results on days when they have abundant resources and are highly engaged (source: Bakker and Demerouti - 2017.md, p. 275).
+
+## Contradictions and Overlap
+- **Workaholism**: Work engagement has some overlap with workaholism, specifically in the **absorption** component, which is positively related to working excessively and compulsorily (source: Bakker et al. - 2023.md, p. 27).
+- **Burnout**: While traditionally seen as opposites, meta-analysis shows non-significant cross-lagged relationships, suggesting they are independent rather than mutually exclusive poles (source: Bakker et al. - 2023.md, p. 27).
 
 ## Measurement
 

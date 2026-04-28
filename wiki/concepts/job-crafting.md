@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The physical and cognitive changes individuals make in their task or relational boundaries to align work demands with personal needs and resources.
 
-**Sources**: Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md, Bakker and Demerouti - 2017.md, Bakker et al. - 2014.md, Huang et al. - 2026.md, Wang et al. - 2025.md, Demerouti - 2022.md
+**Sources**: Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md, Bakker and Demerouti - 2017.md, Bakker et al. - 2014.md, Bakker et al. - 2023.md, Huang et al. - 2026.md, Wang et al. - 2025.md, Demerouti - 2022.md
 
 ---
 
@@ -32,7 +32,8 @@ This framework conceptualizes crafting as physical and cognitive changes individ
 - **Increasing structural job resources**: Seeking opportunities for professional development, learning new things, and asking for more responsibility.
 - **Increasing social job resources**: Asking for feedback, seeking social support from colleagues and supervisors.
 - **Increasing challenging job demands**: Looking for new tasks, volunteering for projects, and trying to learn new skills.
-- **Decreasing hindrance job demands**: Trying to make work less mentally or physically intense, reducing workload to avoid exhaustion.
+- **Decreasing hindrance job demands**: Trying to make work less mentally or physically intense, reducing workload to avoid exhaustion. This form is often linked to reduced energy and may be less effective for engagement than other forms (source: Bakker et al. - 2023.md, p. 40).
+- **Optimizing job demands**: Proactive efforts to simplify work processes, work more efficiently, and bypass unproductive work routines. This form has a positive relationship with work engagement and job performance (source: Bakker et al. - 2023.md, p. 40).
 
 ### Role-Based Framework (Wrzesniewski and Dutton, 2001)
 - **Task Crafting**: Changing the number, scope, or type of tasks performed at work.
@@ -44,7 +45,7 @@ This framework conceptualizes crafting as physical and cognitive changes individ
 Job crafting is central to the dynamic nature of JD-R Theory:
 - **Gain Spiral (Proposition 7)**: Engaged employees are likely to use job crafting behaviors, which lead to higher levels of job and personal resources and even higher levels of motivation (source: Bakker and Demerouti - 2017.md, p. 277).
 - **Reciprocal Effects**: Employees who proactively build a resourceful and challenging environment increase their own [[psychological-capital]] (hope, resilience, self-efficacy, and optimism) and future work engagement (source: Bakker and Demerouti - 2017.md, p. 277).
-- **Individual-Level Intervention**: Organizations can stimulate crafting behavior through training. Intervention studies (e.g., Van Wingerden et al.) show that teachers trained to craft their jobs started increasing their structural resources, leading to higher engagement and performance (source: Bakker and Demerouti - 2017.md, p. 279).
+- **Training Interventions**: Employees can learn to use job crafting strategies through training. Meta-analysis of intervention studies (Oprea et al., 2019) shows that implementing job crafting goals leads to more meaningful work, lower burnout, higher engagement, and improved performance (source: Bakker et al. - 2023.md, p. 35).
 - **Technology Adaptation**: Job crafting acts as a bottom-up adjustment to make technological changes fit preferences and find meaning in digitalized work environments. Employees who craft their jobs are more open and adaptive to changes because they can create an environment where they operate optimally (source: Demerouti - 2022.md, p. 1208).
 
 ## Relationship with Other Variables
