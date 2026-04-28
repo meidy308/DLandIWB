@@ -6,6 +6,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[afif-fitrianingrum-2025]] - Study on digital leadership, work engagement, and organization experience among Gen Z in Central Java.
 - [[ahmed-et-al-2024]] - Study on the impact of digital leadership on IWB through LMX, learning orientation, and innovation capabilities.
 - [[bakker-and-demerouti-2007]] - State-of-the-art overview of the JD-R model, confirming dual processes, interaction effects, and extending it to personal resources and job crafting.
+- [[bakker-and-demerouti-2014]] - Formalization of the JD-R model into a theory, detailing dual pathways, spirals, and an intervention taxonomy.
 - [[bakker-et-al-2003]] - Study testing the JD-R model's dual processes (health impairment and motivation) predicting absenteeism and turnover intentions in a call centre.
 - [[cetinkaya-surucu-2025]] - Study on digital leadership influencing IWB via digital organizational culture in Istanbul's IT sector.
 - [[crawford-et-al-2010]] - Meta-analysis of the JD-R model differentiating challenge and hindrance demands and their impact on engagement and burnout.
@@ -35,6 +36,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 
 ## Concepts & Variables
 - [[absenteeism]] - The failure of an employee to report for scheduled work, often operationalized through frequency or duration of sick leave.
+- [[buffer-hypothesis]] - A proposition in JD-R theory stating that job resources can mitigate the negative impact of job demands on strain.
 - [[adaptive-performance]] - The ability to adjust behavior and performance in response to changing work demands and environmental conditions.
 - [[affective-commitment]] - Emotional attachment to an organization and desire to remain.
 - [[burnout]] - A syndrome characterized by exhaustion and disengagement from work, occurring in any occupational context.
@@ -55,11 +57,13 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[dedication]] - A positive attitude towards one's job characterized by a sense of significance, enthusiasm, inspiration, pride, and challenge.
 - [[exhaustion]] - The depletion of mental resources and severe fatigue resulting from prolonged exposure to high job demands.
 - [[growth-mindset]] - The belief that one's abilities and intelligence can be developed through effort, learning, and persistence.
+- [[health-impairment-process]] - The energetic pathway in JD-R theory where chronic demands lead to exhaustion and ill-health.
 - [[green-innovative-behavior]] - Actions targeted at inventing and implementing sustainable solutions to achieve environmental goals.
 - [[green-organizational-climate]] - Shared values and perceptions within an organization that encourage eco-friendly actions.
 - [[innovation-capabilities]] - Aptitudes and methodologies to nurture practical innovations.
 - [[innovation-efficacy]] - An employee's belief in their capability to produce and execute innovative outcomes at work.
 - [[innovative-work-behavior]] - Generating, promoting, and implementing new ideas.
+- [[motivational-process]] - The pathway in JD-R theory where job resources fulfill psychological needs and lead to engagement.
 - [[knowledge-sharing-behavior]] - Process of exchanging ideas, expertise, and experiences for collective learning.
 - [[intrinsic-motivation]] - Internal drive to act out of interest, satisfaction, or a desire to achieve personal goals.
 - [[job-crafting]] - The self-initiated actions employees take to reshape their job boundaries by aligning their skills and resources with work demands.
@@ -86,6 +90,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[psychological-ownership]] - Cognitive and emotional state of perceiving possession and attachment toward an organization or task.
 - [[psychological-empowerment]] - Motivational cognitions relating to meaning, competence, autonomy, and impact.
 - [[repetitive-strain-injury]] - A form of Work Related Upper Limb Disorder characterized by damage and pain caused by repetitive tasks and overexertion.
+- [[saliency-hypothesis]] - A proposition in JD-R theory stating that job resources boost engagement most when demands are high.
 - [[strategic-agility]] - An organization’s capacity to detect early signals of change and respond effectively by reconfiguring internal resources.
 - [[work-engagement]] - Fulfilling state of mind characterized by vigor, dedication, and absorption.
 - [[employee-loyalty]] - Psychological attachment, commitment, and willingness to remain with an organization.

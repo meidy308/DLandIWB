@@ -8,32 +8,39 @@ confidence: high
 
 # Personal Resources
 
-**Summary**: Positive psychological characteristics that are related to resiliency and refer to individuals' sense of their ability to control and impact their environment successfully.
+**Summary**: Positive self-evaluations linked to resiliency and individuals' sense of their ability to control and impact their environment successfully.
 
-**Sources**: Bakker and Demerouti - 2007.md
+**Sources**: Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md
 
 ---
 
-Personal resources are internal psychological resources that help individuals cope with the environment and achieve their goals. Examples include self-efficacy, organizational-based self-esteem, and optimism. These resources allow individuals to perceive themselves as capable of meeting demands and impacting their work context (source: Bakker and Demerouti - 2007.md, p. 323).
+Personal resources are internal psychological characteristics that help individuals cope with the environment and achieve their goals. Examples include self-efficacy, organizational-based self-esteem (OBSE), and optimism. These resources lead to higher performance and satisfaction because they foster **goal self-concordance**—the intrinsic motivation to pursue goals (source: Bakker and Demerouti - 2014.md, p. 12).
 
 ## Dimensions
 
 Key personal resources identified in the JD-R context include:
-- **Self-efficacy**: The belief in one's own ability to organize and execute the courses of action required to produce given attainments.
-- **Organizational-based self-esteem**: The degree to which individuals believe they can satisfy their needs by participating in roles within the organization.
-- **Optimism**: The tendency to believe that one will generally experience good outcomes in life.
+- **Self-efficacy**: The belief in one's own ability to organize and execute required courses of action.
+- **Organizational-based self-esteem (OBSE)**: The belief that one can satisfy needs by participating in organizational roles.
+- **Optimism**: The tendency to believe that one will generally experience good outcomes.
+- **Compassion Satisfaction**: The fulfillment professional caregivers feel from helping others (source: Bakker and Demerouti - 2014.md, p. 13).
 
 ## Relationship with Other Variables
 
 ### As a Mediator
-- **Job Resources and Work Engagement**: Personal resources partially mediate the relationship between [[job-resources]] and [[work-engagement]]. This suggests that job resources foster the development of personal resources, which in turn drive higher engagement (source: Bakker and Demerouti - 2007.md, p. 323).
+- **Job Resources and Work Engagement**: Personal resources partially mediate the link between [[job-resources]] and [[work-engagement]]. Job resources foster the development of personal resources, which then drive engagement (source: Bakker and Demerouti - 2014.md, p. 13).
 
-### Buffering Effect
-- **Job Demands and Burnout**: Initial research suggested that personal resources might not manage to offset the relationship between [[job-demands]] and exhaustion directly, but their primary role is in the motivational path (source: Bakker and Demerouti - 2007.md, p. 323).
+### Reciprocal Relationships (Gain Spirals)
+Personal resources are reciprocal with job resources and work engagement over time. Job resources predict personal resources, which predict work engagement, and engaged employees in turn mobilize or create more job resources (source: Bakker and Demerouti - 2014.md, p. 13-14).
+
+### Buffering and Boosting Effects
+- **Buffering Strain**: Personal resources like compassion satisfaction can buffer the impact of role overload on job strain (source: Bakker and Demerouti - 2014.md, p. 13).
+- **Boosting Engagement**: High job demands (e.g., emotional demands) can strengthen the positive effect of personal resources on engagement (source: Bakker and Demerouti - 2014.md, p. 13).
 
 ## Related pages
 
+- [[job-demands-resources-theory]]
 - [[job-resources]]
 - [[work-engagement]]
-- [[job-demands-resources-theory]]
 - [[psychological-capital]]
+- [[buffer-hypothesis]]
+- [[saliency-hypothesis]]
