@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A syndrome characterized by exhaustion and disengagement (cynicism) from work, which develops when job demands are high and job resources are limited.
 
-**Sources**: Demerouti et al. - 2001.md, Bakker and Demerouti - 2007.md
+**Sources**: Demerouti et al. - 2001.md, Bakker and Demerouti - 2007.md, Crawford et al. - 2010.md
 
 ---
 
@@ -24,8 +24,8 @@ Burnout was foundationally redefined by Demerouti et al. (2001) as a syndrome ap
 ## Relationship with Other Variables
 
 According to the [[job-demands-resources-theory]]:
-- **Job Demands**: High job demands are the most important predictors of exhaustion.
-- **Job Resources**: Lack of job resources primarily predicts disengagement. However, the presence of job resources (like autonomy, feedback, and social support) can buffer the negative impact of demands on burnout (source: Bakker and Demerouti - 2007.md, p. 317).
+- **Job Demands**: High job demands are the most important predictors of exhaustion. Crawford et al. (2010) meta-analytically confirmed that both **[[challenge-demands]]** (ρ = 0.16) and **[[hindrance-demands]]** (ρ = 0.30) contribute to burnout (source: Crawford et al. - 2010.md, p. 840).
+- **Job Resources**: Lack of job resources primarily predicts disengagement. However, the presence of job resources (like autonomy, feedback, and social support) can buffer the negative impact of demands on burnout (ρ = -0.27) (source: Crawford et al. - 2010.md, p. 840; Bakker and Demerouti - 2007.md, p. 317).
 - **Performance**: Exhaustion primarily affects in-role performance, whereas disengagement (or lack of engagement) primarily affects extra-role performance (source: Bakker and Demerouti - 2007.md, p. 316).
 - **Absenteeism**: Burnout dimensions often mediate the relationship between job demands and future absenteeism duration (source: Bakker and Demerouti - 2007.md, p. 316).
 
@@ -37,6 +37,9 @@ Burnout is measured using the **Oldenburg Burnout Inventory (OLBI)** or the **Ma
 
 - [[job-demands-resources-theory]]
 - [[job-demands]]
+- [[challenge-demands]]
+- [[hindrance-demands]]
+- [[transactional-theory-of-stress]]
 - [[job-resources]]
 - [[work-engagement]]
 - [[absenteeism]]

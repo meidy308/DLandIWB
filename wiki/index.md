@@ -8,6 +8,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[bakker-and-demerouti-2007]] - State-of-the-art overview of the JD-R model, confirming dual processes, interaction effects, and extending it to personal resources and job crafting.
 - [[bakker-et-al-2003]] - Study testing the JD-R model's dual processes (health impairment and motivation) predicting absenteeism and turnover intentions in a call centre.
 - [[cetinkaya-surucu-2025]] - Study on digital leadership influencing IWB via digital organizational culture in Istanbul's IT sector.
+- [[crawford-et-al-2010]] - Meta-analysis of the JD-R model differentiating challenge and hindrance demands and their impact on engagement and burnout.
 - [[demerouti-et-al-2001]] - Seminal paper introducing the Job Demands-Resources (JD-R) model and expanding the concept of burnout.
 - [[deviren-2026]] - Study on digital leadership and digital culture effects on IWB and adaptive performance in the Turkish automotive sector, with negative moderation and mediation findings.
 - [[erhan-et-al-2022]] - Study on how digital leadership positively affects four dimensions of employee IWB in the Turkish textile industry.
@@ -37,6 +38,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[adaptive-performance]] - The ability to adjust behavior and performance in response to changing work demands and environmental conditions.
 - [[affective-commitment]] - Emotional attachment to an organization and desire to remain.
 - [[burnout]] - A syndrome characterized by exhaustion and disengagement from work, occurring in any occupational context.
+- [[challenge-demands]] - Stressful job demands perceived as opportunities for growth, mastery, or future gains (e.g., workload, time pressure).
 - [[affective-commitment-to-leadership]] - Emotional identification with and attachment to an individual leader.
 - [[digital-competency]] - Knowledge, skills, and attitudes in utilizing digital resources efficiently.
 - [[competitive-advantage]] - An organization's ability to generate greater value than its competitors through differentiation and innovation.
@@ -63,6 +65,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[job-crafting]] - The self-initiated actions employees take to reshape their job boundaries by aligning their skills and resources with work demands.
 - [[job-demands]] - Physical, social, or organizational aspects of a job that require sustained effort and are associated with physiological and psychological costs.
 - [[job-demands-resources-theory]] - Interaction of job resources and demands on employee performance.
+- [[hindrance-demands]] - Stressful job demands perceived as constraints or barriers that thwart growth and goal attainment (e.g., role conflict, politics).
 - [[job-resources]] - Physical, psychological, social, or organizational aspects of the job that are functional in achieving goals, reducing demands, or stimulating growth.
 - [[kaizen-culture]] - Management philosophy focused on continuous, incremental improvement.
 - [[leader-member-exchange]] - The quality of the localized, two-way relationship between leaders and subordinates.
@@ -102,6 +105,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[social-role-theory]] - Posits that behavioral differences between men and women are influenced by constructed social roles.
 - [[resource-based-theory]] - A framework viewing organizational internal resources and capabilities as primary drivers of competitive advantage.
 - [[upper-echelon-theory]] - Posits that organizational strategic choices and performance are reflections of the values and cognitions of powerful managers.
+- [[transactional-theory-of-stress]] - A framework positing that stress impact is determined by an individual's appraisal of a demand as a challenge or hindrance.
 - [[self-determination-theory]] - Posits that human behavior is driven by the satisfaction of autonomy, competence, and relatedness needs.
 - [[person-environment-fit-theory]] - Suggests that behavior is a function of the compatibility between an individual and their work environment.
 - [[contingency-theory]] - Posits that optimal leadership is contingent upon the leader's understanding of situational circumstances.

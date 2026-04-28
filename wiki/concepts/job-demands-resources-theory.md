@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A seminal theoretical framework explaining how job demands and job resources independently and interactively affect employee well-being, burnout, and performance through dual psychological processes.
 
-**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md, Bakker and Demerouti - 2007.md, Afif and Fitrianingrum - 2025.md, Zia et al. - 2024.md
+**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md, Bakker and Demerouti - 2007.md, Crawford et al. - 2010.md, Afif and Fitrianingrum - 2025.md, Zia et al. - 2024.md
 
 ---
 
@@ -20,13 +20,21 @@ The Job Demands-Resources (JD-R) model was foundationally introduced by Demerout
 
 The theory proposes two distinct, parallel psychological processes:
 1. **Health impairment process**: Chronic job demands (e.g., work overload, emotional demands) exhaust mental and physical resources, leading to [[exhaustion]] and health problems. This strain can ultimately result in higher [[absenteeism]] (source: Bakker and Demerouti - 2007.md, p. 313; Bakker et al. - 2003.md, p. 409).
-2. **Motivational process**: Job resources have motivational potential (both intrinsic and extrinsic) that leads to high [[work-engagement]] and excellent performance (source: Bakker and Demerouti - 2007.md, p. 313-314).
+2. **Motivational process**: Job resources have motivational potential (both intrinsic and extrinsic) that leads to high [[work-engagement]] and excellent performance (source: Bakker and Demerouti - 2007.md, p. 313-314). Crawford et al. (2010) expanded this by showing that [[challenge-demands]] also contribute to the motivational process, whereas [[hindrance-demands]] actively detract from it (source: Crawford et al. - 2010.md, p. 837).
 
 ## Interaction Effects
 
 The JD-R model moves beyond simple main effects to highlight how demands and resources interact:
 - **Buffer Hypothesis**: Job resources can buffer the impact of job demands on [[burnout]]. For instance, autonomy or social support can mitigate the strain caused by work pressure (source: Bakker and Demerouti - 2007.md, p. 317).
 - **Salience Hypothesis**: Job resources gain their motivational potential particularly when employees are confronted with high job demands. Under high-strain conditions, resources are more valued and effective in boosting engagement (source: Bakker and Demerouti - 2007.md, p. 318-319).
+
+## The Differentiated JD-R Model
+
+Crawford et al. (2010) introduced a critical refinement by integrating the [[transactional-theory-of-stress]]. They argue that job demands are not a monolithic category and should be differentiated based on how they are appraised:
+- **[[challenge-demands]]**: Appraised as opportunities for growth and mastery. These demands have a dual effect: they increase [[burnout]] (via energy depletion) but simultaneously increase [[work-engagement]] (via positive appraisal).
+- **[[hindrance-demands]]**: Appraised as obstacles to goal attainment. These demands are purely detrimental, increasing [[burnout]] and decreasing [[work-engagement]].
+
+This differentiation explains previous inconsistencies in JD-R research regarding the demand-engagement relationship (source: Crawford et al. - 2010.md, p. 837, 840).
 
 ## Reciprocal Relationships and Job Crafting
 
@@ -47,7 +55,11 @@ Zia et al. (2024) specifically apply JD-R to the digital domain, conceptualizing
 - [[bakker-and-demerouti-2007]]
 - [[afif-fitrianingrum-2025]]
 - [[zia-et-al-2024]]
+- [[crawford-et-al-2010]]
 - [[job-demands]]
+- [[challenge-demands]]
+- [[hindrance-demands]]
+- [[transactional-theory-of-stress]]
 - [[job-resources]]
 - [[personal-resources]]
 - [[burnout]]

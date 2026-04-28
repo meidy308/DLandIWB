@@ -10,13 +10,20 @@ confidence: high
 
 **Summary**: Physical, psychological, social, or organizational aspects of a job that require sustained effort and are associated with physiological and psychological costs.
 
-**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md, Bakker and Demerouti - 2007.md
+**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md, Bakker and Demerouti - 2007.md, Crawford et al. - 2010.md
 
 ---
 
 Job demands refer to those physical, psychological (cognitive and emotional), social, or organizational aspects of the job that require sustained physical and/or psychological effort or skills and are therefore associated with certain physiological and/or psychological costs (source: Bakker and Demerouti - 2007.md, p. 312). 
 
 While job demands are not necessarily negative, they may turn into job stressors when meeting those demands requires high effort from which the employee has not adequately recovered (source: Bakker and Demerouti - 2007.md, p. 312).
+
+## Challenge and Hindrance Differentiation
+
+Crawford et al. (2010) refined the classification of job demands by integrating the [[transactional-theory-of-stress]], distinguishing between demands based on how they are appraised by employees:
+
+- **[[challenge-demands]]**: Demands that employees tend to appraise as opportunities for personal growth, learning, and future gains (e.g., high workload, time pressure, responsibility). These promote [[work-engagement]] (source: Crawford et al. - 2010.md, p. 836).
+- **[[hindrance-demands]]**: Demands that employees tend to appraise as barriers or constraints that thwart growth and goal attainment (e.g., role conflict, organizational politics, red tape). These decrease [[work-engagement]] (source: Crawford et al. - 2010.md, p. 836).
 
 ## Examples
 
@@ -38,6 +45,9 @@ In the context of the [[job-demands-resources-theory]], job demands play a centr
 ## Related pages
 
 - [[job-demands-resources-theory]]
+- [[challenge-demands]]
+- [[hindrance-demands]]
+- [[transactional-theory-of-stress]]
 - [[job-resources]]
 - [[burnout]]
 - [[exhaustion]]

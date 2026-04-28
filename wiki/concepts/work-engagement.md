@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A positive, fulfilling, work-related state of mind characterized by vigor, dedication, and absorption.
 
-**Sources**: Bakker and Demerouti - 2007.md, Afif and Fitrianingrum - 2025.md, Nugroho et al. - 2025.md
+**Sources**: Bakker and Demerouti - 2007.md, Crawford et al. - 2010.md, Afif and Fitrianingrum - 2025.md, Nugroho et al. - 2025.md
 
 ---
 
@@ -26,7 +26,8 @@ Work engagement consists of three dimensions:
 ## Relationship with Other Variables
 
 ### Antecedents and Moderation
-- **Job Resources**: Job resources are the most important predictors of work engagement (vigor and dedication). This includes autonomy, social support, and supervisory coaching (source: Bakker and Demerouti - 2007.md, p. 316).
+- **Job Resources**: Job resources are the most important predictors of work engagement (ρ = 0.36) (source: Crawford et al. - 2010.md, p. 840; Bakker and Demerouti - 2007.md, p. 316).
+- **Challenge vs. Hindrance Demands**: Crawford et al. (2010) resolved inconsistencies in the demand-engagement relationship by showing that [[challenge-demands]] (e.g., workload, time pressure) are positively related to engagement (ρ = 0.16, β = 0.21), while [[hindrance-demands]] (e.g., role conflict, politics) are negatively related (ρ = -0.19, β = -0.19) (source: Crawford et al. - 2010.md, p. 840).
 - **Salience Effect**: Job resources gain their motivational potential particularly when employees are confronted with high [[job-demands]]. For example, skill variety and organizational climate are more beneficial for engagement under conditions of high workload or pupil misconduct (source: Bakker and Demerouti - 2007.md, p. 318-319).
 - **Personal Resources**: [[personal-resources]] (e.g., self-efficacy, optimism) mediate the relationship between job resources and work engagement (source: Bakker and Demerouti - 2007.md, p. 323).
 
@@ -49,5 +50,8 @@ Measured using Likert scales across different frameworks:
 - [[job-demands-resources-theory]]
 - [[job-resources]]
 - [[job-demands]]
+- [[challenge-demands]]
+- [[hindrance-demands]]
+- [[transactional-theory-of-stress]]
 - [[burnout]]
 - [[employee-performance]]
