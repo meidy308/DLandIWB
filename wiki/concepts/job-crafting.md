@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The physical and cognitive changes individuals make in their task or relational boundaries to align work demands with personal needs and resources.
 
-**Sources**: Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md, Bakker et al. - 2014.md, Huang et al. - 2026.md, Wang et al. - 2025.md
+**Sources**: Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md, Bakker and Demerouti - 2017.md, Bakker et al. - 2014.md, Huang et al. - 2026.md, Wang et al. - 2025.md
 
 ---
 
@@ -41,10 +41,10 @@ This framework conceptualizes crafting as physical and cognitive changes individ
 
 ## Role in JD-R Theory
 
-Job crafting plays a critical role in the dynamic nature of the JD-R theory:
-- **Mechanism for Spirals**: It explains how engaged employees mobilize resources (gain spirals). Employees who craft their resources show an increase in future structural and social resources, leading to higher engagement (source: Bakker et al. - 2014.md, p. 401-402).
-- **Proactive Personality Link**: Job crafting mediates the relationship between **[[proactive-personality]]** and engagement. Proactive people adjust their work demands and mobilize resources, which facilitates engagement (source: Bakker et al. - 2014.md, p. 395).
-- **Individual-Level Intervention**: Organizations can stimulate crafting behavior through training and personal crafting plans (PCPs) (source: Bakker et al. - 2014.md, p. 403).
+Job crafting is central to the dynamic nature of JD-R Theory:
+- **Gain Spiral (Proposition 7)**: Engaged employees are likely to use job crafting behaviors, which lead to higher levels of job and personal resources and even higher levels of motivation (source: Bakker and Demerouti - 2017.md, p. 277).
+- **Reciprocal Effects**: Employees who proactively build a resourceful and challenging environment increase their own [[psychological-capital]] (hope, resilience, self-efficacy, and optimism) and future work engagement (source: Bakker and Demerouti - 2017.md, p. 277).
+- **Individual-Level Intervention**: Organizations can stimulate crafting behavior through training. Intervention studies (e.g., Van Wingerden et al.) show that teachers trained to craft their jobs started increasing their structural resources, leading to higher engagement and performance (source: Bakker and Demerouti - 2017.md, p. 279).
 
 ## Relationship with Other Variables
 
@@ -79,3 +79,4 @@ Job crafting plays a critical role in the dynamic nature of the JD-R theory:
 - [[proactive-motivation-model]]
 - [[proactive-personality]]
 - [[work-engagement]]
+- [[psychological-capital]]

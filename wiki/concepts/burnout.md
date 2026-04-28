@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A syndrome characterized by exhaustion and disengagement (cynicism) from work, which develops when job demands are high and job resources are limited.
 
-**Sources**: Demerouti et al. - 2001.md, Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md, Bakker et al. - 2014.md, Crawford et al. - 2010.md
+**Sources**: Demerouti et al. - 2001.md, Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md, Bakker and Demerouti - 2017.md, Bakker et al. - 2014.md, Crawford et al. - 2010.md
 
 ---
 
@@ -29,9 +29,9 @@ Burnout is foundationally redefined within [[job-demands-resources-theory]] as t
 - **[[buffer-hypothesis]]**: [[job-resources]] (e.g., social support, autonomy) can mitigate or "buffer" the negative impact of demands on burnout (source: Bakker et al. - 2014.md, p. 392).
 
 ### Reciprocal Relationships (Loss Spirals)
-Burnout can have an impact on job demands over time, creating a **loss spiral**:
-- **Behavioral path**: Exhausted employees may fall behind on work or depersonalize interactions, evoking more difficult and stressful future interactions with clients or colleagues (source: Bakker and Demerouti - 2014.md, p. 14).
-- **Perceptual path**: Burned-out employees evaluate demands more critically and complain more often, thus creating or perceiving a more negative work climate (source: Bakker and Demerouti - 2014.md, p. 14).
+Burnout can have an impact on job demands over time, creating a **loss spiral** (Proposition 8):
+- **Mechanism of [[self-undermining]]**: Strained and exhausted employees are likely to show self-undermining behaviors—such as making mistakes, communicating poorly, and creating conflicts—which inadvertently lead to even higher levels of job demands (source: Bakker and Demerouti - 2017.md, p. 277).
+- **Reciprocal Path**: Not only does work pressure predict exhaustion; feeling exhausted also predicts subsequent levels of work pressure in a reciprocal relationship (source: Bakker and Demerouti - 2017.md, p. 277).
 
 ### Outcomes
 - **Performance**: Burnout (composed of exhaustion and cynicism) is negatively related to in-role performance (source: Bakker et al. - 2014.md, p. 396). Exhaustion is the most consistent predictor of poor performance (source: Bakker et al. - 2014.md, p. 397).
@@ -44,6 +44,8 @@ Burnout can have an impact on job demands over time, creating a **loss spiral**:
 - [[buffer-hypothesis]]
 - [[job-demands]]
 - [[job-resources]]
+- [[self-undermining]]
+- [[personal-demands]]
 - [[work-engagement]]
 - [[absenteeism]]
 - [[employee-performance]]

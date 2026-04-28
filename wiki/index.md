@@ -7,6 +7,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[ahmed-et-al-2024]] - Study on the impact of digital leadership on IWB through LMX, learning orientation, and innovation capabilities.
 - [[bakker-and-demerouti-2007]] - State-of-the-art overview of the JD-R model, confirming dual processes, interaction effects, and extending it to personal resources and job crafting.
 - [[bakker-and-demerouti-2014]] - Formalization of the JD-R model into a theory, detailing dual pathways, spirals, and an intervention taxonomy.
+- [[bakker-and-demerouti-2017]] - Consolidation of JD-R theory with 8 propositions, introducing self-undermining, personal demands, and leadership's role in resource creation.
 - [[bakker-et-al-2014]] - Comprehensive review of burnout and work engagement, highlighting situational/individual predictors and health/performance consequences.
 - [[bakker-et-al-2003]] - Study testing the JD-R model's dual processes (health impairment and motivation) predicting absenteeism and turnover intentions in a call centre.
 - [[cetinkaya-surucu-2025]] - Study on digital leadership influencing IWB via digital organizational culture in Istanbul's IT sector.
@@ -81,6 +82,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[school-culture]] - Deeply rooted shared values, beliefs, and agreements that shape the interactions and learning orientation within an educational institution.
 - [[organizational-support]] - Degree to which an organization values employee contributions and welfare.
 - [[personal-resources]] - Positive psychological characteristics (e.g., self-efficacy, optimism) that mediate the relationship between job resources and engagement.
+- [[personal-demands]] - Internal requirements individuals set for their own performance (e.g., workaholism, perfectionism) that act as "internal" stressors.
 - [[organization-experience]] - Knowledge and skills gained from active organizational participation.
 - [[person-job-fit]] - Compatibility between an individual and the tasks, goals, and requirements of their job.
 - [[proactive-personality]] - Tendency to take initiative and bring about meaningful change.
@@ -89,6 +91,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[power-distance]] - Individual cultural value orientation relating to the acceptance of power imbalances.
 - [[psychological-capital]] - Positive psychological resources characterized by self-efficacy, optimism, hope, and resilience.
 - [[psychological-ownership]] - Cognitive and emotional state of perceiving possession and attachment toward an organization or task.
+- [[self-undermining]] - Behavior that creates obstacles and undermines performance, fueling loss spirals in JD-R theory.
 - [[psychological-empowerment]] - Motivational cognitions relating to meaning, competence, autonomy, and impact.
 - [[repetitive-strain-injury]] - A form of Work Related Upper Limb Disorder characterized by damage and pain caused by repetitive tasks and overexertion.
 - [[saliency-hypothesis]] - A proposition in JD-R theory stating that job resources boost engagement most when demands are high.
@@ -99,6 +102,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[employee-compensation]] - Financial and non-financial rewards received in exchange for organizational contribution.
 - [[employee-performance]] - The work results achieved by an individual in carrying out assigned tasks based on skill, experience, sincerity, and time.
 - [[turnover-intentions]] - An employee's conscious and deliberate cognitive formulation to leave the organization in the near future.
+- [[transformational-leadership]] - Leadership style focusing on inspiration and individual consideration to create resourceful work environments.
 
 ## Theories
 - [[cognitive-affective-processing-system]] - Behavior output generated from the interaction of situations with internal cognitive and affective states.
