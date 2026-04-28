@@ -35,6 +35,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[wang-et-al-2025]] - Study on digital leadership affecting innovative performance through task and cognitive crafting, moderated by person-job fit in Chinese manufacturing.
 - [[yulianti-maharani-2024]] - Study on digital leadership affecting employee performance through the full mediation of IWB at PT Semen Indonesia, with non-significant mediation by creativity.
 - [[zia-et-al-2024]] - Study on digital job resources influencing IWB through sequential mediation of digital engagement and digital leadership among technological professionals in Pakistan.
+- [[demerouti-2022]] - Commentary on turning digitalization and automation into job resources using the JD-R framework, emphasizing design and crafting.
 
 ## Concepts & Variables
 - [[absenteeism]] - The failure of an employee to report for scheduled work, often operationalized through frequency or duration of sick leave.
@@ -50,6 +51,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[digital-literacy]] - Awareness and capability to utilize digital resources for identifies, evaluation, and synthesis.
 - [[creative-process-engagement]] - Active participation in cognitive and collaborative activities such as problem identification, info search, and idea generation.
 - [[employee-creativity]] - The production of novel and useful ideas regarding products, services, processes, and methods.
+- [[digital-taylorism]] - A risk where technology leaves humans with repetitive, vigilant, or fragmented roles.
 - [[digital-organizational-culture]] - Shared practices shaping digital technology integration in the workplace.
 - [[digital-engagement]] - A positive, work-related psychological state characterized by intensity and direction of energy expended on digital platforms and technology.
 - [[digital-communication]] - The ability to collaborate and interact with others using digital technologies and media discussion platforms.
@@ -68,6 +70,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[motivational-process]] - The pathway in JD-R theory where job resources fulfill psychological needs and lead to engagement.
 - [[knowledge-sharing-behavior]] - Process of exchanging ideas, expertise, and experiences for collective learning.
 - [[intrinsic-motivation]] - Internal drive to act out of interest, satisfaction, or a desire to achieve personal goals.
+- [[meta-skills]] - Higher-order capabilities like cooperation, creativity, and problem-solving for adapting to technological change.
 - [[job-crafting]] - The self-initiated actions employees take to reshape their job boundaries by aligning their skills and resources with work demands.
 - [[job-demands]] - Physical, social, or organizational aspects of a job that require sustained effort and are associated with physiological and psychological costs.
 - [[job-demands-resources-theory]] - Interaction of job resources and demands on employee performance.

@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: The physical and cognitive changes individuals make in their task or relational boundaries to align work demands with personal needs and resources.
 
-**Sources**: Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md, Bakker and Demerouti - 2017.md, Bakker et al. - 2014.md, Huang et al. - 2026.md, Wang et al. - 2025.md
+**Sources**: Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md, Bakker and Demerouti - 2017.md, Bakker et al. - 2014.md, Huang et al. - 2026.md, Wang et al. - 2025.md, Demerouti - 2022.md
 
 ---
 
@@ -45,6 +45,7 @@ Job crafting is central to the dynamic nature of JD-R Theory:
 - **Gain Spiral (Proposition 7)**: Engaged employees are likely to use job crafting behaviors, which lead to higher levels of job and personal resources and even higher levels of motivation (source: Bakker and Demerouti - 2017.md, p. 277).
 - **Reciprocal Effects**: Employees who proactively build a resourceful and challenging environment increase their own [[psychological-capital]] (hope, resilience, self-efficacy, and optimism) and future work engagement (source: Bakker and Demerouti - 2017.md, p. 277).
 - **Individual-Level Intervention**: Organizations can stimulate crafting behavior through training. Intervention studies (e.g., Van Wingerden et al.) show that teachers trained to craft their jobs started increasing their structural resources, leading to higher engagement and performance (source: Bakker and Demerouti - 2017.md, p. 279).
+- **Technology Adaptation**: Job crafting acts as a bottom-up adjustment to make technological changes fit preferences and find meaning in digitalized work environments. Employees who craft their jobs are more open and adaptive to changes because they can create an environment where they operate optimally (source: Demerouti - 2022.md, p. 1208).
 
 ## Relationship with Other Variables
 
@@ -80,3 +81,6 @@ Job crafting is central to the dynamic nature of JD-R Theory:
 - [[proactive-personality]]
 - [[work-engagement]]
 - [[psychological-capital]]
+- [[demerouti-2022]]
+- [[digital-taylorism]]
+- [[meta-skills]]

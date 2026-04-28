@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: Physical, psychological, social, or organizational aspects of the job that are functional in achieving goals, reducing demands, or stimulating personal growth, learning, and development.
 
-**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md, Bakker and Demerouti - 2007.md, Bakker et al. - 2014.md
+**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md, Bakker and Demerouti - 2007.md, Bakker et al. - 2014.md, Demerouti - 2022.md
 
 ---
 
@@ -23,6 +23,7 @@ Job resources can be located at multiple levels within an organization (source: 
 - **Interpersonal and social level**: Supervisor support, co-worker support, team climate, and transformational leadership.
 - **Organization of work level**: Role clarity, participation in decision making, and fair procedures.
 - **Task level**: Skill variety, task identity, task significance, autonomy, and performance feedback.
+- **Technology level**: [[digitalization-and-automation]] designed to support local decision-making, information synthesis for complex decisions, and employee-led flexibility in time and location (source: Demerouti - 2022.md, p. 1206-1207).
 
 ## Relationship with Other Variables
 
@@ -51,5 +52,7 @@ Organizations can increase job resources through:
 - [[turnover-intentions]]
 - [[buffer-hypothesis]]
 - [[saliency-hypothesis]]
+- [[demerouti-2022]]
+- [[meta-skills]]
 
 

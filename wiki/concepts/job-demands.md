@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: Physical, psychological, social, or organizational aspects of a job that require sustained effort and are associated with physiological and psychological costs.
 
-**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md, Bakker and Demerouti - 2007.md, Bakker et al. - 2014.md, Crawford et al. - 2010.md
+**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md, Bakker and Demerouti - 2007.md, Bakker et al. - 2014.md, Crawford et al. - 2010.md, Demerouti - 2022.md
 
 ---
 
@@ -33,6 +33,8 @@ Examples of job demands include:
 - **Emotional demands**: Emotionally demanding interactions with clients, patient harassment, or pupil misconduct.
 - **Physical demands**: Physical workload and unfavorable physical environments.
 - **Organizational demands**: Role ambiguity, role conflict, role stress, and stressful events.
+- **Technology-induced demands**: High amount of information processing, sustained vigilance (sustained attention), implementation-related insecurity, and intrusions into private life causing work–family conflict (source: Demerouti - 2022.md, p. 1206).
+- **Employer-led flexibility**: Flexibility in working times dictated by the employer (e.g., time restrictions, mandated overtime) acts as a job demand, whereas employee-led flexibility acts as a resource (source: Demerouti - 2022.md, p. 1207).
 
 ## Relationship with Other Variables
 
@@ -60,3 +62,5 @@ Organizations can optimize job demands through:
 - [[absenteeism]]
 - [[buffer-hypothesis]]
 - [[saliency-hypothesis]]
+- [[digital-taylorism]]
+- [[demerouti-2022]]

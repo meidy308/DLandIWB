@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A formal theoretical framework matured from the original JD-R model, explaining how job demands and job resources independently and interactively affect employee well-being, burnout, and performance through dual psychological processes and reciprocal spirals.
 
-**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md, Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md, Bakker and Demerouti - 2017.md, Crawford et al. - 2010.md, Afif and Fitrianingrum - 2025.md, Zia et al. - 2024.md
+**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md, Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md, Bakker and Demerouti - 2017.md, Crawford et al. - 2010.md, Afif and Fitrianingrum - 2025.md, Zia et al. - 2024.md, Demerouti - 2022.md
 
 ---
 
@@ -58,6 +58,19 @@ Interventions are classified along two dimensions:
 |---|---|---|
 | **Organization** | Job Redesign / Organizational Assessment | Training (e.g., PsyCap) |
 | **Individual** | [[job-crafting]] Interventions | Personal Resources / Strengths-based |
+| **Technology** | User-Centric Redesign / Resource Maximization | [[meta-skills]] Training |
+
+## JD-R in the Digital Age
+
+The JD-R theory has been adapted to analyze the impact of [[digitalization-and-automation]] on the workforce. Demerouti (2022) proposes that technology's impact is determined by its design as either a demand or a resource.
+
+### Turning Technology into a Resource
+Digitalization contributes to healthy jobs when it is designed to support work rather than replace people, and when employees maintain control through [[job-crafting]]. A key risk identified is **[[digital-taylorism]]**, where technology leaves humans with only repetitive, high-vigilance "left-over" tasks (source: Demerouti - 2022.md, p. 1208).
+
+### The Role of Design
+- **Supportive Design**: Technology should facilitate decision-making and reduce costs of demands.
+- **Shared Growth**: Impact is positive when economic gains from automation are shared with employees.
+- **Protection**: Authorities must provide norms to prevent exploitation and overload (source: Demerouti - 2022.md, p. 1209).
 
 ## Related pages
 
@@ -81,4 +94,7 @@ Interventions are classified along two dimensions:
 - [[transformational-leadership]]
 - [[crawford-et-al-2010]]
 - [[zia-et-al-2024]]
+- [[demerouti-2022]]
+- [[digital-taylorism]]
+- [[meta-skills]]
 

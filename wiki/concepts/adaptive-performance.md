@@ -10,7 +10,7 @@ confidence: medium
 
 **Summary**: The ability of employees to adjust their behavior and performance in response to changing work demands, environmental conditions, and organizational requirements.
 
-**Sources**: Deviren - 2026.md
+**Sources**: Deviren - 2026.md, Demerouti - 2022.md
 
 ---
 
@@ -28,6 +28,14 @@ Adaptive performance consists of eight dimensions (source: Deviren - 2026.md, p.
 6. Interpersonal adaptability
 7. Problem-solving and innovative thinking
 8. Learning
+
+## JD-R Perspective on Adaptive Performance
+
+Demerouti (2022) highlights that adaptation is an extra-role behavior typically predicted by increased motivation. Therefore, designing jobs with affordable demands and sufficiently high resources is essential to stimulate high task and adaptive performance (source: Demerouti - 2022.md, p. 1207).
+
+- **Motivation**: Higher motivation (stimulated by resources) drives employees to be more open and adaptive to technological changes.
+- **Job Crafting**: Employees stimulated to craft their jobs can better integrate technology into their daily routines, enhancing their adaptive capacity (source: Demerouti - 2022.md, p. 1208).
+- **Consequences of Failure**: Failing to provide sufficient resources for technology demands may lead employees to sabotage new technology or fail to use its full potential (source: Demerouti - 2022.md, p. 1207).
 
 ## Relationship with Digital Leadership and IWB
 
@@ -54,3 +62,7 @@ The study used the Adaptive Performance Scale developed by Charbonnier-Voirin & 
 - [[innovative-work-behavior]]
 - [[digital-organizational-culture]]
 - [[deviren-2026]]
+- [[demerouti-2022]]
+- [[job-demands-resources-theory]]
+- [[job-crafting]]
+- [[meta-skills]]

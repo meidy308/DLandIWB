@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A leadership style that maximizes technology integration, adaptability, and fosters a digital work climate to encourage innovation. Also referred to as **E-leadership**, focuses on influencing others through information technology to achieve organizational goals.
 
-**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Nugroho et al. - 2025.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md, Soediro et al. - 2025.md, Tanan and Purbojo - 2025.md, Umayna et al. - 2025.md, Wang et al. - 2025.md, Yulianti and Maharani - 2024 .md, Zia et al. - 2024.md
+**Sources**: Afif and Fitrianingrum - 2025.md, Ahmed et al. - 2024.md, Çetinkaya and Sürücü - 2025.md, Deviren - 2026.md, Erhan et al. - 2022.md, Fahrurrozi and Arief - 2026.md, Farhaq and Yulianti - 2024.md, Gao and Gao - 2024.md, Gehan and Yulianti - 2024.md, Hastiti et al. - 2025.md, Fauziah et al. - 2026.md, Hadi et al. - 2023.md, Hang and Nguyệt - 2026.md, Huang et al. - 2026.md, Khan et al. - 2025.md, Li and Xiao - 2023.md, Nugroho et al. - 2025.md, Rahmandika et al. - 2025.md, Sebetci et al. - 2025.md, Soediro et al. - 2025.md, Tanan and Purbojo - 2025.md, Umayna et al. - 2025.md, Wang et al. - 2025.md, Yulianti and Maharani - 2024 .md, Zia et al. - 2024.md, Demerouti - 2022.md
 
 ---
 
@@ -151,6 +151,15 @@ While most research views digital leadership as an independent variable, some st
 - **IWB to [[competitive-advantage]] positive moderation**: digital leadership amplifies the impact of innovative actions on firm competitiveness ($\beta$ = 0.325, p = 0.004) (source: Umayna et al. - 2025.md, p. 140).
 - **[[person-job-fit]] moderates mediated path**: high person-job fit strengthens the indirect effect of digital leadership on innovative performance through cognitive crafting (source: Wang et al. - 2025.md, p. 9).
 
+### Organizational Responsibility in the Digital Era
+
+Beyond individual leadership style, Demerouti (2022) identifies structural responsibilities of organizations and authorities to ensure digital transformation translates into resources rather than demands (source: Demerouti - 2022.md, p. 1208-1209):
+- **System Redesign**: Organizations must redesign whole systems (task, knowledge, structure, and decision-making) rather than just adding digital tools to old work designs.
+- **User-Centric Design**: Taking the experiences and requirements of users into consideration during the design and implementation process.
+- **Employee-Led Flexibility**: Protecting and enabling flexibility that is controlled by the employee, while avoiding employer-led time restrictions that increase overload.
+- **Skill Promotion**: Actively promoting **[[meta-skills]]** (cooperation, creativity, problem-solving) to prepare the workforce for technological symbiosis.
+- **Wealth Distribution**: Ensuring that wealth created by technology is shared with the employees who work with it.
+
 ## Measurement
 
 Digital leadership is measured with varying scales across the studies:
@@ -252,3 +261,7 @@ Importance-Performance Map Analysis (IPMA) in the retail sector indicates that d
 - [[dynamic-capabilities-theory]]
 - [[person-job-fit]]
 - [[proactive-motivation-model]]
+- [[demerouti-2022]]
+- [[digital-taylorism]]
+- [[meta-skills]]
+- [[adaptive-performance]]
