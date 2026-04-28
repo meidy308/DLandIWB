@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: An emotional attachment to an organization characterized by shared values, a desire to remain, and a willingness to exert effort on its behalf.
 
-**Sources**: Gao and Gao - 2024.md
+**Sources**: Gao and Gao - 2024.md, Bakker et al. - 2003.md
 
 ---
 
@@ -24,6 +24,11 @@ Under the [[cognitive-affective-processing-system]] framework, affective commitm
 - **[[digital-leadership]] → AC**: Digital leadership significantly and positively predicts affective commitment (β = 0.216, p = .001). By creating a safe, positive, and trust-based work environment while considering employee well-being, digital leaders strengthen organizational identity (source: Gao and Gao - 2024.md, p. 16).
 - **AC → [[innovative-work-behavior]]**: Affective commitment significantly predicts innovative behavior (β = 0.152, p = .015). Employees with high emotional involvement are more likely to take risks and implement novel ideas to assist their organization (source: Gao and Gao - 2024.md, p. 16).
 - **As a Mediator**: In the specific sample studied by Gao and Gao (2024), affective commitment was a **non-significant mediator** for the DL → IWB relationship (indirect effect: β = 0.033, p = .070). This suggests that emotional attachment alone is less effective at driving digital innovation than cognitive empowerment (source: Gao and Gao - 2024.md, p. 16).
+
+### In the JD-R Model
+Under the [[job-demands-resources-theory]], affective commitment (along with [[dedication]]) is conceptualized as an indicator of involvement in the motivational path:
+- **[[job-resources]] → AC**: Job resources (such as social support, supervisory coaching, and performance feedback) are unique predictors of organizational commitment. They foster a motivational process that enhances organizational identity and attachment (source: Bakker et al. - 2003.md, p. 409).
+- **AC → [[turnover-intentions]]**: Employees with high affective commitment are significantly less inclined to leave the organization. Involvement serves as a full mediator between job resources and reduced turnover intentions (source: Bakker et al. - 2003.md, p. 398, 409).
 
 ### Moderation Boundary Conditions
 - **[[proactive-personality]]**: Similar to the cognitive path, a proactive personality did not significantly moderate the relationship between digital leadership and affective commitment (p = .095) (source: Gao and Gao - 2024.md, p. 18).
@@ -41,3 +46,7 @@ Under the [[cognitive-affective-processing-system]] framework, affective commitm
 - [[proactive-personality]]
 - [[cognitive-affective-processing-system]]
 - [[gao-and-gao-2024]]
+- [[job-demands-resources-theory]]
+- [[job-resources]]
+- [[turnover-intentions]]
+- [[bakker-et-al-2003]]

@@ -5,6 +5,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 ## Sources
 - [[afif-fitrianingrum-2025]] - Study on digital leadership, work engagement, and organization experience among Gen Z in Central Java.
 - [[ahmed-et-al-2024]] - Study on the impact of digital leadership on IWB through LMX, learning orientation, and innovation capabilities.
+- [[bakker-et-al-2003]] - Study testing the JD-R model's dual processes (health impairment and motivation) predicting absenteeism and turnover intentions in a call centre.
 - [[cetinkaya-surucu-2025]] - Study on digital leadership influencing IWB via digital organizational culture in Istanbul's IT sector.
 - [[demerouti-et-al-2001]] - Seminal paper introducing the Job Demands-Resources (JD-R) model and expanding the concept of burnout.
 - [[deviren-2026]] - Study on digital leadership and digital culture effects on IWB and adaptive performance in the Turkish automotive sector, with negative moderation and mediation findings.
@@ -31,6 +32,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[zia-et-al-2024]] - Study on digital job resources influencing IWB through sequential mediation of digital engagement and digital leadership among technological professionals in Pakistan.
 
 ## Concepts & Variables
+- [[absenteeism]] - The failure of an employee to report for scheduled work, often operationalized through frequency or duration of sick leave.
 - [[adaptive-performance]] - The ability to adjust behavior and performance in response to changing work demands and environmental conditions.
 - [[affective-commitment]] - Emotional attachment to an organization and desire to remain.
 - [[burnout]] - A syndrome characterized by exhaustion and disengagement from work, occurring in any occupational context.
@@ -47,6 +49,8 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[digital-training]] - Organizational efforts to improve employees' digital skills, knowledge, and competencies.
 - [[emotional-intelligence]] - Ability to identify, manage, and regulate one's own and others' emotions.
 - [[digital-talent-development]] - Systematic process of enhancing employees' digital skills and technical proficiency.
+- [[dedication]] - A positive attitude towards one's job characterized by a sense of significance, enthusiasm, inspiration, pride, and challenge.
+- [[exhaustion]] - The depletion of mental resources and severe fatigue resulting from prolonged exposure to high job demands.
 - [[growth-mindset]] - The belief that one's abilities and intelligence can be developed through effort, learning, and persistence.
 - [[green-innovative-behavior]] - Actions targeted at inventing and implementing sustainable solutions to achieve environmental goals.
 - [[green-organizational-climate]] - Shared values and perceptions within an organization that encourage eco-friendly actions.
@@ -76,12 +80,14 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[psychological-capital]] - Positive psychological resources characterized by self-efficacy, optimism, hope, and resilience.
 - [[psychological-ownership]] - Cognitive and emotional state of perceiving possession and attachment toward an organization or task.
 - [[psychological-empowerment]] - Motivational cognitions relating to meaning, competence, autonomy, and impact.
+- [[repetitive-strain-injury]] - A form of Work Related Upper Limb Disorder characterized by damage and pain caused by repetitive tasks and overexertion.
 - [[strategic-agility]] - An organization’s capacity to detect early signals of change and respond effectively by reconfiguring internal resources.
 - [[work-engagement]] - Fulfilling state of mind characterized by vigor, dedication, and absorption.
 - [[employee-loyalty]] - Psychological attachment, commitment, and willingness to remain with an organization.
 - [[kaizen-culture]] - Management philosophy focused on continuous, incremental improvement.
 - [[employee-compensation]] - Financial and non-financial rewards received in exchange for organizational contribution.
 - [[employee-performance]] - The work results achieved by an individual in carrying out assigned tasks based on skill, experience, sincerity, and time.
+- [[turnover-intentions]] - An employee's conscious and deliberate cognitive formulation to leave the organization in the near future.
 
 ## Theories
 - [[cognitive-affective-processing-system]] - Behavior output generated from the interaction of situations with internal cognitive and affective states.

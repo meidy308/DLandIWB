@@ -10,15 +10,15 @@ confidence: high
 
 **Summary**: A seminal theoretical framework explaining how job demands and job resources independently and interactively affect employee well-being, burnout, and performance.
 
-**Sources**: Demerouti et al. - 2001.md, Afif and Fitrianingrum - 2025.md, Zia et al. - 2024.md
+**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md, Afif and Fitrianingrum - 2025.md, Zia et al. - 2024.md
 
 ---
 
 The Job Demands-Resources (JD-R) model was foundationally introduced by Demerouti et al. (2001) as a framework to understand [[burnout]] across any occupational context. The core premise is that working conditions can be categorized into two broad categories: [[job-demands]] and [[job-resources]]. 
 
 The theory proposes two distinct, parallel processes:
-1. **Health impairment process**: Demanding aspects of work (high job demands) lead to constant overtaxing, draining an individual's energy, and eventually leading to exhaustion (source: Demerouti et al. - 2001.md, p. 502).
-2. **Motivational process**: A lack of job resources complicates the meeting of job demands, leading to withdrawal behavior and disengagement to protect oneself from further frustration (source: Demerouti et al. - 2001.md, p. 501-502).
+1. **Health impairment process**: Demanding aspects of work (high job demands) lead to constant overtaxing, draining an individual's energy, and eventually leading to health problems (e.g., [[exhaustion]], [[repetitive-strain-injury]]). This physical and mental strain can ultimately result in higher [[absenteeism]] (source: Demerouti et al. - 2001.md, p. 502; Bakker et al. - 2003.md, p. 409).
+2. **Motivational process**: A lack of job resources complicates the meeting of job demands, leading to withdrawal behavior and disengagement to protect oneself from further frustration (source: Demerouti et al. - 2001.md, p. 501-502). Conversely, high availability of resources fosters work involvement (such as [[affective-commitment]] and [[dedication]]), which acts as a full mediator to decrease [[turnover-intentions]] (source: Bakker et al. - 2003.md, p. 409).
 
 In the context of innovation, Job Demands-Resources (JD-R) Theory posits that the availability of job resources, such as leadership and organizational experience, can elevate employee engagement and subsequently foster [[innovative-work-behavior]] (source: Afif and Fitrianingrum - 2025.md, p. 3109-3110). 
 
@@ -27,6 +27,7 @@ Zia et al. (2024) specifically apply JD-R to the digital domain, conceptualizing
 ## Related pages
 
 - [[demerouti-et-al-2001]]
+- [[bakker-et-al-2003]]
 - [[afif-fitrianingrum-2025]]
 - [[zia-et-al-2024]]
 - [[job-demands]]
@@ -36,3 +37,9 @@ Zia et al. (2024) specifically apply JD-R to the digital domain, conceptualizing
 - [[digital-engagement]]
 - [[digital-communication]]
 - [[digital-training]]
+- [[exhaustion]]
+- [[repetitive-strain-injury]]
+- [[absenteeism]]
+- [[turnover-intentions]]
+- [[affective-commitment]]
+- [[dedication]]
