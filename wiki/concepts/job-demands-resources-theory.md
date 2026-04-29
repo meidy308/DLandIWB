@@ -10,7 +10,7 @@ confidence: high
 
 **Summary**: A formal theoretical framework explaining how job characteristics (demands and resources) independently and interactively affect employee well-being, burnout, and performance through dual psychological processes and reciprocal cycles.
 
-**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md, Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md, Bakker and Demerouti - 2017.md, Crawford et al. - 2010.md, Bakker et al. - 2023.md, Demerouti - 2022.md
+**Sources**: Demerouti et al. - 2001.md, Bakker et al. - 2003.md, Bakker and Demerouti - 2007.md, Bakker and Demerouti - 2014.md, Bakker and Demerouti - 2017.md, Crawford et al. - 2010.md, Bakker et al. - 2023.md, Demerouti - 2022.md, Scholze and Hecker - 2024.md
 
 ---
 
@@ -72,7 +72,7 @@ Interventions take place at organizational, leader, and individual levels:
 
 ## JD-R in the Digital Age
 
-The JD-R theory has been adapted to analyze [[digitalization-and-automation]]. Technology acts as a resource when it supports control and autonomy, but can become a demand if it leads to **[[digital-taylorism]]** (source: Demerouti - 2022.md, p. 1208).
+The JD-R theory has been adapted to analyze [[digitalization-and-automation]]. Technology acts as a resource when it supports control and autonomy, but can become a demand if it leads to **[[digital-taylorism]]** (source: Demerouti - 2022.md, p. 1208). Furthermore, Scholze and Hecker (2024) formally extended the model to explicitly include [[digital-job-demands]] (e.g., technology dependence, communication overload) which increase [[strain]] like [[technostress]], and [[digital-job-resources]] (e.g., enhanced collaboration, autonomy) which boost [[motivation]] (source: Scholze and Hecker - 2024.md, p. 3).
 
 ## Related pages
 
@@ -91,4 +91,6 @@ The JD-R theory has been adapted to analyze [[digitalization-and-automation]]. T
 - [[work-engagement]]
 - [[job-crafting]]
 - [[self-undermining]]
-
+- [[digital-job-demands]]
+- [[digital-job-resources]]
+- [[technostress]]

@@ -28,6 +28,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[khan-et-al-2025]] - Study investigating the influence of digital leadership on green innovative behavior through green organizational climate and strategic agility in Chinese software firms.
 - [[li-and-xiao-2023]] - Study investigating how E-leadership (Digital Leadership) drives innovation through psychological capital and affective commitment, moderated by power distance in China.
 - [[rahmandika-et-al-2025]] - Study on digital leadership, IWB, and performance among Gen Z/Y in Indonesia, highlighting a negative moderating effect of creativity.
+- [[scholze-and-hecker-2024]] - Study extending JD-R model with digital job demands and resources among white-collar employees.
 - [[nugroho-et-al-2025]] - Study on digital leadership influencing IWB through full mediation of organizational culture and work engagement in the construction sector.
 - [[sebetci-et-al-2025]] - Study on digital leadership impacting IWB and knowledge sharing via psychological ownership in the Turkish IT sector.
 - [[soediro-et-al-2025]] - Study on growth mindset, organizational climate, and digital leadership influencing IWB through the mediating role of creative process engagement among Indonesian lecturers.
@@ -60,6 +61,8 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[emotional-intelligence]] - Ability to identify, manage, and regulate one's own and others' emotions.
 - [[digital-talent-development]] - Systematic process of enhancing employees' digital skills and technical proficiency.
 - [[dedication]] - A positive attitude towards one's job characterized by a sense of significance, enthusiasm, inspiration, pride, and challenge.
+- [[digital-job-demands]] - The physical, psychological, social, and organizational aspects of work that require sustained effort due to the utilization of DICT.
+- [[digital-job-resources]] - The social, work, organizational, and developmental resources stemming from the use of DICT that mitigate demands and stimulate growth.
 - [[exhaustion]] - The depletion of mental resources and severe fatigue resulting from prolonged exposure to high job demands.
 - [[growth-mindset]] - The belief that one's abilities and intelligence can be developed through effort, learning, and persistence.
 - [[health-impairment-process]] - The energetic pathway in JD-R theory where chronic demands lead to exhaustion and ill-health.
@@ -70,6 +73,7 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[innovative-work-behavior]] - Generating, promoting, and implementing new ideas.
 - [[motivational-process]] - The pathway in JD-R theory where job resources fulfill psychological needs and lead to engagement.
 - [[knowledge-sharing-behavior]] - Process of exchanging ideas, expertise, and experiences for collective learning.
+- [[motivation]] - A positive psychological state and internal drive resulting from the availability of job resources.
 - [[intrinsic-motivation]] - Internal drive to act out of interest, satisfaction, or a desire to achieve personal goals.
 - [[meta-skills]] - Higher-order capabilities like cooperation, creativity, and problem-solving for adapting to technological change.
 - [[job-crafting]] - The self-initiated actions employees take to reshape their job boundaries by aligning their skills and resources with work demands.
@@ -101,9 +105,11 @@ Welcome to the digital leadership and innovative work behavior knowledge base.
 - [[psychological-empowerment]] - Motivational cognitions relating to meaning, competence, autonomy, and impact.
 - [[repetitive-strain-injury]] - A form of Work Related Upper Limb Disorder characterized by damage and pain caused by repetitive tasks and overexertion.
 - [[saliency-hypothesis]] - A proposition in JD-R theory stating that job resources boost engagement most when demands are high.
+- [[strain]] - The negative psychological and physiological outcomes resulting from prolonged exposure to job demands.
 - [[strategic-agility]] - An organization’s capacity to detect early signals of change and respond effectively by reconfiguring internal resources.
 - [[work-engagement]] - Fulfilling state of mind characterized by vigor, dedication, and absorption.
 - [[employee-loyalty]] - Psychological attachment, commitment, and willingness to remain with an organization.
+- [[technostress]] - The negative psychological impact and strain experienced by individuals due to their use of, or dependence on, digital technology in the workplace.
 - [[kaizen-culture]] - Management philosophy focused on continuous, incremental improvement.
 - [[employee-compensation]] - Financial and non-financial rewards received in exchange for organizational contribution.
 - [[employee-performance]] - The work results achieved by an individual in carrying out assigned tasks based on skill, experience, sincerity, and time.
